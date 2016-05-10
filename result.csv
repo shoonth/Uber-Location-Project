@@ -1,0 +1,3889 @@
+"","zone","forcasttime","forcastcount"
+"1","Airport",2014-07-01 00:00:00,31
+"2","Airport",2014-07-01 01:00:00,15
+"3","Airport",2014-07-01 03:00:00,12
+"4","Airport",2014-07-01 04:00:00,13
+"5","Airport",2014-07-01 05:00:00,17
+"6","Airport",2014-07-01 06:00:00,28
+"7","Airport",2014-07-01 07:00:00,41
+"8","Airport",2014-07-01 08:00:00,32
+"9","Airport",2014-07-01 09:00:00,19
+"10","Airport",2014-07-01 10:00:00,30
+"11","Airport",2014-07-01 11:00:00,36
+"12","Airport",2014-07-01 12:00:00,28
+"13","Airport",2014-07-01 13:00:00,34
+"14","Airport",2014-07-01 14:00:00,31
+"15","Airport",2014-07-01 15:00:00,47
+"16","Airport",2014-07-01 16:00:00,44
+"17","Airport",2014-07-01 17:00:00,37
+"18","Airport",2014-07-01 18:00:00,28
+"19","Airport",2014-07-01 19:00:00,37
+"20","Airport",2014-07-01 20:00:00,56
+"21","Airport",2014-07-01 21:00:00,43
+"22","Airport",2014-07-01 22:00:00,48
+"23","Airport",2014-07-01 23:00:00,48
+"24","Airport",2014-07-01 02:00:00,12
+"25","Allerton-Pelham Gardens",2014-07-01 00:00:00,2
+"26","Allerton-Pelham Gardens",2014-07-01 01:00:00,2
+"27","Allerton-Pelham Gardens",2014-07-01 03:00:00,2
+"28","Allerton-Pelham Gardens",2014-07-01 04:00:00,2
+"29","Allerton-Pelham Gardens",2014-07-01 05:00:00,2
+"30","Allerton-Pelham Gardens",2014-07-01 06:00:00,2
+"31","Allerton-Pelham Gardens",2014-07-01 07:00:00,2
+"32","Allerton-Pelham Gardens",2014-07-01 08:00:00,2
+"33","Allerton-Pelham Gardens",2014-07-01 09:00:00,2
+"34","Allerton-Pelham Gardens",2014-07-01 10:00:00,2
+"35","Allerton-Pelham Gardens",2014-07-01 11:00:00,2
+"36","Allerton-Pelham Gardens",2014-07-01 12:00:00,2
+"37","Allerton-Pelham Gardens",2014-07-01 13:00:00,2
+"38","Allerton-Pelham Gardens",2014-07-01 14:00:00,2
+"39","Allerton-Pelham Gardens",2014-07-01 15:00:00,2
+"40","Allerton-Pelham Gardens",2014-07-01 16:00:00,2
+"41","Allerton-Pelham Gardens",2014-07-01 17:00:00,2
+"42","Allerton-Pelham Gardens",2014-07-01 18:00:00,2
+"43","Allerton-Pelham Gardens",2014-07-01 19:00:00,2
+"44","Allerton-Pelham Gardens",2014-07-01 20:00:00,2
+"45","Allerton-Pelham Gardens",2014-07-01 21:00:00,2
+"46","Allerton-Pelham Gardens",2014-07-01 22:00:00,2
+"47","Allerton-Pelham Gardens",2014-07-01 23:00:00,2
+"48","Allerton-Pelham Gardens",2014-07-01 02:00:00,2
+"49","Astoria",2014-07-01 00:00:00,3
+"50","Astoria",2014-07-01 01:00:00,3
+"51","Astoria",2014-07-01 03:00:00,3
+"52","Astoria",2014-07-01 04:00:00,3
+"53","Astoria",2014-07-01 05:00:00,3
+"54","Astoria",2014-07-01 06:00:00,3
+"55","Astoria",2014-07-01 07:00:00,3
+"56","Astoria",2014-07-01 08:00:00,3
+"57","Astoria",2014-07-01 09:00:00,3
+"58","Astoria",2014-07-01 10:00:00,4
+"59","Astoria",2014-07-01 11:00:00,3
+"60","Astoria",2014-07-01 12:00:00,3
+"61","Astoria",2014-07-01 13:00:00,4
+"62","Astoria",2014-07-01 14:00:00,4
+"63","Astoria",2014-07-01 15:00:00,4
+"64","Astoria",2014-07-01 16:00:00,4
+"65","Astoria",2014-07-01 17:00:00,4
+"66","Astoria",2014-07-01 18:00:00,3
+"67","Astoria",2014-07-01 19:00:00,3
+"68","Astoria",2014-07-01 20:00:00,4
+"69","Astoria",2014-07-01 21:00:00,5
+"70","Astoria",2014-07-01 22:00:00,4
+"71","Astoria",2014-07-01 23:00:00,4
+"72","Astoria",2014-07-01 02:00:00,3
+"73","Auburndale",2014-07-01 00:00:00,2
+"74","Auburndale",2014-07-01 01:00:00,2
+"75","Auburndale",2014-07-01 03:00:00,2
+"76","Auburndale",2014-07-01 04:00:00,2
+"77","Auburndale",2014-07-01 05:00:00,2
+"78","Auburndale",2014-07-01 06:00:00,2
+"79","Auburndale",2014-07-01 07:00:00,2
+"80","Auburndale",2014-07-01 08:00:00,2
+"81","Auburndale",2014-07-01 09:00:00,2
+"82","Auburndale",2014-07-01 10:00:00,2
+"83","Auburndale",2014-07-01 11:00:00,2
+"84","Auburndale",2014-07-01 12:00:00,2
+"85","Auburndale",2014-07-01 13:00:00,2
+"86","Auburndale",2014-07-01 14:00:00,2
+"87","Auburndale",2014-07-01 15:00:00,2
+"88","Auburndale",2014-07-01 16:00:00,2
+"89","Auburndale",2014-07-01 17:00:00,2
+"90","Auburndale",2014-07-01 18:00:00,2
+"91","Auburndale",2014-07-01 19:00:00,2
+"92","Auburndale",2014-07-01 20:00:00,2
+"93","Auburndale",2014-07-01 21:00:00,2
+"94","Auburndale",2014-07-01 22:00:00,2
+"95","Auburndale",2014-07-01 23:00:00,2
+"96","Auburndale",2014-07-01 02:00:00,2
+"97","Baisley Park",2014-07-01 00:00:00,2
+"98","Baisley Park",2014-07-01 01:00:00,2
+"99","Baisley Park",2014-07-01 03:00:00,2
+"100","Baisley Park",2014-07-01 04:00:00,2
+"101","Baisley Park",2014-07-01 05:00:00,2
+"102","Baisley Park",2014-07-01 06:00:00,2
+"103","Baisley Park",2014-07-01 07:00:00,2
+"104","Baisley Park",2014-07-01 08:00:00,2
+"105","Baisley Park",2014-07-01 09:00:00,2
+"106","Baisley Park",2014-07-01 10:00:00,2
+"107","Baisley Park",2014-07-01 11:00:00,2
+"108","Baisley Park",2014-07-01 12:00:00,2
+"109","Baisley Park",2014-07-01 13:00:00,2
+"110","Baisley Park",2014-07-01 14:00:00,2
+"111","Baisley Park",2014-07-01 15:00:00,2
+"112","Baisley Park",2014-07-01 16:00:00,2
+"113","Baisley Park",2014-07-01 17:00:00,2
+"114","Baisley Park",2014-07-01 18:00:00,2
+"115","Baisley Park",2014-07-01 19:00:00,2
+"116","Baisley Park",2014-07-01 20:00:00,2
+"117","Baisley Park",2014-07-01 21:00:00,2
+"118","Baisley Park",2014-07-01 22:00:00,2
+"119","Baisley Park",2014-07-01 23:00:00,2
+"120","Baisley Park",2014-07-01 02:00:00,2
+"121","Bath Beach",2014-07-01 00:00:00,2
+"122","Bath Beach",2014-07-01 01:00:00,2
+"123","Bath Beach",2014-07-01 03:00:00,2
+"124","Bath Beach",2014-07-01 04:00:00,2
+"125","Bath Beach",2014-07-01 05:00:00,2
+"126","Bath Beach",2014-07-01 06:00:00,2
+"127","Bath Beach",2014-07-01 07:00:00,2
+"128","Bath Beach",2014-07-01 08:00:00,2
+"129","Bath Beach",2014-07-01 09:00:00,2
+"130","Bath Beach",2014-07-01 10:00:00,2
+"131","Bath Beach",2014-07-01 11:00:00,2
+"132","Bath Beach",2014-07-01 12:00:00,2
+"133","Bath Beach",2014-07-01 13:00:00,2
+"134","Bath Beach",2014-07-01 14:00:00,2
+"135","Bath Beach",2014-07-01 15:00:00,2
+"136","Bath Beach",2014-07-01 16:00:00,2
+"137","Bath Beach",2014-07-01 17:00:00,2
+"138","Bath Beach",2014-07-01 18:00:00,2
+"139","Bath Beach",2014-07-01 19:00:00,2
+"140","Bath Beach",2014-07-01 20:00:00,2
+"141","Bath Beach",2014-07-01 21:00:00,2
+"142","Bath Beach",2014-07-01 22:00:00,2
+"143","Bath Beach",2014-07-01 23:00:00,2
+"144","Bath Beach",2014-07-01 02:00:00,2
+"145","Battery Park City-Lower Manhattan",2014-07-01 00:00:00,15
+"146","Battery Park City-Lower Manhattan",2014-07-01 01:00:00,4
+"147","Battery Park City-Lower Manhattan",2014-07-01 03:00:00,4
+"148","Battery Park City-Lower Manhattan",2014-07-01 04:00:00,8
+"149","Battery Park City-Lower Manhattan",2014-07-01 05:00:00,12
+"150","Battery Park City-Lower Manhattan",2014-07-01 06:00:00,20
+"151","Battery Park City-Lower Manhattan",2014-07-01 07:00:00,21
+"152","Battery Park City-Lower Manhattan",2014-07-01 08:00:00,35
+"153","Battery Park City-Lower Manhattan",2014-07-01 09:00:00,29
+"154","Battery Park City-Lower Manhattan",2014-07-01 10:00:00,32
+"155","Battery Park City-Lower Manhattan",2014-07-01 11:00:00,39
+"156","Battery Park City-Lower Manhattan",2014-07-01 12:00:00,38
+"157","Battery Park City-Lower Manhattan",2014-07-01 13:00:00,37
+"158","Battery Park City-Lower Manhattan",2014-07-01 14:00:00,36
+"159","Battery Park City-Lower Manhattan",2014-07-01 15:00:00,63
+"160","Battery Park City-Lower Manhattan",2014-07-01 16:00:00,68
+"161","Battery Park City-Lower Manhattan",2014-07-01 17:00:00,64
+"162","Battery Park City-Lower Manhattan",2014-07-01 18:00:00,84
+"163","Battery Park City-Lower Manhattan",2014-07-01 19:00:00,63
+"164","Battery Park City-Lower Manhattan",2014-07-01 20:00:00,72
+"165","Battery Park City-Lower Manhattan",2014-07-01 21:00:00,38
+"166","Battery Park City-Lower Manhattan",2014-07-01 22:00:00,37
+"167","Battery Park City-Lower Manhattan",2014-07-01 23:00:00,13
+"168","Battery Park City-Lower Manhattan",2014-07-01 02:00:00,4
+"169","Bay Ridge",2014-07-01 00:00:00,3
+"170","Bay Ridge",2014-07-01 01:00:00,3
+"171","Bay Ridge",2014-07-01 03:00:00,3
+"172","Bay Ridge",2014-07-01 04:00:00,3
+"173","Bay Ridge",2014-07-01 05:00:00,3
+"174","Bay Ridge",2014-07-01 06:00:00,3
+"175","Bay Ridge",2014-07-01 07:00:00,3
+"176","Bay Ridge",2014-07-01 08:00:00,3
+"177","Bay Ridge",2014-07-01 09:00:00,3
+"178","Bay Ridge",2014-07-01 10:00:00,3
+"179","Bay Ridge",2014-07-01 11:00:00,3
+"180","Bay Ridge",2014-07-01 12:00:00,3
+"181","Bay Ridge",2014-07-01 13:00:00,3
+"182","Bay Ridge",2014-07-01 14:00:00,3
+"183","Bay Ridge",2014-07-01 15:00:00,3
+"184","Bay Ridge",2014-07-01 16:00:00,3
+"185","Bay Ridge",2014-07-01 17:00:00,3
+"186","Bay Ridge",2014-07-01 18:00:00,3
+"187","Bay Ridge",2014-07-01 19:00:00,3
+"188","Bay Ridge",2014-07-01 20:00:00,3
+"189","Bay Ridge",2014-07-01 21:00:00,3
+"190","Bay Ridge",2014-07-01 22:00:00,3
+"191","Bay Ridge",2014-07-01 23:00:00,3
+"192","Bay Ridge",2014-07-01 02:00:00,3
+"193","Bayside-Bayside Hills",2014-07-01 00:00:00,2
+"194","Bayside-Bayside Hills",2014-07-01 01:00:00,2
+"195","Bayside-Bayside Hills",2014-07-01 03:00:00,2
+"196","Bayside-Bayside Hills",2014-07-01 04:00:00,2
+"197","Bayside-Bayside Hills",2014-07-01 05:00:00,2
+"198","Bayside-Bayside Hills",2014-07-01 06:00:00,2
+"199","Bayside-Bayside Hills",2014-07-01 07:00:00,2
+"200","Bayside-Bayside Hills",2014-07-01 08:00:00,2
+"201","Bayside-Bayside Hills",2014-07-01 09:00:00,2
+"202","Bayside-Bayside Hills",2014-07-01 10:00:00,2
+"203","Bayside-Bayside Hills",2014-07-01 11:00:00,2
+"204","Bayside-Bayside Hills",2014-07-01 12:00:00,2
+"205","Bayside-Bayside Hills",2014-07-01 13:00:00,2
+"206","Bayside-Bayside Hills",2014-07-01 14:00:00,2
+"207","Bayside-Bayside Hills",2014-07-01 15:00:00,2
+"208","Bayside-Bayside Hills",2014-07-01 16:00:00,2
+"209","Bayside-Bayside Hills",2014-07-01 17:00:00,2
+"210","Bayside-Bayside Hills",2014-07-01 18:00:00,2
+"211","Bayside-Bayside Hills",2014-07-01 19:00:00,2
+"212","Bayside-Bayside Hills",2014-07-01 20:00:00,2
+"213","Bayside-Bayside Hills",2014-07-01 21:00:00,2
+"214","Bayside-Bayside Hills",2014-07-01 22:00:00,2
+"215","Bayside-Bayside Hills",2014-07-01 23:00:00,2
+"216","Bayside-Bayside Hills",2014-07-01 02:00:00,2
+"217","Bedford",2014-07-01 00:00:00,4
+"218","Bedford",2014-07-01 01:00:00,4
+"219","Bedford",2014-07-01 03:00:00,4
+"220","Bedford",2014-07-01 04:00:00,4
+"221","Bedford",2014-07-01 05:00:00,4
+"222","Bedford",2014-07-01 06:00:00,4
+"223","Bedford",2014-07-01 07:00:00,5
+"224","Bedford",2014-07-01 08:00:00,4
+"225","Bedford",2014-07-01 09:00:00,5
+"226","Bedford",2014-07-01 10:00:00,5
+"227","Bedford",2014-07-01 11:00:00,4
+"228","Bedford",2014-07-01 12:00:00,4
+"229","Bedford",2014-07-01 13:00:00,4
+"230","Bedford",2014-07-01 14:00:00,4
+"231","Bedford",2014-07-01 15:00:00,4
+"232","Bedford",2014-07-01 16:00:00,4
+"233","Bedford",2014-07-01 17:00:00,4
+"234","Bedford",2014-07-01 18:00:00,4
+"235","Bedford",2014-07-01 19:00:00,5
+"236","Bedford",2014-07-01 20:00:00,6
+"237","Bedford",2014-07-01 21:00:00,4
+"238","Bedford",2014-07-01 22:00:00,4
+"239","Bedford",2014-07-01 23:00:00,4
+"240","Bedford",2014-07-01 02:00:00,4
+"241","Bellerose",2014-07-01 00:00:00,2
+"242","Bellerose",2014-07-01 01:00:00,2
+"243","Bellerose",2014-07-01 03:00:00,2
+"244","Bellerose",2014-07-01 04:00:00,2
+"245","Bellerose",2014-07-01 05:00:00,2
+"246","Bellerose",2014-07-01 06:00:00,2
+"247","Bellerose",2014-07-01 07:00:00,2
+"248","Bellerose",2014-07-01 08:00:00,2
+"249","Bellerose",2014-07-01 09:00:00,2
+"250","Bellerose",2014-07-01 10:00:00,2
+"251","Bellerose",2014-07-01 11:00:00,2
+"252","Bellerose",2014-07-01 12:00:00,2
+"253","Bellerose",2014-07-01 13:00:00,2
+"254","Bellerose",2014-07-01 14:00:00,2
+"255","Bellerose",2014-07-01 15:00:00,2
+"256","Bellerose",2014-07-01 16:00:00,2
+"257","Bellerose",2014-07-01 17:00:00,2
+"258","Bellerose",2014-07-01 18:00:00,2
+"259","Bellerose",2014-07-01 19:00:00,2
+"260","Bellerose",2014-07-01 20:00:00,2
+"261","Bellerose",2014-07-01 21:00:00,2
+"262","Bellerose",2014-07-01 22:00:00,2
+"263","Bellerose",2014-07-01 23:00:00,2
+"264","Bellerose",2014-07-01 02:00:00,2
+"265","Belmont",2014-07-01 00:00:00,2
+"266","Belmont",2014-07-01 01:00:00,2
+"267","Belmont",2014-07-01 03:00:00,2
+"268","Belmont",2014-07-01 04:00:00,2
+"269","Belmont",2014-07-01 05:00:00,2
+"270","Belmont",2014-07-01 06:00:00,2
+"271","Belmont",2014-07-01 07:00:00,2
+"272","Belmont",2014-07-01 08:00:00,2
+"273","Belmont",2014-07-01 09:00:00,2
+"274","Belmont",2014-07-01 10:00:00,2
+"275","Belmont",2014-07-01 11:00:00,2
+"276","Belmont",2014-07-01 12:00:00,2
+"277","Belmont",2014-07-01 13:00:00,2
+"278","Belmont",2014-07-01 14:00:00,2
+"279","Belmont",2014-07-01 15:00:00,2
+"280","Belmont",2014-07-01 16:00:00,2
+"281","Belmont",2014-07-01 17:00:00,2
+"282","Belmont",2014-07-01 18:00:00,2
+"283","Belmont",2014-07-01 19:00:00,2
+"284","Belmont",2014-07-01 20:00:00,2
+"285","Belmont",2014-07-01 21:00:00,2
+"286","Belmont",2014-07-01 22:00:00,2
+"287","Belmont",2014-07-01 23:00:00,2
+"288","Belmont",2014-07-01 02:00:00,2
+"289","Bensonhurst East",2014-07-01 00:00:00,2
+"290","Bensonhurst East",2014-07-01 01:00:00,2
+"291","Bensonhurst East",2014-07-01 03:00:00,2
+"292","Bensonhurst East",2014-07-01 04:00:00,2
+"293","Bensonhurst East",2014-07-01 05:00:00,2
+"294","Bensonhurst East",2014-07-01 06:00:00,2
+"295","Bensonhurst East",2014-07-01 07:00:00,2
+"296","Bensonhurst East",2014-07-01 08:00:00,2
+"297","Bensonhurst East",2014-07-01 09:00:00,2
+"298","Bensonhurst East",2014-07-01 10:00:00,2
+"299","Bensonhurst East",2014-07-01 11:00:00,2
+"300","Bensonhurst East",2014-07-01 12:00:00,2
+"301","Bensonhurst East",2014-07-01 13:00:00,2
+"302","Bensonhurst East",2014-07-01 14:00:00,2
+"303","Bensonhurst East",2014-07-01 15:00:00,2
+"304","Bensonhurst East",2014-07-01 16:00:00,2
+"305","Bensonhurst East",2014-07-01 17:00:00,2
+"306","Bensonhurst East",2014-07-01 18:00:00,2
+"307","Bensonhurst East",2014-07-01 19:00:00,2
+"308","Bensonhurst East",2014-07-01 20:00:00,2
+"309","Bensonhurst East",2014-07-01 21:00:00,2
+"310","Bensonhurst East",2014-07-01 22:00:00,2
+"311","Bensonhurst East",2014-07-01 23:00:00,2
+"312","Bensonhurst East",2014-07-01 02:00:00,2
+"313","Bensonhurst West",2014-07-01 00:00:00,2
+"314","Bensonhurst West",2014-07-01 01:00:00,2
+"315","Bensonhurst West",2014-07-01 03:00:00,2
+"316","Bensonhurst West",2014-07-01 04:00:00,2
+"317","Bensonhurst West",2014-07-01 05:00:00,2
+"318","Bensonhurst West",2014-07-01 06:00:00,2
+"319","Bensonhurst West",2014-07-01 07:00:00,2
+"320","Bensonhurst West",2014-07-01 08:00:00,2
+"321","Bensonhurst West",2014-07-01 09:00:00,2
+"322","Bensonhurst West",2014-07-01 10:00:00,2
+"323","Bensonhurst West",2014-07-01 11:00:00,2
+"324","Bensonhurst West",2014-07-01 12:00:00,2
+"325","Bensonhurst West",2014-07-01 13:00:00,2
+"326","Bensonhurst West",2014-07-01 14:00:00,2
+"327","Bensonhurst West",2014-07-01 15:00:00,2
+"328","Bensonhurst West",2014-07-01 16:00:00,2
+"329","Bensonhurst West",2014-07-01 17:00:00,2
+"330","Bensonhurst West",2014-07-01 18:00:00,2
+"331","Bensonhurst West",2014-07-01 19:00:00,2
+"332","Bensonhurst West",2014-07-01 20:00:00,2
+"333","Bensonhurst West",2014-07-01 21:00:00,2
+"334","Bensonhurst West",2014-07-01 22:00:00,2
+"335","Bensonhurst West",2014-07-01 23:00:00,2
+"336","Bensonhurst West",2014-07-01 02:00:00,2
+"337","Borough Park",2014-07-01 00:00:00,2
+"338","Borough Park",2014-07-01 01:00:00,2
+"339","Borough Park",2014-07-01 03:00:00,2
+"340","Borough Park",2014-07-01 04:00:00,2
+"341","Borough Park",2014-07-01 05:00:00,2
+"342","Borough Park",2014-07-01 06:00:00,2
+"343","Borough Park",2014-07-01 07:00:00,2
+"344","Borough Park",2014-07-01 08:00:00,2
+"345","Borough Park",2014-07-01 09:00:00,2
+"346","Borough Park",2014-07-01 10:00:00,2
+"347","Borough Park",2014-07-01 11:00:00,2
+"348","Borough Park",2014-07-01 12:00:00,2
+"349","Borough Park",2014-07-01 13:00:00,2
+"350","Borough Park",2014-07-01 14:00:00,2
+"351","Borough Park",2014-07-01 15:00:00,2
+"352","Borough Park",2014-07-01 16:00:00,2
+"353","Borough Park",2014-07-01 17:00:00,2
+"354","Borough Park",2014-07-01 18:00:00,2
+"355","Borough Park",2014-07-01 19:00:00,2
+"356","Borough Park",2014-07-01 20:00:00,2
+"357","Borough Park",2014-07-01 21:00:00,2
+"358","Borough Park",2014-07-01 22:00:00,2
+"359","Borough Park",2014-07-01 23:00:00,2
+"360","Borough Park",2014-07-01 02:00:00,2
+"361","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 00:00:00,2
+"362","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 01:00:00,2
+"363","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 03:00:00,2
+"364","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 04:00:00,2
+"365","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 05:00:00,2
+"366","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 06:00:00,2
+"367","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 07:00:00,2
+"368","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 08:00:00,2
+"369","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 09:00:00,2
+"370","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 10:00:00,2
+"371","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 11:00:00,2
+"372","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 12:00:00,2
+"373","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 13:00:00,2
+"374","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 14:00:00,2
+"375","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 15:00:00,2
+"376","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 16:00:00,2
+"377","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 17:00:00,2
+"378","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 18:00:00,2
+"379","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 19:00:00,2
+"380","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 20:00:00,2
+"381","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 21:00:00,2
+"382","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 22:00:00,2
+"383","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 23:00:00,2
+"384","Breezy Point-Belle Harbor-Rockaway Park-Broad Channel",2014-07-01 02:00:00,2
+"385","Briarwood-Jamaica Hills",2014-07-01 00:00:00,2
+"386","Briarwood-Jamaica Hills",2014-07-01 01:00:00,2
+"387","Briarwood-Jamaica Hills",2014-07-01 03:00:00,2
+"388","Briarwood-Jamaica Hills",2014-07-01 04:00:00,2
+"389","Briarwood-Jamaica Hills",2014-07-01 05:00:00,2
+"390","Briarwood-Jamaica Hills",2014-07-01 06:00:00,2
+"391","Briarwood-Jamaica Hills",2014-07-01 07:00:00,2
+"392","Briarwood-Jamaica Hills",2014-07-01 08:00:00,2
+"393","Briarwood-Jamaica Hills",2014-07-01 09:00:00,2
+"394","Briarwood-Jamaica Hills",2014-07-01 10:00:00,2
+"395","Briarwood-Jamaica Hills",2014-07-01 11:00:00,2
+"396","Briarwood-Jamaica Hills",2014-07-01 12:00:00,2
+"397","Briarwood-Jamaica Hills",2014-07-01 13:00:00,2
+"398","Briarwood-Jamaica Hills",2014-07-01 14:00:00,2
+"399","Briarwood-Jamaica Hills",2014-07-01 15:00:00,2
+"400","Briarwood-Jamaica Hills",2014-07-01 16:00:00,2
+"401","Briarwood-Jamaica Hills",2014-07-01 17:00:00,2
+"402","Briarwood-Jamaica Hills",2014-07-01 18:00:00,2
+"403","Briarwood-Jamaica Hills",2014-07-01 19:00:00,2
+"404","Briarwood-Jamaica Hills",2014-07-01 20:00:00,2
+"405","Briarwood-Jamaica Hills",2014-07-01 21:00:00,2
+"406","Briarwood-Jamaica Hills",2014-07-01 22:00:00,2
+"407","Briarwood-Jamaica Hills",2014-07-01 23:00:00,2
+"408","Briarwood-Jamaica Hills",2014-07-01 02:00:00,2
+"409","Brighton Beach",2014-07-01 00:00:00,2
+"410","Brighton Beach",2014-07-01 01:00:00,2
+"411","Brighton Beach",2014-07-01 03:00:00,2
+"412","Brighton Beach",2014-07-01 04:00:00,2
+"413","Brighton Beach",2014-07-01 05:00:00,2
+"414","Brighton Beach",2014-07-01 06:00:00,2
+"415","Brighton Beach",2014-07-01 07:00:00,2
+"416","Brighton Beach",2014-07-01 08:00:00,2
+"417","Brighton Beach",2014-07-01 09:00:00,2
+"418","Brighton Beach",2014-07-01 10:00:00,2
+"419","Brighton Beach",2014-07-01 11:00:00,2
+"420","Brighton Beach",2014-07-01 12:00:00,2
+"421","Brighton Beach",2014-07-01 13:00:00,2
+"422","Brighton Beach",2014-07-01 14:00:00,2
+"423","Brighton Beach",2014-07-01 15:00:00,2
+"424","Brighton Beach",2014-07-01 16:00:00,2
+"425","Brighton Beach",2014-07-01 17:00:00,2
+"426","Brighton Beach",2014-07-01 18:00:00,2
+"427","Brighton Beach",2014-07-01 19:00:00,2
+"428","Brighton Beach",2014-07-01 20:00:00,2
+"429","Brighton Beach",2014-07-01 21:00:00,2
+"430","Brighton Beach",2014-07-01 22:00:00,2
+"431","Brighton Beach",2014-07-01 23:00:00,2
+"432","Brighton Beach",2014-07-01 02:00:00,2
+"433","Brooklyn Heights-Cobble Hill",2014-07-01 00:00:00,5
+"434","Brooklyn Heights-Cobble Hill",2014-07-01 01:00:00,5
+"435","Brooklyn Heights-Cobble Hill",2014-07-01 03:00:00,5
+"436","Brooklyn Heights-Cobble Hill",2014-07-01 04:00:00,4
+"437","Brooklyn Heights-Cobble Hill",2014-07-01 05:00:00,4
+"438","Brooklyn Heights-Cobble Hill",2014-07-01 06:00:00,5
+"439","Brooklyn Heights-Cobble Hill",2014-07-01 07:00:00,5
+"440","Brooklyn Heights-Cobble Hill",2014-07-01 08:00:00,7
+"441","Brooklyn Heights-Cobble Hill",2014-07-01 09:00:00,6
+"442","Brooklyn Heights-Cobble Hill",2014-07-01 10:00:00,6
+"443","Brooklyn Heights-Cobble Hill",2014-07-01 11:00:00,6
+"444","Brooklyn Heights-Cobble Hill",2014-07-01 12:00:00,4
+"445","Brooklyn Heights-Cobble Hill",2014-07-01 13:00:00,5
+"446","Brooklyn Heights-Cobble Hill",2014-07-01 14:00:00,5
+"447","Brooklyn Heights-Cobble Hill",2014-07-01 15:00:00,5
+"448","Brooklyn Heights-Cobble Hill",2014-07-01 16:00:00,6
+"449","Brooklyn Heights-Cobble Hill",2014-07-01 17:00:00,5
+"450","Brooklyn Heights-Cobble Hill",2014-07-01 18:00:00,6
+"451","Brooklyn Heights-Cobble Hill",2014-07-01 19:00:00,5
+"452","Brooklyn Heights-Cobble Hill",2014-07-01 20:00:00,6
+"453","Brooklyn Heights-Cobble Hill",2014-07-01 21:00:00,7
+"454","Brooklyn Heights-Cobble Hill",2014-07-01 22:00:00,7
+"455","Brooklyn Heights-Cobble Hill",2014-07-01 23:00:00,5
+"456","Brooklyn Heights-Cobble Hill",2014-07-01 02:00:00,5
+"457","Brownsville",2014-07-01 00:00:00,2
+"458","Brownsville",2014-07-01 01:00:00,2
+"459","Brownsville",2014-07-01 03:00:00,2
+"460","Brownsville",2014-07-01 04:00:00,2
+"461","Brownsville",2014-07-01 05:00:00,2
+"462","Brownsville",2014-07-01 06:00:00,2
+"463","Brownsville",2014-07-01 07:00:00,2
+"464","Brownsville",2014-07-01 08:00:00,2
+"465","Brownsville",2014-07-01 09:00:00,2
+"466","Brownsville",2014-07-01 10:00:00,2
+"467","Brownsville",2014-07-01 11:00:00,2
+"468","Brownsville",2014-07-01 12:00:00,2
+"469","Brownsville",2014-07-01 13:00:00,2
+"470","Brownsville",2014-07-01 14:00:00,2
+"471","Brownsville",2014-07-01 15:00:00,2
+"472","Brownsville",2014-07-01 16:00:00,2
+"473","Brownsville",2014-07-01 17:00:00,2
+"474","Brownsville",2014-07-01 18:00:00,2
+"475","Brownsville",2014-07-01 19:00:00,2
+"476","Brownsville",2014-07-01 20:00:00,2
+"477","Brownsville",2014-07-01 21:00:00,2
+"478","Brownsville",2014-07-01 22:00:00,2
+"479","Brownsville",2014-07-01 23:00:00,2
+"480","Brownsville",2014-07-01 02:00:00,2
+"481","Bushwick North",2014-07-01 00:00:00,4
+"482","Bushwick North",2014-07-01 01:00:00,3
+"483","Bushwick North",2014-07-01 03:00:00,3
+"484","Bushwick North",2014-07-01 04:00:00,3
+"485","Bushwick North",2014-07-01 05:00:00,3
+"486","Bushwick North",2014-07-01 06:00:00,3
+"487","Bushwick North",2014-07-01 07:00:00,4
+"488","Bushwick North",2014-07-01 08:00:00,4
+"489","Bushwick North",2014-07-01 09:00:00,4
+"490","Bushwick North",2014-07-01 10:00:00,4
+"491","Bushwick North",2014-07-01 11:00:00,4
+"492","Bushwick North",2014-07-01 12:00:00,4
+"493","Bushwick North",2014-07-01 13:00:00,4
+"494","Bushwick North",2014-07-01 14:00:00,4
+"495","Bushwick North",2014-07-01 15:00:00,4
+"496","Bushwick North",2014-07-01 16:00:00,4
+"497","Bushwick North",2014-07-01 17:00:00,3
+"498","Bushwick North",2014-07-01 18:00:00,3
+"499","Bushwick North",2014-07-01 19:00:00,3
+"500","Bushwick North",2014-07-01 20:00:00,3
+"501","Bushwick North",2014-07-01 21:00:00,3
+"502","Bushwick North",2014-07-01 22:00:00,3
+"503","Bushwick North",2014-07-01 23:00:00,4
+"504","Bushwick North",2014-07-01 02:00:00,3
+"505","Bushwick South",2014-07-01 00:00:00,3
+"506","Bushwick South",2014-07-01 01:00:00,3
+"507","Bushwick South",2014-07-01 03:00:00,3
+"508","Bushwick South",2014-07-01 04:00:00,3
+"509","Bushwick South",2014-07-01 05:00:00,3
+"510","Bushwick South",2014-07-01 06:00:00,4
+"511","Bushwick South",2014-07-01 07:00:00,3
+"512","Bushwick South",2014-07-01 08:00:00,3
+"513","Bushwick South",2014-07-01 09:00:00,4
+"514","Bushwick South",2014-07-01 10:00:00,5
+"515","Bushwick South",2014-07-01 11:00:00,4
+"516","Bushwick South",2014-07-01 12:00:00,3
+"517","Bushwick South",2014-07-01 13:00:00,5
+"518","Bushwick South",2014-07-01 14:00:00,4
+"519","Bushwick South",2014-07-01 15:00:00,6
+"520","Bushwick South",2014-07-01 16:00:00,6
+"521","Bushwick South",2014-07-01 17:00:00,4
+"522","Bushwick South",2014-07-01 18:00:00,5
+"523","Bushwick South",2014-07-01 19:00:00,4
+"524","Bushwick South",2014-07-01 20:00:00,5
+"525","Bushwick South",2014-07-01 21:00:00,4
+"526","Bushwick South",2014-07-01 22:00:00,5
+"527","Bushwick South",2014-07-01 23:00:00,4
+"528","Bushwick South",2014-07-01 02:00:00,3
+"529","Cambria Heights",2014-07-01 00:00:00,2
+"530","Cambria Heights",2014-07-01 01:00:00,2
+"531","Cambria Heights",2014-07-01 03:00:00,2
+"532","Cambria Heights",2014-07-01 04:00:00,2
+"533","Cambria Heights",2014-07-01 05:00:00,2
+"534","Cambria Heights",2014-07-01 06:00:00,2
+"535","Cambria Heights",2014-07-01 07:00:00,2
+"536","Cambria Heights",2014-07-01 08:00:00,2
+"537","Cambria Heights",2014-07-01 09:00:00,2
+"538","Cambria Heights",2014-07-01 10:00:00,2
+"539","Cambria Heights",2014-07-01 11:00:00,2
+"540","Cambria Heights",2014-07-01 12:00:00,2
+"541","Cambria Heights",2014-07-01 13:00:00,2
+"542","Cambria Heights",2014-07-01 14:00:00,2
+"543","Cambria Heights",2014-07-01 15:00:00,2
+"544","Cambria Heights",2014-07-01 16:00:00,2
+"545","Cambria Heights",2014-07-01 17:00:00,2
+"546","Cambria Heights",2014-07-01 18:00:00,2
+"547","Cambria Heights",2014-07-01 19:00:00,2
+"548","Cambria Heights",2014-07-01 20:00:00,2
+"549","Cambria Heights",2014-07-01 21:00:00,2
+"550","Cambria Heights",2014-07-01 22:00:00,2
+"551","Cambria Heights",2014-07-01 23:00:00,2
+"552","Cambria Heights",2014-07-01 02:00:00,2
+"553","Canarsie",2014-07-01 00:00:00,2
+"554","Canarsie",2014-07-01 01:00:00,2
+"555","Canarsie",2014-07-01 03:00:00,2
+"556","Canarsie",2014-07-01 04:00:00,2
+"557","Canarsie",2014-07-01 05:00:00,2
+"558","Canarsie",2014-07-01 06:00:00,2
+"559","Canarsie",2014-07-01 07:00:00,2
+"560","Canarsie",2014-07-01 08:00:00,2
+"561","Canarsie",2014-07-01 09:00:00,2
+"562","Canarsie",2014-07-01 10:00:00,2
+"563","Canarsie",2014-07-01 11:00:00,2
+"564","Canarsie",2014-07-01 12:00:00,2
+"565","Canarsie",2014-07-01 13:00:00,2
+"566","Canarsie",2014-07-01 14:00:00,2
+"567","Canarsie",2014-07-01 15:00:00,2
+"568","Canarsie",2014-07-01 16:00:00,2
+"569","Canarsie",2014-07-01 17:00:00,2
+"570","Canarsie",2014-07-01 18:00:00,2
+"571","Canarsie",2014-07-01 19:00:00,2
+"572","Canarsie",2014-07-01 20:00:00,2
+"573","Canarsie",2014-07-01 21:00:00,2
+"574","Canarsie",2014-07-01 22:00:00,2
+"575","Canarsie",2014-07-01 23:00:00,2
+"576","Canarsie",2014-07-01 02:00:00,2
+"577","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 00:00:00,6
+"578","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 01:00:00,6
+"579","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 03:00:00,6
+"580","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 04:00:00,6
+"581","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 05:00:00,5
+"582","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 06:00:00,5
+"583","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 07:00:00,7
+"584","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 08:00:00,9
+"585","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 09:00:00,12
+"586","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 10:00:00,7
+"587","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 11:00:00,5
+"588","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 12:00:00,5
+"589","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 13:00:00,9
+"590","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 14:00:00,6
+"591","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 15:00:00,6
+"592","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 16:00:00,5
+"593","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 17:00:00,8
+"594","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 18:00:00,9
+"595","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 19:00:00,7
+"596","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 20:00:00,6
+"597","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 21:00:00,10
+"598","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 22:00:00,12
+"599","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 23:00:00,8
+"600","Carroll Gardens-Columbia Street-Red Hook",2014-07-01 02:00:00,6
+"601","Central Harlem North-Polo Grounds",2014-07-01 00:00:00,3
+"602","Central Harlem North-Polo Grounds",2014-07-01 01:00:00,3
+"603","Central Harlem North-Polo Grounds",2014-07-01 03:00:00,3
+"604","Central Harlem North-Polo Grounds",2014-07-01 04:00:00,3
+"605","Central Harlem North-Polo Grounds",2014-07-01 05:00:00,3
+"606","Central Harlem North-Polo Grounds",2014-07-01 06:00:00,3
+"607","Central Harlem North-Polo Grounds",2014-07-01 07:00:00,3
+"608","Central Harlem North-Polo Grounds",2014-07-01 08:00:00,3
+"609","Central Harlem North-Polo Grounds",2014-07-01 09:00:00,3
+"610","Central Harlem North-Polo Grounds",2014-07-01 10:00:00,3
+"611","Central Harlem North-Polo Grounds",2014-07-01 11:00:00,3
+"612","Central Harlem North-Polo Grounds",2014-07-01 12:00:00,3
+"613","Central Harlem North-Polo Grounds",2014-07-01 13:00:00,3
+"614","Central Harlem North-Polo Grounds",2014-07-01 14:00:00,3
+"615","Central Harlem North-Polo Grounds",2014-07-01 15:00:00,3
+"616","Central Harlem North-Polo Grounds",2014-07-01 16:00:00,3
+"617","Central Harlem North-Polo Grounds",2014-07-01 17:00:00,3
+"618","Central Harlem North-Polo Grounds",2014-07-01 18:00:00,3
+"619","Central Harlem North-Polo Grounds",2014-07-01 19:00:00,3
+"620","Central Harlem North-Polo Grounds",2014-07-01 20:00:00,3
+"621","Central Harlem North-Polo Grounds",2014-07-01 21:00:00,3
+"622","Central Harlem North-Polo Grounds",2014-07-01 22:00:00,3
+"623","Central Harlem North-Polo Grounds",2014-07-01 23:00:00,3
+"624","Central Harlem North-Polo Grounds",2014-07-01 02:00:00,3
+"625","Central Harlem South",2014-07-01 00:00:00,4
+"626","Central Harlem South",2014-07-01 01:00:00,4
+"627","Central Harlem South",2014-07-01 03:00:00,4
+"628","Central Harlem South",2014-07-01 04:00:00,4
+"629","Central Harlem South",2014-07-01 05:00:00,4
+"630","Central Harlem South",2014-07-01 06:00:00,3
+"631","Central Harlem South",2014-07-01 07:00:00,3
+"632","Central Harlem South",2014-07-01 08:00:00,3
+"633","Central Harlem South",2014-07-01 09:00:00,4
+"634","Central Harlem South",2014-07-01 10:00:00,4
+"635","Central Harlem South",2014-07-01 11:00:00,4
+"636","Central Harlem South",2014-07-01 12:00:00,4
+"637","Central Harlem South",2014-07-01 13:00:00,3
+"638","Central Harlem South",2014-07-01 14:00:00,3
+"639","Central Harlem South",2014-07-01 15:00:00,4
+"640","Central Harlem South",2014-07-01 16:00:00,4
+"641","Central Harlem South",2014-07-01 17:00:00,3
+"642","Central Harlem South",2014-07-01 18:00:00,3
+"643","Central Harlem South",2014-07-01 19:00:00,4
+"644","Central Harlem South",2014-07-01 20:00:00,4
+"645","Central Harlem South",2014-07-01 21:00:00,4
+"646","Central Harlem South",2014-07-01 22:00:00,5
+"647","Central Harlem South",2014-07-01 23:00:00,3
+"648","Central Harlem South",2014-07-01 02:00:00,4
+"649","Chinatown",2014-07-01 00:00:00,15
+"650","Chinatown",2014-07-01 01:00:00,9
+"651","Chinatown",2014-07-01 03:00:00,9
+"652","Chinatown",2014-07-01 04:00:00,5
+"653","Chinatown",2014-07-01 05:00:00,8
+"654","Chinatown",2014-07-01 06:00:00,13
+"655","Chinatown",2014-07-01 07:00:00,15
+"656","Chinatown",2014-07-01 08:00:00,23
+"657","Chinatown",2014-07-01 09:00:00,22
+"658","Chinatown",2014-07-01 10:00:00,15
+"659","Chinatown",2014-07-01 11:00:00,13
+"660","Chinatown",2014-07-01 12:00:00,13
+"661","Chinatown",2014-07-01 13:00:00,17
+"662","Chinatown",2014-07-01 14:00:00,17
+"663","Chinatown",2014-07-01 15:00:00,13
+"664","Chinatown",2014-07-01 16:00:00,14
+"665","Chinatown",2014-07-01 17:00:00,13
+"666","Chinatown",2014-07-01 18:00:00,20
+"667","Chinatown",2014-07-01 19:00:00,21
+"668","Chinatown",2014-07-01 20:00:00,20
+"669","Chinatown",2014-07-01 21:00:00,16
+"670","Chinatown",2014-07-01 22:00:00,22
+"671","Chinatown",2014-07-01 23:00:00,21
+"672","Chinatown",2014-07-01 02:00:00,9
+"673","Claremont-Bathgate",2014-07-01 00:00:00,2
+"674","Claremont-Bathgate",2014-07-01 01:00:00,2
+"675","Claremont-Bathgate",2014-07-01 03:00:00,2
+"676","Claremont-Bathgate",2014-07-01 04:00:00,2
+"677","Claremont-Bathgate",2014-07-01 05:00:00,2
+"678","Claremont-Bathgate",2014-07-01 06:00:00,2
+"679","Claremont-Bathgate",2014-07-01 07:00:00,2
+"680","Claremont-Bathgate",2014-07-01 08:00:00,2
+"681","Claremont-Bathgate",2014-07-01 09:00:00,2
+"682","Claremont-Bathgate",2014-07-01 10:00:00,2
+"683","Claremont-Bathgate",2014-07-01 11:00:00,2
+"684","Claremont-Bathgate",2014-07-01 12:00:00,2
+"685","Claremont-Bathgate",2014-07-01 13:00:00,2
+"686","Claremont-Bathgate",2014-07-01 14:00:00,2
+"687","Claremont-Bathgate",2014-07-01 15:00:00,2
+"688","Claremont-Bathgate",2014-07-01 16:00:00,2
+"689","Claremont-Bathgate",2014-07-01 17:00:00,2
+"690","Claremont-Bathgate",2014-07-01 18:00:00,2
+"691","Claremont-Bathgate",2014-07-01 19:00:00,2
+"692","Claremont-Bathgate",2014-07-01 20:00:00,2
+"693","Claremont-Bathgate",2014-07-01 21:00:00,2
+"694","Claremont-Bathgate",2014-07-01 22:00:00,2
+"695","Claremont-Bathgate",2014-07-01 23:00:00,2
+"696","Claremont-Bathgate",2014-07-01 02:00:00,2
+"697","Clinton",2014-07-01 00:00:00,16
+"698","Clinton",2014-07-01 01:00:00,8
+"699","Clinton",2014-07-01 03:00:00,11
+"700","Clinton",2014-07-01 04:00:00,11
+"701","Clinton",2014-07-01 05:00:00,12
+"702","Clinton",2014-07-01 06:00:00,12
+"703","Clinton",2014-07-01 07:00:00,23
+"704","Clinton",2014-07-01 08:00:00,39
+"705","Clinton",2014-07-01 09:00:00,36
+"706","Clinton",2014-07-01 10:00:00,20
+"707","Clinton",2014-07-01 11:00:00,26
+"708","Clinton",2014-07-01 12:00:00,23
+"709","Clinton",2014-07-01 13:00:00,27
+"710","Clinton",2014-07-01 14:00:00,35
+"711","Clinton",2014-07-01 15:00:00,26
+"712","Clinton",2014-07-01 16:00:00,34
+"713","Clinton",2014-07-01 17:00:00,21
+"714","Clinton",2014-07-01 18:00:00,47
+"715","Clinton",2014-07-01 19:00:00,38
+"716","Clinton",2014-07-01 20:00:00,31
+"717","Clinton",2014-07-01 21:00:00,32
+"718","Clinton",2014-07-01 22:00:00,29
+"719","Clinton",2014-07-01 23:00:00,21
+"720","Clinton",2014-07-01 02:00:00,11
+"721","Clinton Hill",2014-07-01 00:00:00,5
+"722","Clinton Hill",2014-07-01 01:00:00,4
+"723","Clinton Hill",2014-07-01 03:00:00,4
+"724","Clinton Hill",2014-07-01 04:00:00,4
+"725","Clinton Hill",2014-07-01 05:00:00,5
+"726","Clinton Hill",2014-07-01 06:00:00,5
+"727","Clinton Hill",2014-07-01 07:00:00,5
+"728","Clinton Hill",2014-07-01 08:00:00,6
+"729","Clinton Hill",2014-07-01 09:00:00,7
+"730","Clinton Hill",2014-07-01 10:00:00,5
+"731","Clinton Hill",2014-07-01 11:00:00,5
+"732","Clinton Hill",2014-07-01 12:00:00,6
+"733","Clinton Hill",2014-07-01 13:00:00,5
+"734","Clinton Hill",2014-07-01 14:00:00,4
+"735","Clinton Hill",2014-07-01 15:00:00,5
+"736","Clinton Hill",2014-07-01 16:00:00,4
+"737","Clinton Hill",2014-07-01 17:00:00,4
+"738","Clinton Hill",2014-07-01 18:00:00,4
+"739","Clinton Hill",2014-07-01 19:00:00,6
+"740","Clinton Hill",2014-07-01 20:00:00,6
+"741","Clinton Hill",2014-07-01 21:00:00,4
+"742","Clinton Hill",2014-07-01 22:00:00,4
+"743","Clinton Hill",2014-07-01 23:00:00,4
+"744","Clinton Hill",2014-07-01 02:00:00,4
+"745","Co-op City",2014-07-01 00:00:00,2
+"746","Co-op City",2014-07-01 01:00:00,2
+"747","Co-op City",2014-07-01 03:00:00,2
+"748","Co-op City",2014-07-01 04:00:00,2
+"749","Co-op City",2014-07-01 05:00:00,2
+"750","Co-op City",2014-07-01 06:00:00,2
+"751","Co-op City",2014-07-01 07:00:00,2
+"752","Co-op City",2014-07-01 08:00:00,2
+"753","Co-op City",2014-07-01 09:00:00,2
+"754","Co-op City",2014-07-01 10:00:00,2
+"755","Co-op City",2014-07-01 11:00:00,2
+"756","Co-op City",2014-07-01 12:00:00,2
+"757","Co-op City",2014-07-01 13:00:00,2
+"758","Co-op City",2014-07-01 14:00:00,2
+"759","Co-op City",2014-07-01 15:00:00,2
+"760","Co-op City",2014-07-01 16:00:00,2
+"761","Co-op City",2014-07-01 17:00:00,2
+"762","Co-op City",2014-07-01 18:00:00,2
+"763","Co-op City",2014-07-01 19:00:00,2
+"764","Co-op City",2014-07-01 20:00:00,2
+"765","Co-op City",2014-07-01 21:00:00,2
+"766","Co-op City",2014-07-01 22:00:00,2
+"767","Co-op City",2014-07-01 23:00:00,2
+"768","Co-op City",2014-07-01 02:00:00,2
+"769","College Point",2014-07-01 00:00:00,2
+"770","College Point",2014-07-01 01:00:00,2
+"771","College Point",2014-07-01 03:00:00,2
+"772","College Point",2014-07-01 04:00:00,2
+"773","College Point",2014-07-01 05:00:00,2
+"774","College Point",2014-07-01 06:00:00,2
+"775","College Point",2014-07-01 07:00:00,2
+"776","College Point",2014-07-01 08:00:00,2
+"777","College Point",2014-07-01 09:00:00,2
+"778","College Point",2014-07-01 10:00:00,2
+"779","College Point",2014-07-01 11:00:00,2
+"780","College Point",2014-07-01 12:00:00,2
+"781","College Point",2014-07-01 13:00:00,2
+"782","College Point",2014-07-01 14:00:00,2
+"783","College Point",2014-07-01 15:00:00,2
+"784","College Point",2014-07-01 16:00:00,2
+"785","College Point",2014-07-01 17:00:00,2
+"786","College Point",2014-07-01 18:00:00,2
+"787","College Point",2014-07-01 19:00:00,2
+"788","College Point",2014-07-01 20:00:00,2
+"789","College Point",2014-07-01 21:00:00,2
+"790","College Point",2014-07-01 22:00:00,2
+"791","College Point",2014-07-01 23:00:00,2
+"792","College Point",2014-07-01 02:00:00,2
+"793","Corona",2014-07-01 00:00:00,2
+"794","Corona",2014-07-01 01:00:00,2
+"795","Corona",2014-07-01 03:00:00,2
+"796","Corona",2014-07-01 04:00:00,2
+"797","Corona",2014-07-01 05:00:00,2
+"798","Corona",2014-07-01 06:00:00,2
+"799","Corona",2014-07-01 07:00:00,2
+"800","Corona",2014-07-01 08:00:00,2
+"801","Corona",2014-07-01 09:00:00,2
+"802","Corona",2014-07-01 10:00:00,2
+"803","Corona",2014-07-01 11:00:00,2
+"804","Corona",2014-07-01 12:00:00,2
+"805","Corona",2014-07-01 13:00:00,2
+"806","Corona",2014-07-01 14:00:00,2
+"807","Corona",2014-07-01 15:00:00,2
+"808","Corona",2014-07-01 16:00:00,2
+"809","Corona",2014-07-01 17:00:00,2
+"810","Corona",2014-07-01 18:00:00,2
+"811","Corona",2014-07-01 19:00:00,2
+"812","Corona",2014-07-01 20:00:00,2
+"813","Corona",2014-07-01 21:00:00,2
+"814","Corona",2014-07-01 22:00:00,2
+"815","Corona",2014-07-01 23:00:00,2
+"816","Corona",2014-07-01 02:00:00,2
+"817","Crown Heights North",2014-07-01 00:00:00,5
+"818","Crown Heights North",2014-07-01 01:00:00,5
+"819","Crown Heights North",2014-07-01 03:00:00,5
+"820","Crown Heights North",2014-07-01 04:00:00,4
+"821","Crown Heights North",2014-07-01 05:00:00,4
+"822","Crown Heights North",2014-07-01 06:00:00,3
+"823","Crown Heights North",2014-07-01 07:00:00,4
+"824","Crown Heights North",2014-07-01 08:00:00,5
+"825","Crown Heights North",2014-07-01 09:00:00,5
+"826","Crown Heights North",2014-07-01 10:00:00,4
+"827","Crown Heights North",2014-07-01 11:00:00,4
+"828","Crown Heights North",2014-07-01 12:00:00,4
+"829","Crown Heights North",2014-07-01 13:00:00,5
+"830","Crown Heights North",2014-07-01 14:00:00,4
+"831","Crown Heights North",2014-07-01 15:00:00,4
+"832","Crown Heights North",2014-07-01 16:00:00,3
+"833","Crown Heights North",2014-07-01 17:00:00,4
+"834","Crown Heights North",2014-07-01 18:00:00,5
+"835","Crown Heights North",2014-07-01 19:00:00,5
+"836","Crown Heights North",2014-07-01 20:00:00,5
+"837","Crown Heights North",2014-07-01 21:00:00,5
+"838","Crown Heights North",2014-07-01 22:00:00,5
+"839","Crown Heights North",2014-07-01 23:00:00,5
+"840","Crown Heights North",2014-07-01 02:00:00,5
+"841","Crown Heights South",2014-07-01 00:00:00,2
+"842","Crown Heights South",2014-07-01 01:00:00,2
+"843","Crown Heights South",2014-07-01 03:00:00,2
+"844","Crown Heights South",2014-07-01 04:00:00,2
+"845","Crown Heights South",2014-07-01 05:00:00,2
+"846","Crown Heights South",2014-07-01 06:00:00,2
+"847","Crown Heights South",2014-07-01 07:00:00,2
+"848","Crown Heights South",2014-07-01 08:00:00,2
+"849","Crown Heights South",2014-07-01 09:00:00,2
+"850","Crown Heights South",2014-07-01 10:00:00,2
+"851","Crown Heights South",2014-07-01 11:00:00,2
+"852","Crown Heights South",2014-07-01 12:00:00,2
+"853","Crown Heights South",2014-07-01 13:00:00,2
+"854","Crown Heights South",2014-07-01 14:00:00,2
+"855","Crown Heights South",2014-07-01 15:00:00,2
+"856","Crown Heights South",2014-07-01 16:00:00,2
+"857","Crown Heights South",2014-07-01 17:00:00,2
+"858","Crown Heights South",2014-07-01 18:00:00,2
+"859","Crown Heights South",2014-07-01 19:00:00,2
+"860","Crown Heights South",2014-07-01 20:00:00,2
+"861","Crown Heights South",2014-07-01 21:00:00,2
+"862","Crown Heights South",2014-07-01 22:00:00,2
+"863","Crown Heights South",2014-07-01 23:00:00,2
+"864","Crown Heights South",2014-07-01 02:00:00,2
+"865","Cypress Hills-City Line",2014-07-01 00:00:00,2
+"866","Cypress Hills-City Line",2014-07-01 01:00:00,2
+"867","Cypress Hills-City Line",2014-07-01 03:00:00,2
+"868","Cypress Hills-City Line",2014-07-01 04:00:00,2
+"869","Cypress Hills-City Line",2014-07-01 05:00:00,2
+"870","Cypress Hills-City Line",2014-07-01 06:00:00,2
+"871","Cypress Hills-City Line",2014-07-01 07:00:00,2
+"872","Cypress Hills-City Line",2014-07-01 08:00:00,2
+"873","Cypress Hills-City Line",2014-07-01 09:00:00,2
+"874","Cypress Hills-City Line",2014-07-01 10:00:00,2
+"875","Cypress Hills-City Line",2014-07-01 11:00:00,2
+"876","Cypress Hills-City Line",2014-07-01 12:00:00,2
+"877","Cypress Hills-City Line",2014-07-01 13:00:00,2
+"878","Cypress Hills-City Line",2014-07-01 14:00:00,2
+"879","Cypress Hills-City Line",2014-07-01 15:00:00,2
+"880","Cypress Hills-City Line",2014-07-01 16:00:00,2
+"881","Cypress Hills-City Line",2014-07-01 17:00:00,2
+"882","Cypress Hills-City Line",2014-07-01 18:00:00,2
+"883","Cypress Hills-City Line",2014-07-01 19:00:00,2
+"884","Cypress Hills-City Line",2014-07-01 20:00:00,2
+"885","Cypress Hills-City Line",2014-07-01 21:00:00,2
+"886","Cypress Hills-City Line",2014-07-01 22:00:00,2
+"887","Cypress Hills-City Line",2014-07-01 23:00:00,2
+"888","Cypress Hills-City Line",2014-07-01 02:00:00,2
+"889","Douglas Manor-Douglaston-Little Neck",2014-07-01 00:00:00,2
+"890","Douglas Manor-Douglaston-Little Neck",2014-07-01 01:00:00,2
+"891","Douglas Manor-Douglaston-Little Neck",2014-07-01 03:00:00,2
+"892","Douglas Manor-Douglaston-Little Neck",2014-07-01 04:00:00,2
+"893","Douglas Manor-Douglaston-Little Neck",2014-07-01 05:00:00,2
+"894","Douglas Manor-Douglaston-Little Neck",2014-07-01 06:00:00,2
+"895","Douglas Manor-Douglaston-Little Neck",2014-07-01 07:00:00,2
+"896","Douglas Manor-Douglaston-Little Neck",2014-07-01 08:00:00,2
+"897","Douglas Manor-Douglaston-Little Neck",2014-07-01 09:00:00,2
+"898","Douglas Manor-Douglaston-Little Neck",2014-07-01 10:00:00,2
+"899","Douglas Manor-Douglaston-Little Neck",2014-07-01 11:00:00,2
+"900","Douglas Manor-Douglaston-Little Neck",2014-07-01 12:00:00,2
+"901","Douglas Manor-Douglaston-Little Neck",2014-07-01 13:00:00,2
+"902","Douglas Manor-Douglaston-Little Neck",2014-07-01 14:00:00,2
+"903","Douglas Manor-Douglaston-Little Neck",2014-07-01 15:00:00,2
+"904","Douglas Manor-Douglaston-Little Neck",2014-07-01 16:00:00,2
+"905","Douglas Manor-Douglaston-Little Neck",2014-07-01 17:00:00,2
+"906","Douglas Manor-Douglaston-Little Neck",2014-07-01 18:00:00,2
+"907","Douglas Manor-Douglaston-Little Neck",2014-07-01 19:00:00,2
+"908","Douglas Manor-Douglaston-Little Neck",2014-07-01 20:00:00,2
+"909","Douglas Manor-Douglaston-Little Neck",2014-07-01 21:00:00,2
+"910","Douglas Manor-Douglaston-Little Neck",2014-07-01 22:00:00,2
+"911","Douglas Manor-Douglaston-Little Neck",2014-07-01 23:00:00,2
+"912","Douglas Manor-Douglaston-Little Neck",2014-07-01 02:00:00,2
+"913","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 00:00:00,9
+"914","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 01:00:00,9
+"915","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 03:00:00,9
+"916","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 04:00:00,7
+"917","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 05:00:00,8
+"918","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 06:00:00,12
+"919","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 07:00:00,12
+"920","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 08:00:00,19
+"921","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 09:00:00,15
+"922","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 10:00:00,11
+"923","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 11:00:00,11
+"924","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 12:00:00,14
+"925","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 13:00:00,10
+"926","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 14:00:00,9
+"927","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 15:00:00,9
+"928","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 16:00:00,11
+"929","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 17:00:00,11
+"930","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 18:00:00,13
+"931","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 19:00:00,20
+"932","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 20:00:00,12
+"933","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 21:00:00,12
+"934","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 22:00:00,14
+"935","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 23:00:00,10
+"936","DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill",2014-07-01 02:00:00,9
+"937","Dyker Heights",2014-07-01 00:00:00,2
+"938","Dyker Heights",2014-07-01 01:00:00,2
+"939","Dyker Heights",2014-07-01 03:00:00,2
+"940","Dyker Heights",2014-07-01 04:00:00,2
+"941","Dyker Heights",2014-07-01 05:00:00,2
+"942","Dyker Heights",2014-07-01 06:00:00,2
+"943","Dyker Heights",2014-07-01 07:00:00,2
+"944","Dyker Heights",2014-07-01 08:00:00,2
+"945","Dyker Heights",2014-07-01 09:00:00,2
+"946","Dyker Heights",2014-07-01 10:00:00,2
+"947","Dyker Heights",2014-07-01 11:00:00,2
+"948","Dyker Heights",2014-07-01 12:00:00,2
+"949","Dyker Heights",2014-07-01 13:00:00,2
+"950","Dyker Heights",2014-07-01 14:00:00,2
+"951","Dyker Heights",2014-07-01 15:00:00,2
+"952","Dyker Heights",2014-07-01 16:00:00,2
+"953","Dyker Heights",2014-07-01 17:00:00,2
+"954","Dyker Heights",2014-07-01 18:00:00,2
+"955","Dyker Heights",2014-07-01 19:00:00,2
+"956","Dyker Heights",2014-07-01 20:00:00,2
+"957","Dyker Heights",2014-07-01 21:00:00,2
+"958","Dyker Heights",2014-07-01 22:00:00,2
+"959","Dyker Heights",2014-07-01 23:00:00,2
+"960","Dyker Heights",2014-07-01 02:00:00,2
+"961","East Concourse-Concourse Village",2014-07-01 00:00:00,2
+"962","East Concourse-Concourse Village",2014-07-01 01:00:00,2
+"963","East Concourse-Concourse Village",2014-07-01 03:00:00,2
+"964","East Concourse-Concourse Village",2014-07-01 04:00:00,2
+"965","East Concourse-Concourse Village",2014-07-01 05:00:00,2
+"966","East Concourse-Concourse Village",2014-07-01 06:00:00,2
+"967","East Concourse-Concourse Village",2014-07-01 07:00:00,2
+"968","East Concourse-Concourse Village",2014-07-01 08:00:00,2
+"969","East Concourse-Concourse Village",2014-07-01 09:00:00,2
+"970","East Concourse-Concourse Village",2014-07-01 10:00:00,2
+"971","East Concourse-Concourse Village",2014-07-01 11:00:00,2
+"972","East Concourse-Concourse Village",2014-07-01 12:00:00,2
+"973","East Concourse-Concourse Village",2014-07-01 13:00:00,2
+"974","East Concourse-Concourse Village",2014-07-01 14:00:00,2
+"975","East Concourse-Concourse Village",2014-07-01 15:00:00,2
+"976","East Concourse-Concourse Village",2014-07-01 16:00:00,2
+"977","East Concourse-Concourse Village",2014-07-01 17:00:00,2
+"978","East Concourse-Concourse Village",2014-07-01 18:00:00,2
+"979","East Concourse-Concourse Village",2014-07-01 19:00:00,2
+"980","East Concourse-Concourse Village",2014-07-01 20:00:00,2
+"981","East Concourse-Concourse Village",2014-07-01 21:00:00,2
+"982","East Concourse-Concourse Village",2014-07-01 22:00:00,2
+"983","East Concourse-Concourse Village",2014-07-01 23:00:00,2
+"984","East Concourse-Concourse Village",2014-07-01 02:00:00,2
+"985","East Elmhurst",2014-07-01 00:00:00,2
+"986","East Elmhurst",2014-07-01 01:00:00,2
+"987","East Elmhurst",2014-07-01 03:00:00,2
+"988","East Elmhurst",2014-07-01 04:00:00,2
+"989","East Elmhurst",2014-07-01 05:00:00,2
+"990","East Elmhurst",2014-07-01 06:00:00,2
+"991","East Elmhurst",2014-07-01 07:00:00,2
+"992","East Elmhurst",2014-07-01 08:00:00,2
+"993","East Elmhurst",2014-07-01 09:00:00,2
+"994","East Elmhurst",2014-07-01 10:00:00,2
+"995","East Elmhurst",2014-07-01 11:00:00,2
+"996","East Elmhurst",2014-07-01 12:00:00,2
+"997","East Elmhurst",2014-07-01 13:00:00,2
+"998","East Elmhurst",2014-07-01 14:00:00,2
+"999","East Elmhurst",2014-07-01 15:00:00,2
+"1000","East Elmhurst",2014-07-01 16:00:00,2
+"1001","East Elmhurst",2014-07-01 17:00:00,2
+"1002","East Elmhurst",2014-07-01 18:00:00,2
+"1003","East Elmhurst",2014-07-01 19:00:00,2
+"1004","East Elmhurst",2014-07-01 20:00:00,2
+"1005","East Elmhurst",2014-07-01 21:00:00,2
+"1006","East Elmhurst",2014-07-01 22:00:00,2
+"1007","East Elmhurst",2014-07-01 23:00:00,2
+"1008","East Elmhurst",2014-07-01 02:00:00,2
+"1009","East Flatbush-Farragut",2014-07-01 00:00:00,2
+"1010","East Flatbush-Farragut",2014-07-01 01:00:00,2
+"1011","East Flatbush-Farragut",2014-07-01 03:00:00,2
+"1012","East Flatbush-Farragut",2014-07-01 04:00:00,2
+"1013","East Flatbush-Farragut",2014-07-01 05:00:00,2
+"1014","East Flatbush-Farragut",2014-07-01 06:00:00,2
+"1015","East Flatbush-Farragut",2014-07-01 07:00:00,2
+"1016","East Flatbush-Farragut",2014-07-01 08:00:00,2
+"1017","East Flatbush-Farragut",2014-07-01 09:00:00,2
+"1018","East Flatbush-Farragut",2014-07-01 10:00:00,2
+"1019","East Flatbush-Farragut",2014-07-01 11:00:00,2
+"1020","East Flatbush-Farragut",2014-07-01 12:00:00,2
+"1021","East Flatbush-Farragut",2014-07-01 13:00:00,2
+"1022","East Flatbush-Farragut",2014-07-01 14:00:00,2
+"1023","East Flatbush-Farragut",2014-07-01 15:00:00,2
+"1024","East Flatbush-Farragut",2014-07-01 16:00:00,2
+"1025","East Flatbush-Farragut",2014-07-01 17:00:00,2
+"1026","East Flatbush-Farragut",2014-07-01 18:00:00,2
+"1027","East Flatbush-Farragut",2014-07-01 19:00:00,2
+"1028","East Flatbush-Farragut",2014-07-01 20:00:00,2
+"1029","East Flatbush-Farragut",2014-07-01 21:00:00,2
+"1030","East Flatbush-Farragut",2014-07-01 22:00:00,2
+"1031","East Flatbush-Farragut",2014-07-01 23:00:00,2
+"1032","East Flatbush-Farragut",2014-07-01 02:00:00,2
+"1033","East Flushing",2014-07-01 00:00:00,2
+"1034","East Flushing",2014-07-01 01:00:00,2
+"1035","East Flushing",2014-07-01 03:00:00,2
+"1036","East Flushing",2014-07-01 04:00:00,2
+"1037","East Flushing",2014-07-01 05:00:00,2
+"1038","East Flushing",2014-07-01 06:00:00,2
+"1039","East Flushing",2014-07-01 07:00:00,2
+"1040","East Flushing",2014-07-01 08:00:00,2
+"1041","East Flushing",2014-07-01 09:00:00,2
+"1042","East Flushing",2014-07-01 10:00:00,2
+"1043","East Flushing",2014-07-01 11:00:00,2
+"1044","East Flushing",2014-07-01 12:00:00,2
+"1045","East Flushing",2014-07-01 13:00:00,2
+"1046","East Flushing",2014-07-01 14:00:00,2
+"1047","East Flushing",2014-07-01 15:00:00,2
+"1048","East Flushing",2014-07-01 16:00:00,2
+"1049","East Flushing",2014-07-01 17:00:00,2
+"1050","East Flushing",2014-07-01 18:00:00,2
+"1051","East Flushing",2014-07-01 19:00:00,2
+"1052","East Flushing",2014-07-01 20:00:00,2
+"1053","East Flushing",2014-07-01 21:00:00,2
+"1054","East Flushing",2014-07-01 22:00:00,2
+"1055","East Flushing",2014-07-01 23:00:00,2
+"1056","East Flushing",2014-07-01 02:00:00,2
+"1057","East Harlem North",2014-07-01 00:00:00,3
+"1058","East Harlem North",2014-07-01 01:00:00,3
+"1059","East Harlem North",2014-07-01 03:00:00,2
+"1060","East Harlem North",2014-07-01 04:00:00,2
+"1061","East Harlem North",2014-07-01 05:00:00,2
+"1062","East Harlem North",2014-07-01 06:00:00,2
+"1063","East Harlem North",2014-07-01 07:00:00,2
+"1064","East Harlem North",2014-07-01 08:00:00,2
+"1065","East Harlem North",2014-07-01 09:00:00,2
+"1066","East Harlem North",2014-07-01 10:00:00,3
+"1067","East Harlem North",2014-07-01 11:00:00,3
+"1068","East Harlem North",2014-07-01 12:00:00,3
+"1069","East Harlem North",2014-07-01 13:00:00,3
+"1070","East Harlem North",2014-07-01 14:00:00,3
+"1071","East Harlem North",2014-07-01 15:00:00,2
+"1072","East Harlem North",2014-07-01 16:00:00,2
+"1073","East Harlem North",2014-07-01 17:00:00,2
+"1074","East Harlem North",2014-07-01 18:00:00,2
+"1075","East Harlem North",2014-07-01 19:00:00,5
+"1076","East Harlem North",2014-07-01 20:00:00,2
+"1077","East Harlem North",2014-07-01 21:00:00,2
+"1078","East Harlem North",2014-07-01 22:00:00,2
+"1079","East Harlem North",2014-07-01 23:00:00,2
+"1080","East Harlem North",2014-07-01 02:00:00,3
+"1081","East Harlem South",2014-07-01 00:00:00,4
+"1082","East Harlem South",2014-07-01 01:00:00,3
+"1083","East Harlem South",2014-07-01 03:00:00,3
+"1084","East Harlem South",2014-07-01 04:00:00,3
+"1085","East Harlem South",2014-07-01 05:00:00,3
+"1086","East Harlem South",2014-07-01 06:00:00,3
+"1087","East Harlem South",2014-07-01 07:00:00,3
+"1088","East Harlem South",2014-07-01 08:00:00,3
+"1089","East Harlem South",2014-07-01 09:00:00,4
+"1090","East Harlem South",2014-07-01 10:00:00,4
+"1091","East Harlem South",2014-07-01 11:00:00,3
+"1092","East Harlem South",2014-07-01 12:00:00,3
+"1093","East Harlem South",2014-07-01 13:00:00,3
+"1094","East Harlem South",2014-07-01 14:00:00,3
+"1095","East Harlem South",2014-07-01 15:00:00,3
+"1096","East Harlem South",2014-07-01 16:00:00,3
+"1097","East Harlem South",2014-07-01 17:00:00,3
+"1098","East Harlem South",2014-07-01 18:00:00,3
+"1099","East Harlem South",2014-07-01 19:00:00,3
+"1100","East Harlem South",2014-07-01 20:00:00,3
+"1101","East Harlem South",2014-07-01 21:00:00,3
+"1102","East Harlem South",2014-07-01 22:00:00,3
+"1103","East Harlem South",2014-07-01 23:00:00,3
+"1104","East Harlem South",2014-07-01 02:00:00,3
+"1105","East New York",2014-07-01 00:00:00,2
+"1106","East New York",2014-07-01 01:00:00,2
+"1107","East New York",2014-07-01 03:00:00,2
+"1108","East New York",2014-07-01 04:00:00,2
+"1109","East New York",2014-07-01 05:00:00,2
+"1110","East New York",2014-07-01 06:00:00,2
+"1111","East New York",2014-07-01 07:00:00,2
+"1112","East New York",2014-07-01 08:00:00,2
+"1113","East New York",2014-07-01 09:00:00,2
+"1114","East New York",2014-07-01 10:00:00,2
+"1115","East New York",2014-07-01 11:00:00,2
+"1116","East New York",2014-07-01 12:00:00,2
+"1117","East New York",2014-07-01 13:00:00,2
+"1118","East New York",2014-07-01 14:00:00,2
+"1119","East New York",2014-07-01 15:00:00,2
+"1120","East New York",2014-07-01 16:00:00,2
+"1121","East New York",2014-07-01 17:00:00,2
+"1122","East New York",2014-07-01 18:00:00,2
+"1123","East New York",2014-07-01 19:00:00,2
+"1124","East New York",2014-07-01 20:00:00,2
+"1125","East New York",2014-07-01 21:00:00,2
+"1126","East New York",2014-07-01 22:00:00,2
+"1127","East New York",2014-07-01 23:00:00,2
+"1128","East New York",2014-07-01 02:00:00,2
+"1129","East New York (Pennsylvania Ave)",2014-07-01 00:00:00,2
+"1130","East New York (Pennsylvania Ave)",2014-07-01 01:00:00,2
+"1131","East New York (Pennsylvania Ave)",2014-07-01 03:00:00,2
+"1132","East New York (Pennsylvania Ave)",2014-07-01 04:00:00,2
+"1133","East New York (Pennsylvania Ave)",2014-07-01 05:00:00,2
+"1134","East New York (Pennsylvania Ave)",2014-07-01 06:00:00,2
+"1135","East New York (Pennsylvania Ave)",2014-07-01 07:00:00,2
+"1136","East New York (Pennsylvania Ave)",2014-07-01 08:00:00,2
+"1137","East New York (Pennsylvania Ave)",2014-07-01 09:00:00,2
+"1138","East New York (Pennsylvania Ave)",2014-07-01 10:00:00,2
+"1139","East New York (Pennsylvania Ave)",2014-07-01 11:00:00,2
+"1140","East New York (Pennsylvania Ave)",2014-07-01 12:00:00,2
+"1141","East New York (Pennsylvania Ave)",2014-07-01 13:00:00,2
+"1142","East New York (Pennsylvania Ave)",2014-07-01 14:00:00,2
+"1143","East New York (Pennsylvania Ave)",2014-07-01 15:00:00,2
+"1144","East New York (Pennsylvania Ave)",2014-07-01 16:00:00,2
+"1145","East New York (Pennsylvania Ave)",2014-07-01 17:00:00,2
+"1146","East New York (Pennsylvania Ave)",2014-07-01 18:00:00,2
+"1147","East New York (Pennsylvania Ave)",2014-07-01 19:00:00,2
+"1148","East New York (Pennsylvania Ave)",2014-07-01 20:00:00,2
+"1149","East New York (Pennsylvania Ave)",2014-07-01 21:00:00,2
+"1150","East New York (Pennsylvania Ave)",2014-07-01 22:00:00,2
+"1151","East New York (Pennsylvania Ave)",2014-07-01 23:00:00,2
+"1152","East New York (Pennsylvania Ave)",2014-07-01 02:00:00,2
+"1153","East Tremont",2014-07-01 00:00:00,2
+"1154","East Tremont",2014-07-01 01:00:00,2
+"1155","East Tremont",2014-07-01 03:00:00,2
+"1156","East Tremont",2014-07-01 04:00:00,2
+"1157","East Tremont",2014-07-01 05:00:00,2
+"1158","East Tremont",2014-07-01 06:00:00,2
+"1159","East Tremont",2014-07-01 07:00:00,2
+"1160","East Tremont",2014-07-01 08:00:00,2
+"1161","East Tremont",2014-07-01 09:00:00,2
+"1162","East Tremont",2014-07-01 10:00:00,2
+"1163","East Tremont",2014-07-01 11:00:00,2
+"1164","East Tremont",2014-07-01 12:00:00,2
+"1165","East Tremont",2014-07-01 13:00:00,2
+"1166","East Tremont",2014-07-01 14:00:00,2
+"1167","East Tremont",2014-07-01 15:00:00,2
+"1168","East Tremont",2014-07-01 16:00:00,2
+"1169","East Tremont",2014-07-01 17:00:00,2
+"1170","East Tremont",2014-07-01 18:00:00,2
+"1171","East Tremont",2014-07-01 19:00:00,2
+"1172","East Tremont",2014-07-01 20:00:00,2
+"1173","East Tremont",2014-07-01 21:00:00,2
+"1174","East Tremont",2014-07-01 22:00:00,2
+"1175","East Tremont",2014-07-01 23:00:00,2
+"1176","East Tremont",2014-07-01 02:00:00,2
+"1177","East Village",2014-07-01 00:00:00,9
+"1178","East Village",2014-07-01 01:00:00,12
+"1179","East Village",2014-07-01 03:00:00,11
+"1180","East Village",2014-07-01 04:00:00,11
+"1181","East Village",2014-07-01 05:00:00,13
+"1182","East Village",2014-07-01 06:00:00,14
+"1183","East Village",2014-07-01 07:00:00,23
+"1184","East Village",2014-07-01 08:00:00,53
+"1185","East Village",2014-07-01 09:00:00,47
+"1186","East Village",2014-07-01 10:00:00,23
+"1187","East Village",2014-07-01 11:00:00,8
+"1188","East Village",2014-07-01 12:00:00,17
+"1189","East Village",2014-07-01 13:00:00,23
+"1190","East Village",2014-07-01 14:00:00,21
+"1191","East Village",2014-07-01 15:00:00,22
+"1192","East Village",2014-07-01 16:00:00,17
+"1193","East Village",2014-07-01 17:00:00,22
+"1194","East Village",2014-07-01 18:00:00,30
+"1195","East Village",2014-07-01 19:00:00,23
+"1196","East Village",2014-07-01 20:00:00,29
+"1197","East Village",2014-07-01 21:00:00,35
+"1198","East Village",2014-07-01 22:00:00,30
+"1199","East Village",2014-07-01 23:00:00,23
+"1200","East Village",2014-07-01 02:00:00,9
+"1201","East Williamsburg",2014-07-01 00:00:00,5
+"1202","East Williamsburg",2014-07-01 01:00:00,5
+"1203","East Williamsburg",2014-07-01 03:00:00,5
+"1204","East Williamsburg",2014-07-01 04:00:00,4
+"1205","East Williamsburg",2014-07-01 05:00:00,4
+"1206","East Williamsburg",2014-07-01 06:00:00,5
+"1207","East Williamsburg",2014-07-01 07:00:00,6
+"1208","East Williamsburg",2014-07-01 08:00:00,8
+"1209","East Williamsburg",2014-07-01 09:00:00,6
+"1210","East Williamsburg",2014-07-01 10:00:00,7
+"1211","East Williamsburg",2014-07-01 11:00:00,6
+"1212","East Williamsburg",2014-07-01 12:00:00,6
+"1213","East Williamsburg",2014-07-01 13:00:00,5
+"1214","East Williamsburg",2014-07-01 14:00:00,6
+"1215","East Williamsburg",2014-07-01 15:00:00,6
+"1216","East Williamsburg",2014-07-01 16:00:00,6
+"1217","East Williamsburg",2014-07-01 17:00:00,6
+"1218","East Williamsburg",2014-07-01 18:00:00,4
+"1219","East Williamsburg",2014-07-01 19:00:00,6
+"1220","East Williamsburg",2014-07-01 20:00:00,5
+"1221","East Williamsburg",2014-07-01 21:00:00,5
+"1222","East Williamsburg",2014-07-01 22:00:00,4
+"1223","East Williamsburg",2014-07-01 23:00:00,5
+"1224","East Williamsburg",2014-07-01 02:00:00,5
+"1225","Eastchester-Edenwald-Baychester",2014-07-01 00:00:00,2
+"1226","Eastchester-Edenwald-Baychester",2014-07-01 01:00:00,2
+"1227","Eastchester-Edenwald-Baychester",2014-07-01 03:00:00,2
+"1228","Eastchester-Edenwald-Baychester",2014-07-01 04:00:00,2
+"1229","Eastchester-Edenwald-Baychester",2014-07-01 05:00:00,2
+"1230","Eastchester-Edenwald-Baychester",2014-07-01 06:00:00,2
+"1231","Eastchester-Edenwald-Baychester",2014-07-01 07:00:00,2
+"1232","Eastchester-Edenwald-Baychester",2014-07-01 08:00:00,2
+"1233","Eastchester-Edenwald-Baychester",2014-07-01 09:00:00,2
+"1234","Eastchester-Edenwald-Baychester",2014-07-01 10:00:00,2
+"1235","Eastchester-Edenwald-Baychester",2014-07-01 11:00:00,2
+"1236","Eastchester-Edenwald-Baychester",2014-07-01 12:00:00,2
+"1237","Eastchester-Edenwald-Baychester",2014-07-01 13:00:00,2
+"1238","Eastchester-Edenwald-Baychester",2014-07-01 14:00:00,2
+"1239","Eastchester-Edenwald-Baychester",2014-07-01 15:00:00,2
+"1240","Eastchester-Edenwald-Baychester",2014-07-01 16:00:00,2
+"1241","Eastchester-Edenwald-Baychester",2014-07-01 17:00:00,2
+"1242","Eastchester-Edenwald-Baychester",2014-07-01 18:00:00,2
+"1243","Eastchester-Edenwald-Baychester",2014-07-01 19:00:00,2
+"1244","Eastchester-Edenwald-Baychester",2014-07-01 20:00:00,2
+"1245","Eastchester-Edenwald-Baychester",2014-07-01 21:00:00,2
+"1246","Eastchester-Edenwald-Baychester",2014-07-01 22:00:00,2
+"1247","Eastchester-Edenwald-Baychester",2014-07-01 23:00:00,2
+"1248","Eastchester-Edenwald-Baychester",2014-07-01 02:00:00,2
+"1249","Elmhurst",2014-07-01 00:00:00,2
+"1250","Elmhurst",2014-07-01 01:00:00,2
+"1251","Elmhurst",2014-07-01 03:00:00,2
+"1252","Elmhurst",2014-07-01 04:00:00,2
+"1253","Elmhurst",2014-07-01 05:00:00,2
+"1254","Elmhurst",2014-07-01 06:00:00,2
+"1255","Elmhurst",2014-07-01 07:00:00,2
+"1256","Elmhurst",2014-07-01 08:00:00,2
+"1257","Elmhurst",2014-07-01 09:00:00,2
+"1258","Elmhurst",2014-07-01 10:00:00,2
+"1259","Elmhurst",2014-07-01 11:00:00,2
+"1260","Elmhurst",2014-07-01 12:00:00,2
+"1261","Elmhurst",2014-07-01 13:00:00,2
+"1262","Elmhurst",2014-07-01 14:00:00,2
+"1263","Elmhurst",2014-07-01 15:00:00,2
+"1264","Elmhurst",2014-07-01 16:00:00,2
+"1265","Elmhurst",2014-07-01 17:00:00,2
+"1266","Elmhurst",2014-07-01 18:00:00,2
+"1267","Elmhurst",2014-07-01 19:00:00,2
+"1268","Elmhurst",2014-07-01 20:00:00,2
+"1269","Elmhurst",2014-07-01 21:00:00,2
+"1270","Elmhurst",2014-07-01 22:00:00,2
+"1271","Elmhurst",2014-07-01 23:00:00,2
+"1272","Elmhurst",2014-07-01 02:00:00,2
+"1273","Elmhurst-Maspeth",2014-07-01 00:00:00,2
+"1274","Elmhurst-Maspeth",2014-07-01 01:00:00,2
+"1275","Elmhurst-Maspeth",2014-07-01 03:00:00,2
+"1276","Elmhurst-Maspeth",2014-07-01 04:00:00,2
+"1277","Elmhurst-Maspeth",2014-07-01 05:00:00,2
+"1278","Elmhurst-Maspeth",2014-07-01 06:00:00,2
+"1279","Elmhurst-Maspeth",2014-07-01 07:00:00,2
+"1280","Elmhurst-Maspeth",2014-07-01 08:00:00,2
+"1281","Elmhurst-Maspeth",2014-07-01 09:00:00,2
+"1282","Elmhurst-Maspeth",2014-07-01 10:00:00,2
+"1283","Elmhurst-Maspeth",2014-07-01 11:00:00,2
+"1284","Elmhurst-Maspeth",2014-07-01 12:00:00,2
+"1285","Elmhurst-Maspeth",2014-07-01 13:00:00,2
+"1286","Elmhurst-Maspeth",2014-07-01 14:00:00,2
+"1287","Elmhurst-Maspeth",2014-07-01 15:00:00,2
+"1288","Elmhurst-Maspeth",2014-07-01 16:00:00,2
+"1289","Elmhurst-Maspeth",2014-07-01 17:00:00,2
+"1290","Elmhurst-Maspeth",2014-07-01 18:00:00,2
+"1291","Elmhurst-Maspeth",2014-07-01 19:00:00,2
+"1292","Elmhurst-Maspeth",2014-07-01 20:00:00,2
+"1293","Elmhurst-Maspeth",2014-07-01 21:00:00,2
+"1294","Elmhurst-Maspeth",2014-07-01 22:00:00,2
+"1295","Elmhurst-Maspeth",2014-07-01 23:00:00,2
+"1296","Elmhurst-Maspeth",2014-07-01 02:00:00,2
+"1297","Erasmus",2014-07-01 00:00:00,2
+"1298","Erasmus",2014-07-01 01:00:00,2
+"1299","Erasmus",2014-07-01 03:00:00,2
+"1300","Erasmus",2014-07-01 04:00:00,2
+"1301","Erasmus",2014-07-01 05:00:00,2
+"1302","Erasmus",2014-07-01 06:00:00,2
+"1303","Erasmus",2014-07-01 07:00:00,2
+"1304","Erasmus",2014-07-01 08:00:00,2
+"1305","Erasmus",2014-07-01 09:00:00,2
+"1306","Erasmus",2014-07-01 10:00:00,2
+"1307","Erasmus",2014-07-01 11:00:00,2
+"1308","Erasmus",2014-07-01 12:00:00,2
+"1309","Erasmus",2014-07-01 13:00:00,2
+"1310","Erasmus",2014-07-01 14:00:00,2
+"1311","Erasmus",2014-07-01 15:00:00,2
+"1312","Erasmus",2014-07-01 16:00:00,2
+"1313","Erasmus",2014-07-01 17:00:00,2
+"1314","Erasmus",2014-07-01 18:00:00,2
+"1315","Erasmus",2014-07-01 19:00:00,2
+"1316","Erasmus",2014-07-01 20:00:00,2
+"1317","Erasmus",2014-07-01 21:00:00,2
+"1318","Erasmus",2014-07-01 22:00:00,2
+"1319","Erasmus",2014-07-01 23:00:00,2
+"1320","Erasmus",2014-07-01 02:00:00,2
+"1321","Flatbush",2014-07-01 00:00:00,3
+"1322","Flatbush",2014-07-01 01:00:00,3
+"1323","Flatbush",2014-07-01 03:00:00,3
+"1324","Flatbush",2014-07-01 04:00:00,3
+"1325","Flatbush",2014-07-01 05:00:00,3
+"1326","Flatbush",2014-07-01 06:00:00,3
+"1327","Flatbush",2014-07-01 07:00:00,3
+"1328","Flatbush",2014-07-01 08:00:00,3
+"1329","Flatbush",2014-07-01 09:00:00,3
+"1330","Flatbush",2014-07-01 10:00:00,3
+"1331","Flatbush",2014-07-01 11:00:00,3
+"1332","Flatbush",2014-07-01 12:00:00,3
+"1333","Flatbush",2014-07-01 13:00:00,3
+"1334","Flatbush",2014-07-01 14:00:00,3
+"1335","Flatbush",2014-07-01 15:00:00,3
+"1336","Flatbush",2014-07-01 16:00:00,3
+"1337","Flatbush",2014-07-01 17:00:00,3
+"1338","Flatbush",2014-07-01 18:00:00,3
+"1339","Flatbush",2014-07-01 19:00:00,3
+"1340","Flatbush",2014-07-01 20:00:00,3
+"1341","Flatbush",2014-07-01 21:00:00,3
+"1342","Flatbush",2014-07-01 22:00:00,3
+"1343","Flatbush",2014-07-01 23:00:00,3
+"1344","Flatbush",2014-07-01 02:00:00,3
+"1345","Flatlands",2014-07-01 00:00:00,2
+"1346","Flatlands",2014-07-01 01:00:00,2
+"1347","Flatlands",2014-07-01 03:00:00,2
+"1348","Flatlands",2014-07-01 04:00:00,2
+"1349","Flatlands",2014-07-01 05:00:00,2
+"1350","Flatlands",2014-07-01 06:00:00,2
+"1351","Flatlands",2014-07-01 07:00:00,2
+"1352","Flatlands",2014-07-01 08:00:00,2
+"1353","Flatlands",2014-07-01 09:00:00,2
+"1354","Flatlands",2014-07-01 10:00:00,2
+"1355","Flatlands",2014-07-01 11:00:00,2
+"1356","Flatlands",2014-07-01 12:00:00,2
+"1357","Flatlands",2014-07-01 13:00:00,2
+"1358","Flatlands",2014-07-01 14:00:00,2
+"1359","Flatlands",2014-07-01 15:00:00,2
+"1360","Flatlands",2014-07-01 16:00:00,2
+"1361","Flatlands",2014-07-01 17:00:00,2
+"1362","Flatlands",2014-07-01 18:00:00,2
+"1363","Flatlands",2014-07-01 19:00:00,2
+"1364","Flatlands",2014-07-01 20:00:00,2
+"1365","Flatlands",2014-07-01 21:00:00,2
+"1366","Flatlands",2014-07-01 22:00:00,2
+"1367","Flatlands",2014-07-01 23:00:00,2
+"1368","Flatlands",2014-07-01 02:00:00,2
+"1369","Flushing",2014-07-01 00:00:00,2
+"1370","Flushing",2014-07-01 01:00:00,2
+"1371","Flushing",2014-07-01 03:00:00,2
+"1372","Flushing",2014-07-01 04:00:00,2
+"1373","Flushing",2014-07-01 05:00:00,2
+"1374","Flushing",2014-07-01 06:00:00,2
+"1375","Flushing",2014-07-01 07:00:00,2
+"1376","Flushing",2014-07-01 08:00:00,2
+"1377","Flushing",2014-07-01 09:00:00,2
+"1378","Flushing",2014-07-01 10:00:00,2
+"1379","Flushing",2014-07-01 11:00:00,2
+"1380","Flushing",2014-07-01 12:00:00,2
+"1381","Flushing",2014-07-01 13:00:00,2
+"1382","Flushing",2014-07-01 14:00:00,2
+"1383","Flushing",2014-07-01 15:00:00,2
+"1384","Flushing",2014-07-01 16:00:00,2
+"1385","Flushing",2014-07-01 17:00:00,2
+"1386","Flushing",2014-07-01 18:00:00,2
+"1387","Flushing",2014-07-01 19:00:00,2
+"1388","Flushing",2014-07-01 20:00:00,2
+"1389","Flushing",2014-07-01 21:00:00,2
+"1390","Flushing",2014-07-01 22:00:00,2
+"1391","Flushing",2014-07-01 23:00:00,2
+"1392","Flushing",2014-07-01 02:00:00,2
+"1393","Forest Hills",2014-07-01 00:00:00,3
+"1394","Forest Hills",2014-07-01 01:00:00,2
+"1395","Forest Hills",2014-07-01 03:00:00,2
+"1396","Forest Hills",2014-07-01 04:00:00,2
+"1397","Forest Hills",2014-07-01 05:00:00,2
+"1398","Forest Hills",2014-07-01 06:00:00,2
+"1399","Forest Hills",2014-07-01 07:00:00,2
+"1400","Forest Hills",2014-07-01 08:00:00,2
+"1401","Forest Hills",2014-07-01 09:00:00,2
+"1402","Forest Hills",2014-07-01 10:00:00,2
+"1403","Forest Hills",2014-07-01 11:00:00,2
+"1404","Forest Hills",2014-07-01 12:00:00,2
+"1405","Forest Hills",2014-07-01 13:00:00,2
+"1406","Forest Hills",2014-07-01 14:00:00,2
+"1407","Forest Hills",2014-07-01 15:00:00,2
+"1408","Forest Hills",2014-07-01 16:00:00,2
+"1409","Forest Hills",2014-07-01 17:00:00,2
+"1410","Forest Hills",2014-07-01 18:00:00,2
+"1411","Forest Hills",2014-07-01 19:00:00,2
+"1412","Forest Hills",2014-07-01 20:00:00,2
+"1413","Forest Hills",2014-07-01 21:00:00,2
+"1414","Forest Hills",2014-07-01 22:00:00,2
+"1415","Forest Hills",2014-07-01 23:00:00,2
+"1416","Forest Hills",2014-07-01 02:00:00,2
+"1417","Fort Greene",2014-07-01 00:00:00,4
+"1418","Fort Greene",2014-07-01 01:00:00,4
+"1419","Fort Greene",2014-07-01 03:00:00,4
+"1420","Fort Greene",2014-07-01 04:00:00,4
+"1421","Fort Greene",2014-07-01 05:00:00,4
+"1422","Fort Greene",2014-07-01 06:00:00,4
+"1423","Fort Greene",2014-07-01 07:00:00,4
+"1424","Fort Greene",2014-07-01 08:00:00,4
+"1425","Fort Greene",2014-07-01 09:00:00,7
+"1426","Fort Greene",2014-07-01 10:00:00,6
+"1427","Fort Greene",2014-07-01 11:00:00,5
+"1428","Fort Greene",2014-07-01 12:00:00,4
+"1429","Fort Greene",2014-07-01 13:00:00,4
+"1430","Fort Greene",2014-07-01 14:00:00,4
+"1431","Fort Greene",2014-07-01 15:00:00,4
+"1432","Fort Greene",2014-07-01 16:00:00,4
+"1433","Fort Greene",2014-07-01 17:00:00,5
+"1434","Fort Greene",2014-07-01 18:00:00,6
+"1435","Fort Greene",2014-07-01 19:00:00,5
+"1436","Fort Greene",2014-07-01 20:00:00,4
+"1437","Fort Greene",2014-07-01 21:00:00,5
+"1438","Fort Greene",2014-07-01 22:00:00,6
+"1439","Fort Greene",2014-07-01 23:00:00,5
+"1440","Fort Greene",2014-07-01 02:00:00,4
+"1441","Fresh Meadows-Utopia",2014-07-01 00:00:00,2
+"1442","Fresh Meadows-Utopia",2014-07-01 01:00:00,2
+"1443","Fresh Meadows-Utopia",2014-07-01 03:00:00,2
+"1444","Fresh Meadows-Utopia",2014-07-01 04:00:00,2
+"1445","Fresh Meadows-Utopia",2014-07-01 05:00:00,2
+"1446","Fresh Meadows-Utopia",2014-07-01 06:00:00,2
+"1447","Fresh Meadows-Utopia",2014-07-01 07:00:00,2
+"1448","Fresh Meadows-Utopia",2014-07-01 08:00:00,2
+"1449","Fresh Meadows-Utopia",2014-07-01 09:00:00,2
+"1450","Fresh Meadows-Utopia",2014-07-01 10:00:00,2
+"1451","Fresh Meadows-Utopia",2014-07-01 11:00:00,2
+"1452","Fresh Meadows-Utopia",2014-07-01 12:00:00,2
+"1453","Fresh Meadows-Utopia",2014-07-01 13:00:00,2
+"1454","Fresh Meadows-Utopia",2014-07-01 14:00:00,2
+"1455","Fresh Meadows-Utopia",2014-07-01 15:00:00,2
+"1456","Fresh Meadows-Utopia",2014-07-01 16:00:00,2
+"1457","Fresh Meadows-Utopia",2014-07-01 17:00:00,2
+"1458","Fresh Meadows-Utopia",2014-07-01 18:00:00,2
+"1459","Fresh Meadows-Utopia",2014-07-01 19:00:00,2
+"1460","Fresh Meadows-Utopia",2014-07-01 20:00:00,2
+"1461","Fresh Meadows-Utopia",2014-07-01 21:00:00,2
+"1462","Fresh Meadows-Utopia",2014-07-01 22:00:00,2
+"1463","Fresh Meadows-Utopia",2014-07-01 23:00:00,2
+"1464","Fresh Meadows-Utopia",2014-07-01 02:00:00,2
+"1465","Ft. Totten-Bay Terrace-Clearview",2014-07-01 00:00:00,2
+"1466","Ft. Totten-Bay Terrace-Clearview",2014-07-01 01:00:00,2
+"1467","Ft. Totten-Bay Terrace-Clearview",2014-07-01 03:00:00,2
+"1468","Ft. Totten-Bay Terrace-Clearview",2014-07-01 04:00:00,2
+"1469","Ft. Totten-Bay Terrace-Clearview",2014-07-01 05:00:00,2
+"1470","Ft. Totten-Bay Terrace-Clearview",2014-07-01 06:00:00,2
+"1471","Ft. Totten-Bay Terrace-Clearview",2014-07-01 07:00:00,2
+"1472","Ft. Totten-Bay Terrace-Clearview",2014-07-01 08:00:00,2
+"1473","Ft. Totten-Bay Terrace-Clearview",2014-07-01 09:00:00,2
+"1474","Ft. Totten-Bay Terrace-Clearview",2014-07-01 10:00:00,2
+"1475","Ft. Totten-Bay Terrace-Clearview",2014-07-01 11:00:00,2
+"1476","Ft. Totten-Bay Terrace-Clearview",2014-07-01 12:00:00,2
+"1477","Ft. Totten-Bay Terrace-Clearview",2014-07-01 13:00:00,2
+"1478","Ft. Totten-Bay Terrace-Clearview",2014-07-01 14:00:00,2
+"1479","Ft. Totten-Bay Terrace-Clearview",2014-07-01 15:00:00,2
+"1480","Ft. Totten-Bay Terrace-Clearview",2014-07-01 16:00:00,2
+"1481","Ft. Totten-Bay Terrace-Clearview",2014-07-01 17:00:00,2
+"1482","Ft. Totten-Bay Terrace-Clearview",2014-07-01 18:00:00,2
+"1483","Ft. Totten-Bay Terrace-Clearview",2014-07-01 19:00:00,2
+"1484","Ft. Totten-Bay Terrace-Clearview",2014-07-01 20:00:00,2
+"1485","Ft. Totten-Bay Terrace-Clearview",2014-07-01 21:00:00,2
+"1486","Ft. Totten-Bay Terrace-Clearview",2014-07-01 22:00:00,2
+"1487","Ft. Totten-Bay Terrace-Clearview",2014-07-01 23:00:00,2
+"1488","Ft. Totten-Bay Terrace-Clearview",2014-07-01 02:00:00,2
+"1489","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 00:00:00,2
+"1490","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 01:00:00,2
+"1491","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 03:00:00,2
+"1492","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 04:00:00,2
+"1493","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 05:00:00,2
+"1494","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 06:00:00,2
+"1495","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 07:00:00,2
+"1496","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 08:00:00,2
+"1497","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 09:00:00,2
+"1498","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 10:00:00,2
+"1499","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 11:00:00,2
+"1500","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 12:00:00,2
+"1501","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 13:00:00,2
+"1502","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 14:00:00,2
+"1503","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 15:00:00,2
+"1504","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 16:00:00,2
+"1505","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 17:00:00,2
+"1506","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 18:00:00,2
+"1507","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 19:00:00,2
+"1508","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 20:00:00,2
+"1509","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 21:00:00,2
+"1510","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 22:00:00,2
+"1511","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 23:00:00,2
+"1512","Georgetown-Marine Park-Bergen Beach-Mill Basin",2014-07-01 02:00:00,2
+"1513","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 00:00:00,2
+"1514","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 01:00:00,2
+"1515","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 03:00:00,2
+"1516","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 04:00:00,2
+"1517","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 05:00:00,2
+"1518","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 06:00:00,2
+"1519","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 07:00:00,2
+"1520","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 08:00:00,2
+"1521","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 09:00:00,2
+"1522","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 10:00:00,2
+"1523","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 11:00:00,2
+"1524","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 12:00:00,2
+"1525","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 13:00:00,2
+"1526","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 14:00:00,2
+"1527","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 15:00:00,2
+"1528","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 16:00:00,2
+"1529","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 17:00:00,2
+"1530","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 18:00:00,2
+"1531","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 19:00:00,2
+"1532","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 20:00:00,2
+"1533","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 21:00:00,2
+"1534","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 22:00:00,2
+"1535","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 23:00:00,2
+"1536","Glen Oaks-Floral Park-New Hyde Park",2014-07-01 02:00:00,2
+"1537","Glendale",2014-07-01 00:00:00,2
+"1538","Glendale",2014-07-01 01:00:00,2
+"1539","Glendale",2014-07-01 03:00:00,2
+"1540","Glendale",2014-07-01 04:00:00,2
+"1541","Glendale",2014-07-01 05:00:00,2
+"1542","Glendale",2014-07-01 06:00:00,2
+"1543","Glendale",2014-07-01 07:00:00,2
+"1544","Glendale",2014-07-01 08:00:00,2
+"1545","Glendale",2014-07-01 09:00:00,2
+"1546","Glendale",2014-07-01 10:00:00,2
+"1547","Glendale",2014-07-01 11:00:00,2
+"1548","Glendale",2014-07-01 12:00:00,2
+"1549","Glendale",2014-07-01 13:00:00,2
+"1550","Glendale",2014-07-01 14:00:00,2
+"1551","Glendale",2014-07-01 15:00:00,2
+"1552","Glendale",2014-07-01 16:00:00,2
+"1553","Glendale",2014-07-01 17:00:00,2
+"1554","Glendale",2014-07-01 18:00:00,2
+"1555","Glendale",2014-07-01 19:00:00,2
+"1556","Glendale",2014-07-01 20:00:00,2
+"1557","Glendale",2014-07-01 21:00:00,2
+"1558","Glendale",2014-07-01 22:00:00,2
+"1559","Glendale",2014-07-01 23:00:00,2
+"1560","Glendale",2014-07-01 02:00:00,2
+"1561","Gramercy",2014-07-01 00:00:00,9
+"1562","Gramercy",2014-07-01 01:00:00,7
+"1563","Gramercy",2014-07-01 03:00:00,7
+"1564","Gramercy",2014-07-01 04:00:00,7
+"1565","Gramercy",2014-07-01 05:00:00,12
+"1566","Gramercy",2014-07-01 06:00:00,10
+"1567","Gramercy",2014-07-01 07:00:00,22
+"1568","Gramercy",2014-07-01 08:00:00,31
+"1569","Gramercy",2014-07-01 09:00:00,27
+"1570","Gramercy",2014-07-01 10:00:00,19
+"1571","Gramercy",2014-07-01 11:00:00,10
+"1572","Gramercy",2014-07-01 12:00:00,15
+"1573","Gramercy",2014-07-01 13:00:00,13
+"1574","Gramercy",2014-07-01 14:00:00,14
+"1575","Gramercy",2014-07-01 15:00:00,20
+"1576","Gramercy",2014-07-01 16:00:00,17
+"1577","Gramercy",2014-07-01 17:00:00,13
+"1578","Gramercy",2014-07-01 18:00:00,39
+"1579","Gramercy",2014-07-01 19:00:00,13
+"1580","Gramercy",2014-07-01 20:00:00,16
+"1581","Gramercy",2014-07-01 21:00:00,27
+"1582","Gramercy",2014-07-01 22:00:00,16
+"1583","Gramercy",2014-07-01 23:00:00,8
+"1584","Gramercy",2014-07-01 02:00:00,7
+"1585","Gravesend",2014-07-01 00:00:00,2
+"1586","Gravesend",2014-07-01 01:00:00,2
+"1587","Gravesend",2014-07-01 03:00:00,2
+"1588","Gravesend",2014-07-01 04:00:00,2
+"1589","Gravesend",2014-07-01 05:00:00,2
+"1590","Gravesend",2014-07-01 06:00:00,2
+"1591","Gravesend",2014-07-01 07:00:00,2
+"1592","Gravesend",2014-07-01 08:00:00,2
+"1593","Gravesend",2014-07-01 09:00:00,2
+"1594","Gravesend",2014-07-01 10:00:00,2
+"1595","Gravesend",2014-07-01 11:00:00,2
+"1596","Gravesend",2014-07-01 12:00:00,2
+"1597","Gravesend",2014-07-01 13:00:00,2
+"1598","Gravesend",2014-07-01 14:00:00,2
+"1599","Gravesend",2014-07-01 15:00:00,2
+"1600","Gravesend",2014-07-01 16:00:00,2
+"1601","Gravesend",2014-07-01 17:00:00,2
+"1602","Gravesend",2014-07-01 18:00:00,2
+"1603","Gravesend",2014-07-01 19:00:00,2
+"1604","Gravesend",2014-07-01 20:00:00,2
+"1605","Gravesend",2014-07-01 21:00:00,2
+"1606","Gravesend",2014-07-01 22:00:00,2
+"1607","Gravesend",2014-07-01 23:00:00,2
+"1608","Gravesend",2014-07-01 02:00:00,2
+"1609","Greenpoint",2014-07-01 00:00:00,5
+"1610","Greenpoint",2014-07-01 01:00:00,5
+"1611","Greenpoint",2014-07-01 03:00:00,5
+"1612","Greenpoint",2014-07-01 04:00:00,4
+"1613","Greenpoint",2014-07-01 05:00:00,5
+"1614","Greenpoint",2014-07-01 06:00:00,5
+"1615","Greenpoint",2014-07-01 07:00:00,6
+"1616","Greenpoint",2014-07-01 08:00:00,9
+"1617","Greenpoint",2014-07-01 09:00:00,8
+"1618","Greenpoint",2014-07-01 10:00:00,9
+"1619","Greenpoint",2014-07-01 11:00:00,9
+"1620","Greenpoint",2014-07-01 12:00:00,7
+"1621","Greenpoint",2014-07-01 13:00:00,6
+"1622","Greenpoint",2014-07-01 14:00:00,6
+"1623","Greenpoint",2014-07-01 15:00:00,6
+"1624","Greenpoint",2014-07-01 16:00:00,7
+"1625","Greenpoint",2014-07-01 17:00:00,7
+"1626","Greenpoint",2014-07-01 18:00:00,8
+"1627","Greenpoint",2014-07-01 19:00:00,7
+"1628","Greenpoint",2014-07-01 20:00:00,6
+"1629","Greenpoint",2014-07-01 21:00:00,6
+"1630","Greenpoint",2014-07-01 22:00:00,9
+"1631","Greenpoint",2014-07-01 23:00:00,6
+"1632","Greenpoint",2014-07-01 02:00:00,5
+"1633","Hamilton Heights",2014-07-01 00:00:00,2
+"1634","Hamilton Heights",2014-07-01 01:00:00,2
+"1635","Hamilton Heights",2014-07-01 03:00:00,2
+"1636","Hamilton Heights",2014-07-01 04:00:00,2
+"1637","Hamilton Heights",2014-07-01 05:00:00,2
+"1638","Hamilton Heights",2014-07-01 06:00:00,3
+"1639","Hamilton Heights",2014-07-01 07:00:00,3
+"1640","Hamilton Heights",2014-07-01 08:00:00,3
+"1641","Hamilton Heights",2014-07-01 09:00:00,3
+"1642","Hamilton Heights",2014-07-01 10:00:00,3
+"1643","Hamilton Heights",2014-07-01 11:00:00,3
+"1644","Hamilton Heights",2014-07-01 12:00:00,3
+"1645","Hamilton Heights",2014-07-01 13:00:00,3
+"1646","Hamilton Heights",2014-07-01 14:00:00,3
+"1647","Hamilton Heights",2014-07-01 15:00:00,2
+"1648","Hamilton Heights",2014-07-01 16:00:00,2
+"1649","Hamilton Heights",2014-07-01 17:00:00,2
+"1650","Hamilton Heights",2014-07-01 18:00:00,2
+"1651","Hamilton Heights",2014-07-01 19:00:00,2
+"1652","Hamilton Heights",2014-07-01 20:00:00,2
+"1653","Hamilton Heights",2014-07-01 21:00:00,3
+"1654","Hamilton Heights",2014-07-01 22:00:00,3
+"1655","Hamilton Heights",2014-07-01 23:00:00,3
+"1656","Hamilton Heights",2014-07-01 02:00:00,2
+"1657","Highbridge",2014-07-01 00:00:00,5
+"1658","Highbridge",2014-07-01 01:00:00,5
+"1659","Highbridge",2014-07-01 03:00:00,5
+"1660","Highbridge",2014-07-01 04:00:00,5
+"1661","Highbridge",2014-07-01 05:00:00,5
+"1662","Highbridge",2014-07-01 06:00:00,5
+"1663","Highbridge",2014-07-01 07:00:00,5
+"1664","Highbridge",2014-07-01 08:00:00,5
+"1665","Highbridge",2014-07-01 09:00:00,5
+"1666","Highbridge",2014-07-01 10:00:00,5
+"1667","Highbridge",2014-07-01 11:00:00,5
+"1668","Highbridge",2014-07-01 12:00:00,5
+"1669","Highbridge",2014-07-01 13:00:00,5
+"1670","Highbridge",2014-07-01 14:00:00,5
+"1671","Highbridge",2014-07-01 15:00:00,5
+"1672","Highbridge",2014-07-01 16:00:00,5
+"1673","Highbridge",2014-07-01 17:00:00,5
+"1674","Highbridge",2014-07-01 18:00:00,5
+"1675","Highbridge",2014-07-01 19:00:00,5
+"1676","Highbridge",2014-07-01 20:00:00,5
+"1677","Highbridge",2014-07-01 21:00:00,5
+"1678","Highbridge",2014-07-01 22:00:00,5
+"1679","Highbridge",2014-07-01 23:00:00,5
+"1680","Highbridge",2014-07-01 02:00:00,5
+"1681","Homecrest",2014-07-01 00:00:00,2
+"1682","Homecrest",2014-07-01 01:00:00,2
+"1683","Homecrest",2014-07-01 03:00:00,2
+"1684","Homecrest",2014-07-01 04:00:00,2
+"1685","Homecrest",2014-07-01 05:00:00,2
+"1686","Homecrest",2014-07-01 06:00:00,2
+"1687","Homecrest",2014-07-01 07:00:00,2
+"1688","Homecrest",2014-07-01 08:00:00,2
+"1689","Homecrest",2014-07-01 09:00:00,2
+"1690","Homecrest",2014-07-01 10:00:00,2
+"1691","Homecrest",2014-07-01 11:00:00,2
+"1692","Homecrest",2014-07-01 12:00:00,2
+"1693","Homecrest",2014-07-01 13:00:00,2
+"1694","Homecrest",2014-07-01 14:00:00,2
+"1695","Homecrest",2014-07-01 15:00:00,2
+"1696","Homecrest",2014-07-01 16:00:00,2
+"1697","Homecrest",2014-07-01 17:00:00,2
+"1698","Homecrest",2014-07-01 18:00:00,2
+"1699","Homecrest",2014-07-01 19:00:00,2
+"1700","Homecrest",2014-07-01 20:00:00,2
+"1701","Homecrest",2014-07-01 21:00:00,2
+"1702","Homecrest",2014-07-01 22:00:00,2
+"1703","Homecrest",2014-07-01 23:00:00,2
+"1704","Homecrest",2014-07-01 02:00:00,2
+"1705","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 00:00:00,34
+"1706","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 01:00:00,37
+"1707","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 03:00:00,17
+"1708","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 04:00:00,28
+"1709","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 05:00:00,31
+"1710","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 06:00:00,29
+"1711","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 07:00:00,78
+"1712","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 08:00:00,102
+"1713","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 09:00:00,69
+"1714","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 10:00:00,76
+"1715","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 11:00:00,98
+"1716","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 12:00:00,65
+"1717","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 13:00:00,106
+"1718","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 14:00:00,167
+"1719","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 15:00:00,204
+"1720","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 16:00:00,196
+"1721","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 17:00:00,127
+"1722","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 18:00:00,199
+"1723","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 19:00:00,127
+"1724","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 20:00:00,124
+"1725","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 21:00:00,154
+"1726","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 22:00:00,90
+"1727","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 23:00:00,77
+"1728","Hudson Yards-Chelsea-Flatiron-Union Square",2014-07-01 02:00:00,16
+"1729","Hunters Point-Sunnyside-West Maspeth",2014-07-01 00:00:00,6
+"1730","Hunters Point-Sunnyside-West Maspeth",2014-07-01 01:00:00,6
+"1731","Hunters Point-Sunnyside-West Maspeth",2014-07-01 03:00:00,6
+"1732","Hunters Point-Sunnyside-West Maspeth",2014-07-01 04:00:00,5
+"1733","Hunters Point-Sunnyside-West Maspeth",2014-07-01 05:00:00,6
+"1734","Hunters Point-Sunnyside-West Maspeth",2014-07-01 06:00:00,6
+"1735","Hunters Point-Sunnyside-West Maspeth",2014-07-01 07:00:00,5
+"1736","Hunters Point-Sunnyside-West Maspeth",2014-07-01 08:00:00,7
+"1737","Hunters Point-Sunnyside-West Maspeth",2014-07-01 09:00:00,8
+"1738","Hunters Point-Sunnyside-West Maspeth",2014-07-01 10:00:00,11
+"1739","Hunters Point-Sunnyside-West Maspeth",2014-07-01 11:00:00,8
+"1740","Hunters Point-Sunnyside-West Maspeth",2014-07-01 12:00:00,6
+"1741","Hunters Point-Sunnyside-West Maspeth",2014-07-01 13:00:00,6
+"1742","Hunters Point-Sunnyside-West Maspeth",2014-07-01 14:00:00,8
+"1743","Hunters Point-Sunnyside-West Maspeth",2014-07-01 15:00:00,8
+"1744","Hunters Point-Sunnyside-West Maspeth",2014-07-01 16:00:00,6
+"1745","Hunters Point-Sunnyside-West Maspeth",2014-07-01 17:00:00,5
+"1746","Hunters Point-Sunnyside-West Maspeth",2014-07-01 18:00:00,6
+"1747","Hunters Point-Sunnyside-West Maspeth",2014-07-01 19:00:00,12
+"1748","Hunters Point-Sunnyside-West Maspeth",2014-07-01 20:00:00,10
+"1749","Hunters Point-Sunnyside-West Maspeth",2014-07-01 21:00:00,7
+"1750","Hunters Point-Sunnyside-West Maspeth",2014-07-01 22:00:00,7
+"1751","Hunters Point-Sunnyside-West Maspeth",2014-07-01 23:00:00,6
+"1752","Hunters Point-Sunnyside-West Maspeth",2014-07-01 02:00:00,6
+"1753","Hunts Point",2014-07-01 00:00:00,2
+"1754","Hunts Point",2014-07-01 01:00:00,2
+"1755","Hunts Point",2014-07-01 03:00:00,2
+"1756","Hunts Point",2014-07-01 04:00:00,2
+"1757","Hunts Point",2014-07-01 05:00:00,2
+"1758","Hunts Point",2014-07-01 06:00:00,2
+"1759","Hunts Point",2014-07-01 07:00:00,2
+"1760","Hunts Point",2014-07-01 08:00:00,2
+"1761","Hunts Point",2014-07-01 09:00:00,2
+"1762","Hunts Point",2014-07-01 10:00:00,2
+"1763","Hunts Point",2014-07-01 11:00:00,2
+"1764","Hunts Point",2014-07-01 12:00:00,2
+"1765","Hunts Point",2014-07-01 13:00:00,2
+"1766","Hunts Point",2014-07-01 14:00:00,2
+"1767","Hunts Point",2014-07-01 15:00:00,2
+"1768","Hunts Point",2014-07-01 16:00:00,2
+"1769","Hunts Point",2014-07-01 17:00:00,2
+"1770","Hunts Point",2014-07-01 18:00:00,2
+"1771","Hunts Point",2014-07-01 19:00:00,2
+"1772","Hunts Point",2014-07-01 20:00:00,2
+"1773","Hunts Point",2014-07-01 21:00:00,2
+"1774","Hunts Point",2014-07-01 22:00:00,2
+"1775","Hunts Point",2014-07-01 23:00:00,2
+"1776","Hunts Point",2014-07-01 02:00:00,2
+"1777","Jackson Heights",2014-07-01 00:00:00,3
+"1778","Jackson Heights",2014-07-01 01:00:00,3
+"1779","Jackson Heights",2014-07-01 03:00:00,3
+"1780","Jackson Heights",2014-07-01 04:00:00,3
+"1781","Jackson Heights",2014-07-01 05:00:00,3
+"1782","Jackson Heights",2014-07-01 06:00:00,3
+"1783","Jackson Heights",2014-07-01 07:00:00,3
+"1784","Jackson Heights",2014-07-01 08:00:00,3
+"1785","Jackson Heights",2014-07-01 09:00:00,3
+"1786","Jackson Heights",2014-07-01 10:00:00,3
+"1787","Jackson Heights",2014-07-01 11:00:00,3
+"1788","Jackson Heights",2014-07-01 12:00:00,3
+"1789","Jackson Heights",2014-07-01 13:00:00,3
+"1790","Jackson Heights",2014-07-01 14:00:00,3
+"1791","Jackson Heights",2014-07-01 15:00:00,3
+"1792","Jackson Heights",2014-07-01 16:00:00,3
+"1793","Jackson Heights",2014-07-01 17:00:00,3
+"1794","Jackson Heights",2014-07-01 18:00:00,3
+"1795","Jackson Heights",2014-07-01 19:00:00,3
+"1796","Jackson Heights",2014-07-01 20:00:00,3
+"1797","Jackson Heights",2014-07-01 21:00:00,3
+"1798","Jackson Heights",2014-07-01 22:00:00,3
+"1799","Jackson Heights",2014-07-01 23:00:00,3
+"1800","Jackson Heights",2014-07-01 02:00:00,3
+"1801","Jamaica",2014-07-01 00:00:00,3
+"1802","Jamaica",2014-07-01 01:00:00,3
+"1803","Jamaica",2014-07-01 03:00:00,3
+"1804","Jamaica",2014-07-01 04:00:00,3
+"1805","Jamaica",2014-07-01 05:00:00,3
+"1806","Jamaica",2014-07-01 06:00:00,3
+"1807","Jamaica",2014-07-01 07:00:00,3
+"1808","Jamaica",2014-07-01 08:00:00,3
+"1809","Jamaica",2014-07-01 09:00:00,3
+"1810","Jamaica",2014-07-01 10:00:00,3
+"1811","Jamaica",2014-07-01 11:00:00,3
+"1812","Jamaica",2014-07-01 12:00:00,3
+"1813","Jamaica",2014-07-01 13:00:00,3
+"1814","Jamaica",2014-07-01 14:00:00,3
+"1815","Jamaica",2014-07-01 15:00:00,3
+"1816","Jamaica",2014-07-01 16:00:00,3
+"1817","Jamaica",2014-07-01 17:00:00,3
+"1818","Jamaica",2014-07-01 18:00:00,3
+"1819","Jamaica",2014-07-01 19:00:00,3
+"1820","Jamaica",2014-07-01 20:00:00,3
+"1821","Jamaica",2014-07-01 21:00:00,3
+"1822","Jamaica",2014-07-01 22:00:00,3
+"1823","Jamaica",2014-07-01 23:00:00,3
+"1824","Jamaica",2014-07-01 02:00:00,3
+"1825","Jamaica Estates-Holliswood",2014-07-01 00:00:00,2
+"1826","Jamaica Estates-Holliswood",2014-07-01 01:00:00,2
+"1827","Jamaica Estates-Holliswood",2014-07-01 03:00:00,2
+"1828","Jamaica Estates-Holliswood",2014-07-01 04:00:00,2
+"1829","Jamaica Estates-Holliswood",2014-07-01 05:00:00,2
+"1830","Jamaica Estates-Holliswood",2014-07-01 06:00:00,2
+"1831","Jamaica Estates-Holliswood",2014-07-01 07:00:00,2
+"1832","Jamaica Estates-Holliswood",2014-07-01 08:00:00,2
+"1833","Jamaica Estates-Holliswood",2014-07-01 09:00:00,2
+"1834","Jamaica Estates-Holliswood",2014-07-01 10:00:00,2
+"1835","Jamaica Estates-Holliswood",2014-07-01 11:00:00,2
+"1836","Jamaica Estates-Holliswood",2014-07-01 12:00:00,2
+"1837","Jamaica Estates-Holliswood",2014-07-01 13:00:00,2
+"1838","Jamaica Estates-Holliswood",2014-07-01 14:00:00,2
+"1839","Jamaica Estates-Holliswood",2014-07-01 15:00:00,2
+"1840","Jamaica Estates-Holliswood",2014-07-01 16:00:00,2
+"1841","Jamaica Estates-Holliswood",2014-07-01 17:00:00,2
+"1842","Jamaica Estates-Holliswood",2014-07-01 18:00:00,2
+"1843","Jamaica Estates-Holliswood",2014-07-01 19:00:00,2
+"1844","Jamaica Estates-Holliswood",2014-07-01 20:00:00,2
+"1845","Jamaica Estates-Holliswood",2014-07-01 21:00:00,2
+"1846","Jamaica Estates-Holliswood",2014-07-01 22:00:00,2
+"1847","Jamaica Estates-Holliswood",2014-07-01 23:00:00,2
+"1848","Jamaica Estates-Holliswood",2014-07-01 02:00:00,2
+"1849","Kensington-Ocean Parkway",2014-07-01 00:00:00,2
+"1850","Kensington-Ocean Parkway",2014-07-01 01:00:00,2
+"1851","Kensington-Ocean Parkway",2014-07-01 03:00:00,2
+"1852","Kensington-Ocean Parkway",2014-07-01 04:00:00,2
+"1853","Kensington-Ocean Parkway",2014-07-01 05:00:00,2
+"1854","Kensington-Ocean Parkway",2014-07-01 06:00:00,2
+"1855","Kensington-Ocean Parkway",2014-07-01 07:00:00,2
+"1856","Kensington-Ocean Parkway",2014-07-01 08:00:00,2
+"1857","Kensington-Ocean Parkway",2014-07-01 09:00:00,2
+"1858","Kensington-Ocean Parkway",2014-07-01 10:00:00,2
+"1859","Kensington-Ocean Parkway",2014-07-01 11:00:00,2
+"1860","Kensington-Ocean Parkway",2014-07-01 12:00:00,2
+"1861","Kensington-Ocean Parkway",2014-07-01 13:00:00,2
+"1862","Kensington-Ocean Parkway",2014-07-01 14:00:00,2
+"1863","Kensington-Ocean Parkway",2014-07-01 15:00:00,2
+"1864","Kensington-Ocean Parkway",2014-07-01 16:00:00,2
+"1865","Kensington-Ocean Parkway",2014-07-01 17:00:00,2
+"1866","Kensington-Ocean Parkway",2014-07-01 18:00:00,2
+"1867","Kensington-Ocean Parkway",2014-07-01 19:00:00,2
+"1868","Kensington-Ocean Parkway",2014-07-01 20:00:00,2
+"1869","Kensington-Ocean Parkway",2014-07-01 21:00:00,2
+"1870","Kensington-Ocean Parkway",2014-07-01 22:00:00,2
+"1871","Kensington-Ocean Parkway",2014-07-01 23:00:00,2
+"1872","Kensington-Ocean Parkway",2014-07-01 02:00:00,2
+"1873","Kew Gardens",2014-07-01 00:00:00,2
+"1874","Kew Gardens",2014-07-01 01:00:00,2
+"1875","Kew Gardens",2014-07-01 03:00:00,2
+"1876","Kew Gardens",2014-07-01 04:00:00,2
+"1877","Kew Gardens",2014-07-01 05:00:00,2
+"1878","Kew Gardens",2014-07-01 06:00:00,2
+"1879","Kew Gardens",2014-07-01 07:00:00,2
+"1880","Kew Gardens",2014-07-01 08:00:00,2
+"1881","Kew Gardens",2014-07-01 09:00:00,2
+"1882","Kew Gardens",2014-07-01 10:00:00,2
+"1883","Kew Gardens",2014-07-01 11:00:00,2
+"1884","Kew Gardens",2014-07-01 12:00:00,2
+"1885","Kew Gardens",2014-07-01 13:00:00,2
+"1886","Kew Gardens",2014-07-01 14:00:00,2
+"1887","Kew Gardens",2014-07-01 15:00:00,2
+"1888","Kew Gardens",2014-07-01 16:00:00,2
+"1889","Kew Gardens",2014-07-01 17:00:00,2
+"1890","Kew Gardens",2014-07-01 18:00:00,2
+"1891","Kew Gardens",2014-07-01 19:00:00,2
+"1892","Kew Gardens",2014-07-01 20:00:00,2
+"1893","Kew Gardens",2014-07-01 21:00:00,2
+"1894","Kew Gardens",2014-07-01 22:00:00,2
+"1895","Kew Gardens",2014-07-01 23:00:00,2
+"1896","Kew Gardens",2014-07-01 02:00:00,2
+"1897","Kew Gardens Hills",2014-07-01 00:00:00,2
+"1898","Kew Gardens Hills",2014-07-01 01:00:00,2
+"1899","Kew Gardens Hills",2014-07-01 03:00:00,2
+"1900","Kew Gardens Hills",2014-07-01 04:00:00,2
+"1901","Kew Gardens Hills",2014-07-01 05:00:00,2
+"1902","Kew Gardens Hills",2014-07-01 06:00:00,2
+"1903","Kew Gardens Hills",2014-07-01 07:00:00,2
+"1904","Kew Gardens Hills",2014-07-01 08:00:00,2
+"1905","Kew Gardens Hills",2014-07-01 09:00:00,2
+"1906","Kew Gardens Hills",2014-07-01 10:00:00,2
+"1907","Kew Gardens Hills",2014-07-01 11:00:00,2
+"1908","Kew Gardens Hills",2014-07-01 12:00:00,2
+"1909","Kew Gardens Hills",2014-07-01 13:00:00,2
+"1910","Kew Gardens Hills",2014-07-01 14:00:00,2
+"1911","Kew Gardens Hills",2014-07-01 15:00:00,2
+"1912","Kew Gardens Hills",2014-07-01 16:00:00,2
+"1913","Kew Gardens Hills",2014-07-01 17:00:00,2
+"1914","Kew Gardens Hills",2014-07-01 18:00:00,2
+"1915","Kew Gardens Hills",2014-07-01 19:00:00,2
+"1916","Kew Gardens Hills",2014-07-01 20:00:00,2
+"1917","Kew Gardens Hills",2014-07-01 21:00:00,2
+"1918","Kew Gardens Hills",2014-07-01 22:00:00,2
+"1919","Kew Gardens Hills",2014-07-01 23:00:00,2
+"1920","Kew Gardens Hills",2014-07-01 02:00:00,2
+"1921","Lenox Hill-Roosevelt Island",2014-07-01 00:00:00,7
+"1922","Lenox Hill-Roosevelt Island",2014-07-01 01:00:00,7
+"1923","Lenox Hill-Roosevelt Island",2014-07-01 03:00:00,7
+"1924","Lenox Hill-Roosevelt Island",2014-07-01 04:00:00,7
+"1925","Lenox Hill-Roosevelt Island",2014-07-01 05:00:00,8
+"1926","Lenox Hill-Roosevelt Island",2014-07-01 06:00:00,17
+"1927","Lenox Hill-Roosevelt Island",2014-07-01 07:00:00,28
+"1928","Lenox Hill-Roosevelt Island",2014-07-01 08:00:00,55
+"1929","Lenox Hill-Roosevelt Island",2014-07-01 09:00:00,17
+"1930","Lenox Hill-Roosevelt Island",2014-07-01 10:00:00,14
+"1931","Lenox Hill-Roosevelt Island",2014-07-01 11:00:00,18
+"1932","Lenox Hill-Roosevelt Island",2014-07-01 12:00:00,16
+"1933","Lenox Hill-Roosevelt Island",2014-07-01 13:00:00,25
+"1934","Lenox Hill-Roosevelt Island",2014-07-01 14:00:00,18
+"1935","Lenox Hill-Roosevelt Island",2014-07-01 15:00:00,34
+"1936","Lenox Hill-Roosevelt Island",2014-07-01 16:00:00,28
+"1937","Lenox Hill-Roosevelt Island",2014-07-01 17:00:00,17
+"1938","Lenox Hill-Roosevelt Island",2014-07-01 18:00:00,22
+"1939","Lenox Hill-Roosevelt Island",2014-07-01 19:00:00,22
+"1940","Lenox Hill-Roosevelt Island",2014-07-01 20:00:00,23
+"1941","Lenox Hill-Roosevelt Island",2014-07-01 21:00:00,20
+"1942","Lenox Hill-Roosevelt Island",2014-07-01 22:00:00,22
+"1943","Lenox Hill-Roosevelt Island",2014-07-01 23:00:00,12
+"1944","Lenox Hill-Roosevelt Island",2014-07-01 02:00:00,7
+"1945","Lincoln Square",2014-07-01 00:00:00,9
+"1946","Lincoln Square",2014-07-01 01:00:00,10
+"1947","Lincoln Square",2014-07-01 03:00:00,13
+"1948","Lincoln Square",2014-07-01 04:00:00,11
+"1949","Lincoln Square",2014-07-01 05:00:00,13
+"1950","Lincoln Square",2014-07-01 06:00:00,21
+"1951","Lincoln Square",2014-07-01 07:00:00,30
+"1952","Lincoln Square",2014-07-01 08:00:00,48
+"1953","Lincoln Square",2014-07-01 09:00:00,34
+"1954","Lincoln Square",2014-07-01 10:00:00,16
+"1955","Lincoln Square",2014-07-01 11:00:00,20
+"1956","Lincoln Square",2014-07-01 12:00:00,16
+"1957","Lincoln Square",2014-07-01 13:00:00,22
+"1958","Lincoln Square",2014-07-01 14:00:00,31
+"1959","Lincoln Square",2014-07-01 15:00:00,26
+"1960","Lincoln Square",2014-07-01 16:00:00,20
+"1961","Lincoln Square",2014-07-01 17:00:00,20
+"1962","Lincoln Square",2014-07-01 18:00:00,26
+"1963","Lincoln Square",2014-07-01 19:00:00,23
+"1964","Lincoln Square",2014-07-01 20:00:00,30
+"1965","Lincoln Square",2014-07-01 21:00:00,19
+"1966","Lincoln Square",2014-07-01 22:00:00,17
+"1967","Lincoln Square",2014-07-01 23:00:00,16
+"1968","Lincoln Square",2014-07-01 02:00:00,9
+"1969","Lindenwood-Howard Beach",2014-07-01 00:00:00,2
+"1970","Lindenwood-Howard Beach",2014-07-01 01:00:00,2
+"1971","Lindenwood-Howard Beach",2014-07-01 03:00:00,2
+"1972","Lindenwood-Howard Beach",2014-07-01 04:00:00,2
+"1973","Lindenwood-Howard Beach",2014-07-01 05:00:00,2
+"1974","Lindenwood-Howard Beach",2014-07-01 06:00:00,2
+"1975","Lindenwood-Howard Beach",2014-07-01 07:00:00,2
+"1976","Lindenwood-Howard Beach",2014-07-01 08:00:00,2
+"1977","Lindenwood-Howard Beach",2014-07-01 09:00:00,2
+"1978","Lindenwood-Howard Beach",2014-07-01 10:00:00,2
+"1979","Lindenwood-Howard Beach",2014-07-01 11:00:00,2
+"1980","Lindenwood-Howard Beach",2014-07-01 12:00:00,2
+"1981","Lindenwood-Howard Beach",2014-07-01 13:00:00,2
+"1982","Lindenwood-Howard Beach",2014-07-01 14:00:00,2
+"1983","Lindenwood-Howard Beach",2014-07-01 15:00:00,2
+"1984","Lindenwood-Howard Beach",2014-07-01 16:00:00,2
+"1985","Lindenwood-Howard Beach",2014-07-01 17:00:00,2
+"1986","Lindenwood-Howard Beach",2014-07-01 18:00:00,2
+"1987","Lindenwood-Howard Beach",2014-07-01 19:00:00,2
+"1988","Lindenwood-Howard Beach",2014-07-01 20:00:00,2
+"1989","Lindenwood-Howard Beach",2014-07-01 21:00:00,2
+"1990","Lindenwood-Howard Beach",2014-07-01 22:00:00,2
+"1991","Lindenwood-Howard Beach",2014-07-01 23:00:00,2
+"1992","Lindenwood-Howard Beach",2014-07-01 02:00:00,2
+"1993","Lower East Side",2014-07-01 00:00:00,8
+"1994","Lower East Side",2014-07-01 01:00:00,6
+"1995","Lower East Side",2014-07-01 03:00:00,6
+"1996","Lower East Side",2014-07-01 04:00:00,6
+"1997","Lower East Side",2014-07-01 05:00:00,7
+"1998","Lower East Side",2014-07-01 06:00:00,11
+"1999","Lower East Side",2014-07-01 07:00:00,17
+"2000","Lower East Side",2014-07-01 08:00:00,13
+"2001","Lower East Side",2014-07-01 09:00:00,15
+"2002","Lower East Side",2014-07-01 10:00:00,9
+"2003","Lower East Side",2014-07-01 11:00:00,4
+"2004","Lower East Side",2014-07-01 12:00:00,8
+"2005","Lower East Side",2014-07-01 13:00:00,12
+"2006","Lower East Side",2014-07-01 14:00:00,8
+"2007","Lower East Side",2014-07-01 15:00:00,10
+"2008","Lower East Side",2014-07-01 16:00:00,13
+"2009","Lower East Side",2014-07-01 17:00:00,10
+"2010","Lower East Side",2014-07-01 18:00:00,10
+"2011","Lower East Side",2014-07-01 19:00:00,10
+"2012","Lower East Side",2014-07-01 20:00:00,11
+"2013","Lower East Side",2014-07-01 21:00:00,7
+"2014","Lower East Side",2014-07-01 22:00:00,10
+"2015","Lower East Side",2014-07-01 23:00:00,10
+"2016","Lower East Side",2014-07-01 02:00:00,6
+"2017","Madison",2014-07-01 00:00:00,2
+"2018","Madison",2014-07-01 01:00:00,2
+"2019","Madison",2014-07-01 03:00:00,2
+"2020","Madison",2014-07-01 04:00:00,2
+"2021","Madison",2014-07-01 05:00:00,2
+"2022","Madison",2014-07-01 06:00:00,2
+"2023","Madison",2014-07-01 07:00:00,2
+"2024","Madison",2014-07-01 08:00:00,2
+"2025","Madison",2014-07-01 09:00:00,2
+"2026","Madison",2014-07-01 10:00:00,2
+"2027","Madison",2014-07-01 11:00:00,2
+"2028","Madison",2014-07-01 12:00:00,2
+"2029","Madison",2014-07-01 13:00:00,2
+"2030","Madison",2014-07-01 14:00:00,2
+"2031","Madison",2014-07-01 15:00:00,2
+"2032","Madison",2014-07-01 16:00:00,2
+"2033","Madison",2014-07-01 17:00:00,2
+"2034","Madison",2014-07-01 18:00:00,2
+"2035","Madison",2014-07-01 19:00:00,2
+"2036","Madison",2014-07-01 20:00:00,2
+"2037","Madison",2014-07-01 21:00:00,2
+"2038","Madison",2014-07-01 22:00:00,2
+"2039","Madison",2014-07-01 23:00:00,2
+"2040","Madison",2014-07-01 02:00:00,2
+"2041","Manhattanville",2014-07-01 00:00:00,2
+"2042","Manhattanville",2014-07-01 01:00:00,2
+"2043","Manhattanville",2014-07-01 03:00:00,2
+"2044","Manhattanville",2014-07-01 04:00:00,2
+"2045","Manhattanville",2014-07-01 05:00:00,2
+"2046","Manhattanville",2014-07-01 06:00:00,2
+"2047","Manhattanville",2014-07-01 07:00:00,2
+"2048","Manhattanville",2014-07-01 08:00:00,2
+"2049","Manhattanville",2014-07-01 09:00:00,2
+"2050","Manhattanville",2014-07-01 10:00:00,2
+"2051","Manhattanville",2014-07-01 11:00:00,2
+"2052","Manhattanville",2014-07-01 12:00:00,2
+"2053","Manhattanville",2014-07-01 13:00:00,2
+"2054","Manhattanville",2014-07-01 14:00:00,2
+"2055","Manhattanville",2014-07-01 15:00:00,2
+"2056","Manhattanville",2014-07-01 16:00:00,2
+"2057","Manhattanville",2014-07-01 17:00:00,2
+"2058","Manhattanville",2014-07-01 18:00:00,2
+"2059","Manhattanville",2014-07-01 19:00:00,2
+"2060","Manhattanville",2014-07-01 20:00:00,2
+"2061","Manhattanville",2014-07-01 21:00:00,2
+"2062","Manhattanville",2014-07-01 22:00:00,2
+"2063","Manhattanville",2014-07-01 23:00:00,2
+"2064","Manhattanville",2014-07-01 02:00:00,2
+"2065","Marble Hill-Inwood",2014-07-01 00:00:00,2
+"2066","Marble Hill-Inwood",2014-07-01 01:00:00,2
+"2067","Marble Hill-Inwood",2014-07-01 03:00:00,2
+"2068","Marble Hill-Inwood",2014-07-01 04:00:00,2
+"2069","Marble Hill-Inwood",2014-07-01 05:00:00,2
+"2070","Marble Hill-Inwood",2014-07-01 06:00:00,2
+"2071","Marble Hill-Inwood",2014-07-01 07:00:00,2
+"2072","Marble Hill-Inwood",2014-07-01 08:00:00,2
+"2073","Marble Hill-Inwood",2014-07-01 09:00:00,2
+"2074","Marble Hill-Inwood",2014-07-01 10:00:00,2
+"2075","Marble Hill-Inwood",2014-07-01 11:00:00,2
+"2076","Marble Hill-Inwood",2014-07-01 12:00:00,2
+"2077","Marble Hill-Inwood",2014-07-01 13:00:00,2
+"2078","Marble Hill-Inwood",2014-07-01 14:00:00,2
+"2079","Marble Hill-Inwood",2014-07-01 15:00:00,2
+"2080","Marble Hill-Inwood",2014-07-01 16:00:00,2
+"2081","Marble Hill-Inwood",2014-07-01 17:00:00,2
+"2082","Marble Hill-Inwood",2014-07-01 18:00:00,2
+"2083","Marble Hill-Inwood",2014-07-01 19:00:00,2
+"2084","Marble Hill-Inwood",2014-07-01 20:00:00,2
+"2085","Marble Hill-Inwood",2014-07-01 21:00:00,2
+"2086","Marble Hill-Inwood",2014-07-01 22:00:00,2
+"2087","Marble Hill-Inwood",2014-07-01 23:00:00,2
+"2088","Marble Hill-Inwood",2014-07-01 02:00:00,2
+"2089","Maspeth",2014-07-01 00:00:00,2
+"2090","Maspeth",2014-07-01 01:00:00,2
+"2091","Maspeth",2014-07-01 03:00:00,2
+"2092","Maspeth",2014-07-01 04:00:00,2
+"2093","Maspeth",2014-07-01 05:00:00,2
+"2094","Maspeth",2014-07-01 06:00:00,2
+"2095","Maspeth",2014-07-01 07:00:00,2
+"2096","Maspeth",2014-07-01 08:00:00,2
+"2097","Maspeth",2014-07-01 09:00:00,2
+"2098","Maspeth",2014-07-01 10:00:00,2
+"2099","Maspeth",2014-07-01 11:00:00,2
+"2100","Maspeth",2014-07-01 12:00:00,2
+"2101","Maspeth",2014-07-01 13:00:00,2
+"2102","Maspeth",2014-07-01 14:00:00,2
+"2103","Maspeth",2014-07-01 15:00:00,2
+"2104","Maspeth",2014-07-01 16:00:00,2
+"2105","Maspeth",2014-07-01 17:00:00,2
+"2106","Maspeth",2014-07-01 18:00:00,2
+"2107","Maspeth",2014-07-01 19:00:00,2
+"2108","Maspeth",2014-07-01 20:00:00,2
+"2109","Maspeth",2014-07-01 21:00:00,2
+"2110","Maspeth",2014-07-01 22:00:00,2
+"2111","Maspeth",2014-07-01 23:00:00,2
+"2112","Maspeth",2014-07-01 02:00:00,2
+"2113","Melrose South-Mott Haven North",2014-07-01 00:00:00,2
+"2114","Melrose South-Mott Haven North",2014-07-01 01:00:00,2
+"2115","Melrose South-Mott Haven North",2014-07-01 03:00:00,2
+"2116","Melrose South-Mott Haven North",2014-07-01 04:00:00,2
+"2117","Melrose South-Mott Haven North",2014-07-01 05:00:00,2
+"2118","Melrose South-Mott Haven North",2014-07-01 06:00:00,2
+"2119","Melrose South-Mott Haven North",2014-07-01 07:00:00,2
+"2120","Melrose South-Mott Haven North",2014-07-01 08:00:00,2
+"2121","Melrose South-Mott Haven North",2014-07-01 09:00:00,2
+"2122","Melrose South-Mott Haven North",2014-07-01 10:00:00,2
+"2123","Melrose South-Mott Haven North",2014-07-01 11:00:00,2
+"2124","Melrose South-Mott Haven North",2014-07-01 12:00:00,2
+"2125","Melrose South-Mott Haven North",2014-07-01 13:00:00,2
+"2126","Melrose South-Mott Haven North",2014-07-01 14:00:00,2
+"2127","Melrose South-Mott Haven North",2014-07-01 15:00:00,2
+"2128","Melrose South-Mott Haven North",2014-07-01 16:00:00,2
+"2129","Melrose South-Mott Haven North",2014-07-01 17:00:00,2
+"2130","Melrose South-Mott Haven North",2014-07-01 18:00:00,2
+"2131","Melrose South-Mott Haven North",2014-07-01 19:00:00,2
+"2132","Melrose South-Mott Haven North",2014-07-01 20:00:00,2
+"2133","Melrose South-Mott Haven North",2014-07-01 21:00:00,2
+"2134","Melrose South-Mott Haven North",2014-07-01 22:00:00,2
+"2135","Melrose South-Mott Haven North",2014-07-01 23:00:00,2
+"2136","Melrose South-Mott Haven North",2014-07-01 02:00:00,2
+"2137","Middle Village",2014-07-01 00:00:00,2
+"2138","Middle Village",2014-07-01 01:00:00,2
+"2139","Middle Village",2014-07-01 03:00:00,2
+"2140","Middle Village",2014-07-01 04:00:00,2
+"2141","Middle Village",2014-07-01 05:00:00,2
+"2142","Middle Village",2014-07-01 06:00:00,2
+"2143","Middle Village",2014-07-01 07:00:00,2
+"2144","Middle Village",2014-07-01 08:00:00,2
+"2145","Middle Village",2014-07-01 09:00:00,2
+"2146","Middle Village",2014-07-01 10:00:00,2
+"2147","Middle Village",2014-07-01 11:00:00,2
+"2148","Middle Village",2014-07-01 12:00:00,2
+"2149","Middle Village",2014-07-01 13:00:00,2
+"2150","Middle Village",2014-07-01 14:00:00,2
+"2151","Middle Village",2014-07-01 15:00:00,2
+"2152","Middle Village",2014-07-01 16:00:00,2
+"2153","Middle Village",2014-07-01 17:00:00,2
+"2154","Middle Village",2014-07-01 18:00:00,2
+"2155","Middle Village",2014-07-01 19:00:00,2
+"2156","Middle Village",2014-07-01 20:00:00,2
+"2157","Middle Village",2014-07-01 21:00:00,2
+"2158","Middle Village",2014-07-01 22:00:00,2
+"2159","Middle Village",2014-07-01 23:00:00,2
+"2160","Middle Village",2014-07-01 02:00:00,2
+"2161","Midtown-Midtown South",2014-07-01 00:00:00,31
+"2162","Midtown-Midtown South",2014-07-01 01:00:00,39
+"2163","Midtown-Midtown South",2014-07-01 03:00:00,16
+"2164","Midtown-Midtown South",2014-07-01 04:00:00,24
+"2165","Midtown-Midtown South",2014-07-01 05:00:00,26
+"2166","Midtown-Midtown South",2014-07-01 06:00:00,34
+"2167","Midtown-Midtown South",2014-07-01 07:00:00,61
+"2168","Midtown-Midtown South",2014-07-01 08:00:00,111
+"2169","Midtown-Midtown South",2014-07-01 09:00:00,98
+"2170","Midtown-Midtown South",2014-07-01 10:00:00,128
+"2171","Midtown-Midtown South",2014-07-01 11:00:00,152
+"2172","Midtown-Midtown South",2014-07-01 12:00:00,128
+"2173","Midtown-Midtown South",2014-07-01 13:00:00,166
+"2174","Midtown-Midtown South",2014-07-01 14:00:00,187
+"2175","Midtown-Midtown South",2014-07-01 15:00:00,316
+"2176","Midtown-Midtown South",2014-07-01 16:00:00,288
+"2177","Midtown-Midtown South",2014-07-01 17:00:00,292
+"2178","Midtown-Midtown South",2014-07-01 18:00:00,480
+"2179","Midtown-Midtown South",2014-07-01 19:00:00,212
+"2180","Midtown-Midtown South",2014-07-01 20:00:00,253
+"2181","Midtown-Midtown South",2014-07-01 21:00:00,313
+"2182","Midtown-Midtown South",2014-07-01 22:00:00,156
+"2183","Midtown-Midtown South",2014-07-01 23:00:00,59
+"2184","Midtown-Midtown South",2014-07-01 02:00:00,25
+"2185","Midwood",2014-07-01 00:00:00,2
+"2186","Midwood",2014-07-01 01:00:00,2
+"2187","Midwood",2014-07-01 03:00:00,2
+"2188","Midwood",2014-07-01 04:00:00,2
+"2189","Midwood",2014-07-01 05:00:00,2
+"2190","Midwood",2014-07-01 06:00:00,2
+"2191","Midwood",2014-07-01 07:00:00,2
+"2192","Midwood",2014-07-01 08:00:00,2
+"2193","Midwood",2014-07-01 09:00:00,2
+"2194","Midwood",2014-07-01 10:00:00,2
+"2195","Midwood",2014-07-01 11:00:00,2
+"2196","Midwood",2014-07-01 12:00:00,2
+"2197","Midwood",2014-07-01 13:00:00,2
+"2198","Midwood",2014-07-01 14:00:00,2
+"2199","Midwood",2014-07-01 15:00:00,2
+"2200","Midwood",2014-07-01 16:00:00,2
+"2201","Midwood",2014-07-01 17:00:00,2
+"2202","Midwood",2014-07-01 18:00:00,2
+"2203","Midwood",2014-07-01 19:00:00,2
+"2204","Midwood",2014-07-01 20:00:00,2
+"2205","Midwood",2014-07-01 21:00:00,2
+"2206","Midwood",2014-07-01 22:00:00,2
+"2207","Midwood",2014-07-01 23:00:00,2
+"2208","Midwood",2014-07-01 02:00:00,2
+"2209","Morningside Heights",2014-07-01 00:00:00,4
+"2210","Morningside Heights",2014-07-01 01:00:00,4
+"2211","Morningside Heights",2014-07-01 03:00:00,4
+"2212","Morningside Heights",2014-07-01 04:00:00,4
+"2213","Morningside Heights",2014-07-01 05:00:00,4
+"2214","Morningside Heights",2014-07-01 06:00:00,4
+"2215","Morningside Heights",2014-07-01 07:00:00,4
+"2216","Morningside Heights",2014-07-01 08:00:00,4
+"2217","Morningside Heights",2014-07-01 09:00:00,4
+"2218","Morningside Heights",2014-07-01 10:00:00,4
+"2219","Morningside Heights",2014-07-01 11:00:00,4
+"2220","Morningside Heights",2014-07-01 12:00:00,4
+"2221","Morningside Heights",2014-07-01 13:00:00,4
+"2222","Morningside Heights",2014-07-01 14:00:00,4
+"2223","Morningside Heights",2014-07-01 15:00:00,5
+"2224","Morningside Heights",2014-07-01 16:00:00,4
+"2225","Morningside Heights",2014-07-01 17:00:00,4
+"2226","Morningside Heights",2014-07-01 18:00:00,4
+"2227","Morningside Heights",2014-07-01 19:00:00,4
+"2228","Morningside Heights",2014-07-01 20:00:00,4
+"2229","Morningside Heights",2014-07-01 21:00:00,4
+"2230","Morningside Heights",2014-07-01 22:00:00,4
+"2231","Morningside Heights",2014-07-01 23:00:00,4
+"2232","Morningside Heights",2014-07-01 02:00:00,4
+"2233","Morrisania-Melrose",2014-07-01 00:00:00,2
+"2234","Morrisania-Melrose",2014-07-01 01:00:00,2
+"2235","Morrisania-Melrose",2014-07-01 03:00:00,2
+"2236","Morrisania-Melrose",2014-07-01 04:00:00,2
+"2237","Morrisania-Melrose",2014-07-01 05:00:00,2
+"2238","Morrisania-Melrose",2014-07-01 06:00:00,2
+"2239","Morrisania-Melrose",2014-07-01 07:00:00,2
+"2240","Morrisania-Melrose",2014-07-01 08:00:00,2
+"2241","Morrisania-Melrose",2014-07-01 09:00:00,2
+"2242","Morrisania-Melrose",2014-07-01 10:00:00,2
+"2243","Morrisania-Melrose",2014-07-01 11:00:00,2
+"2244","Morrisania-Melrose",2014-07-01 12:00:00,2
+"2245","Morrisania-Melrose",2014-07-01 13:00:00,2
+"2246","Morrisania-Melrose",2014-07-01 14:00:00,2
+"2247","Morrisania-Melrose",2014-07-01 15:00:00,2
+"2248","Morrisania-Melrose",2014-07-01 16:00:00,2
+"2249","Morrisania-Melrose",2014-07-01 17:00:00,2
+"2250","Morrisania-Melrose",2014-07-01 18:00:00,2
+"2251","Morrisania-Melrose",2014-07-01 19:00:00,2
+"2252","Morrisania-Melrose",2014-07-01 20:00:00,2
+"2253","Morrisania-Melrose",2014-07-01 21:00:00,2
+"2254","Morrisania-Melrose",2014-07-01 22:00:00,2
+"2255","Morrisania-Melrose",2014-07-01 23:00:00,2
+"2256","Morrisania-Melrose",2014-07-01 02:00:00,2
+"2257","Mott Haven-Port Morris",2014-07-01 00:00:00,2
+"2258","Mott Haven-Port Morris",2014-07-01 01:00:00,2
+"2259","Mott Haven-Port Morris",2014-07-01 03:00:00,2
+"2260","Mott Haven-Port Morris",2014-07-01 04:00:00,2
+"2261","Mott Haven-Port Morris",2014-07-01 05:00:00,2
+"2262","Mott Haven-Port Morris",2014-07-01 06:00:00,2
+"2263","Mott Haven-Port Morris",2014-07-01 07:00:00,2
+"2264","Mott Haven-Port Morris",2014-07-01 08:00:00,2
+"2265","Mott Haven-Port Morris",2014-07-01 09:00:00,2
+"2266","Mott Haven-Port Morris",2014-07-01 10:00:00,2
+"2267","Mott Haven-Port Morris",2014-07-01 11:00:00,2
+"2268","Mott Haven-Port Morris",2014-07-01 12:00:00,2
+"2269","Mott Haven-Port Morris",2014-07-01 13:00:00,2
+"2270","Mott Haven-Port Morris",2014-07-01 14:00:00,2
+"2271","Mott Haven-Port Morris",2014-07-01 15:00:00,2
+"2272","Mott Haven-Port Morris",2014-07-01 16:00:00,2
+"2273","Mott Haven-Port Morris",2014-07-01 17:00:00,2
+"2274","Mott Haven-Port Morris",2014-07-01 18:00:00,2
+"2275","Mott Haven-Port Morris",2014-07-01 19:00:00,2
+"2276","Mott Haven-Port Morris",2014-07-01 20:00:00,2
+"2277","Mott Haven-Port Morris",2014-07-01 21:00:00,2
+"2278","Mott Haven-Port Morris",2014-07-01 22:00:00,2
+"2279","Mott Haven-Port Morris",2014-07-01 23:00:00,2
+"2280","Mott Haven-Port Morris",2014-07-01 02:00:00,2
+"2281","Mount Hope",2014-07-01 00:00:00,2
+"2282","Mount Hope",2014-07-01 01:00:00,2
+"2283","Mount Hope",2014-07-01 03:00:00,2
+"2284","Mount Hope",2014-07-01 04:00:00,2
+"2285","Mount Hope",2014-07-01 05:00:00,2
+"2286","Mount Hope",2014-07-01 06:00:00,2
+"2287","Mount Hope",2014-07-01 07:00:00,2
+"2288","Mount Hope",2014-07-01 08:00:00,2
+"2289","Mount Hope",2014-07-01 09:00:00,2
+"2290","Mount Hope",2014-07-01 10:00:00,2
+"2291","Mount Hope",2014-07-01 11:00:00,2
+"2292","Mount Hope",2014-07-01 12:00:00,2
+"2293","Mount Hope",2014-07-01 13:00:00,2
+"2294","Mount Hope",2014-07-01 14:00:00,2
+"2295","Mount Hope",2014-07-01 15:00:00,2
+"2296","Mount Hope",2014-07-01 16:00:00,2
+"2297","Mount Hope",2014-07-01 17:00:00,2
+"2298","Mount Hope",2014-07-01 18:00:00,2
+"2299","Mount Hope",2014-07-01 19:00:00,2
+"2300","Mount Hope",2014-07-01 20:00:00,2
+"2301","Mount Hope",2014-07-01 21:00:00,2
+"2302","Mount Hope",2014-07-01 22:00:00,2
+"2303","Mount Hope",2014-07-01 23:00:00,2
+"2304","Mount Hope",2014-07-01 02:00:00,2
+"2305","Murray Hill",2014-07-01 00:00:00,2
+"2306","Murray Hill",2014-07-01 01:00:00,2
+"2307","Murray Hill",2014-07-01 03:00:00,2
+"2308","Murray Hill",2014-07-01 04:00:00,2
+"2309","Murray Hill",2014-07-01 05:00:00,2
+"2310","Murray Hill",2014-07-01 06:00:00,2
+"2311","Murray Hill",2014-07-01 07:00:00,2
+"2312","Murray Hill",2014-07-01 08:00:00,2
+"2313","Murray Hill",2014-07-01 09:00:00,2
+"2314","Murray Hill",2014-07-01 10:00:00,2
+"2315","Murray Hill",2014-07-01 11:00:00,2
+"2316","Murray Hill",2014-07-01 12:00:00,2
+"2317","Murray Hill",2014-07-01 13:00:00,2
+"2318","Murray Hill",2014-07-01 14:00:00,2
+"2319","Murray Hill",2014-07-01 15:00:00,2
+"2320","Murray Hill",2014-07-01 16:00:00,2
+"2321","Murray Hill",2014-07-01 17:00:00,2
+"2322","Murray Hill",2014-07-01 18:00:00,2
+"2323","Murray Hill",2014-07-01 19:00:00,2
+"2324","Murray Hill",2014-07-01 20:00:00,2
+"2325","Murray Hill",2014-07-01 21:00:00,2
+"2326","Murray Hill",2014-07-01 22:00:00,2
+"2327","Murray Hill",2014-07-01 23:00:00,2
+"2328","Murray Hill",2014-07-01 02:00:00,2
+"2329","Murray Hill-Kips Bay",2014-07-01 00:00:00,6
+"2330","Murray Hill-Kips Bay",2014-07-01 01:00:00,6
+"2331","Murray Hill-Kips Bay",2014-07-01 03:00:00,7
+"2332","Murray Hill-Kips Bay",2014-07-01 04:00:00,8
+"2333","Murray Hill-Kips Bay",2014-07-01 05:00:00,12
+"2334","Murray Hill-Kips Bay",2014-07-01 06:00:00,15
+"2335","Murray Hill-Kips Bay",2014-07-01 07:00:00,26
+"2336","Murray Hill-Kips Bay",2014-07-01 08:00:00,42
+"2337","Murray Hill-Kips Bay",2014-07-01 09:00:00,43
+"2338","Murray Hill-Kips Bay",2014-07-01 10:00:00,32
+"2339","Murray Hill-Kips Bay",2014-07-01 11:00:00,24
+"2340","Murray Hill-Kips Bay",2014-07-01 12:00:00,24
+"2341","Murray Hill-Kips Bay",2014-07-01 13:00:00,30
+"2342","Murray Hill-Kips Bay",2014-07-01 14:00:00,25
+"2343","Murray Hill-Kips Bay",2014-07-01 15:00:00,41
+"2344","Murray Hill-Kips Bay",2014-07-01 16:00:00,40
+"2345","Murray Hill-Kips Bay",2014-07-01 17:00:00,44
+"2346","Murray Hill-Kips Bay",2014-07-01 18:00:00,78
+"2347","Murray Hill-Kips Bay",2014-07-01 19:00:00,48
+"2348","Murray Hill-Kips Bay",2014-07-01 20:00:00,38
+"2349","Murray Hill-Kips Bay",2014-07-01 21:00:00,28
+"2350","Murray Hill-Kips Bay",2014-07-01 22:00:00,24
+"2351","Murray Hill-Kips Bay",2014-07-01 23:00:00,16
+"2352","Murray Hill-Kips Bay",2014-07-01 02:00:00,6
+"2353","North Corona",2014-07-01 00:00:00,2
+"2354","North Corona",2014-07-01 01:00:00,2
+"2355","North Corona",2014-07-01 03:00:00,2
+"2356","North Corona",2014-07-01 04:00:00,2
+"2357","North Corona",2014-07-01 05:00:00,2
+"2358","North Corona",2014-07-01 06:00:00,2
+"2359","North Corona",2014-07-01 07:00:00,2
+"2360","North Corona",2014-07-01 08:00:00,2
+"2361","North Corona",2014-07-01 09:00:00,2
+"2362","North Corona",2014-07-01 10:00:00,2
+"2363","North Corona",2014-07-01 11:00:00,2
+"2364","North Corona",2014-07-01 12:00:00,2
+"2365","North Corona",2014-07-01 13:00:00,2
+"2366","North Corona",2014-07-01 14:00:00,2
+"2367","North Corona",2014-07-01 15:00:00,2
+"2368","North Corona",2014-07-01 16:00:00,2
+"2369","North Corona",2014-07-01 17:00:00,2
+"2370","North Corona",2014-07-01 18:00:00,2
+"2371","North Corona",2014-07-01 19:00:00,2
+"2372","North Corona",2014-07-01 20:00:00,2
+"2373","North Corona",2014-07-01 21:00:00,2
+"2374","North Corona",2014-07-01 22:00:00,2
+"2375","North Corona",2014-07-01 23:00:00,2
+"2376","North Corona",2014-07-01 02:00:00,2
+"2377","North Riverdale-Fieldston-Riverdale",2014-07-01 00:00:00,2
+"2378","North Riverdale-Fieldston-Riverdale",2014-07-01 01:00:00,2
+"2379","North Riverdale-Fieldston-Riverdale",2014-07-01 03:00:00,2
+"2380","North Riverdale-Fieldston-Riverdale",2014-07-01 04:00:00,2
+"2381","North Riverdale-Fieldston-Riverdale",2014-07-01 05:00:00,2
+"2382","North Riverdale-Fieldston-Riverdale",2014-07-01 06:00:00,2
+"2383","North Riverdale-Fieldston-Riverdale",2014-07-01 07:00:00,2
+"2384","North Riverdale-Fieldston-Riverdale",2014-07-01 08:00:00,2
+"2385","North Riverdale-Fieldston-Riverdale",2014-07-01 09:00:00,2
+"2386","North Riverdale-Fieldston-Riverdale",2014-07-01 10:00:00,2
+"2387","North Riverdale-Fieldston-Riverdale",2014-07-01 11:00:00,2
+"2388","North Riverdale-Fieldston-Riverdale",2014-07-01 12:00:00,2
+"2389","North Riverdale-Fieldston-Riverdale",2014-07-01 13:00:00,2
+"2390","North Riverdale-Fieldston-Riverdale",2014-07-01 14:00:00,2
+"2391","North Riverdale-Fieldston-Riverdale",2014-07-01 15:00:00,2
+"2392","North Riverdale-Fieldston-Riverdale",2014-07-01 16:00:00,2
+"2393","North Riverdale-Fieldston-Riverdale",2014-07-01 17:00:00,2
+"2394","North Riverdale-Fieldston-Riverdale",2014-07-01 18:00:00,2
+"2395","North Riverdale-Fieldston-Riverdale",2014-07-01 19:00:00,2
+"2396","North Riverdale-Fieldston-Riverdale",2014-07-01 20:00:00,2
+"2397","North Riverdale-Fieldston-Riverdale",2014-07-01 21:00:00,2
+"2398","North Riverdale-Fieldston-Riverdale",2014-07-01 22:00:00,2
+"2399","North Riverdale-Fieldston-Riverdale",2014-07-01 23:00:00,2
+"2400","North Riverdale-Fieldston-Riverdale",2014-07-01 02:00:00,2
+"2401","North Side-South Side",2014-07-01 00:00:00,14
+"2402","North Side-South Side",2014-07-01 01:00:00,7
+"2403","North Side-South Side",2014-07-01 03:00:00,6
+"2404","North Side-South Side",2014-07-01 04:00:00,8
+"2405","North Side-South Side",2014-07-01 05:00:00,9
+"2406","North Side-South Side",2014-07-01 06:00:00,13
+"2407","North Side-South Side",2014-07-01 07:00:00,24
+"2408","North Side-South Side",2014-07-01 08:00:00,33
+"2409","North Side-South Side",2014-07-01 09:00:00,25
+"2410","North Side-South Side",2014-07-01 10:00:00,23
+"2411","North Side-South Side",2014-07-01 11:00:00,11
+"2412","North Side-South Side",2014-07-01 12:00:00,19
+"2413","North Side-South Side",2014-07-01 13:00:00,18
+"2414","North Side-South Side",2014-07-01 14:00:00,19
+"2415","North Side-South Side",2014-07-01 15:00:00,18
+"2416","North Side-South Side",2014-07-01 16:00:00,15
+"2417","North Side-South Side",2014-07-01 17:00:00,11
+"2418","North Side-South Side",2014-07-01 18:00:00,19
+"2419","North Side-South Side",2014-07-01 19:00:00,24
+"2420","North Side-South Side",2014-07-01 20:00:00,19
+"2421","North Side-South Side",2014-07-01 21:00:00,24
+"2422","North Side-South Side",2014-07-01 22:00:00,24
+"2423","North Side-South Side",2014-07-01 23:00:00,27
+"2424","North Side-South Side",2014-07-01 02:00:00,8
+"2425","Norwood",2014-07-01 00:00:00,2
+"2426","Norwood",2014-07-01 01:00:00,2
+"2427","Norwood",2014-07-01 03:00:00,2
+"2428","Norwood",2014-07-01 04:00:00,2
+"2429","Norwood",2014-07-01 05:00:00,2
+"2430","Norwood",2014-07-01 06:00:00,2
+"2431","Norwood",2014-07-01 07:00:00,2
+"2432","Norwood",2014-07-01 08:00:00,2
+"2433","Norwood",2014-07-01 09:00:00,2
+"2434","Norwood",2014-07-01 10:00:00,2
+"2435","Norwood",2014-07-01 11:00:00,2
+"2436","Norwood",2014-07-01 12:00:00,2
+"2437","Norwood",2014-07-01 13:00:00,2
+"2438","Norwood",2014-07-01 14:00:00,2
+"2439","Norwood",2014-07-01 15:00:00,2
+"2440","Norwood",2014-07-01 16:00:00,2
+"2441","Norwood",2014-07-01 17:00:00,2
+"2442","Norwood",2014-07-01 18:00:00,2
+"2443","Norwood",2014-07-01 19:00:00,2
+"2444","Norwood",2014-07-01 20:00:00,2
+"2445","Norwood",2014-07-01 21:00:00,2
+"2446","Norwood",2014-07-01 22:00:00,2
+"2447","Norwood",2014-07-01 23:00:00,2
+"2448","Norwood",2014-07-01 02:00:00,2
+"2449","Oakland Gardens",2014-07-01 00:00:00,2
+"2450","Oakland Gardens",2014-07-01 01:00:00,2
+"2451","Oakland Gardens",2014-07-01 03:00:00,2
+"2452","Oakland Gardens",2014-07-01 04:00:00,2
+"2453","Oakland Gardens",2014-07-01 05:00:00,2
+"2454","Oakland Gardens",2014-07-01 06:00:00,2
+"2455","Oakland Gardens",2014-07-01 07:00:00,2
+"2456","Oakland Gardens",2014-07-01 08:00:00,2
+"2457","Oakland Gardens",2014-07-01 09:00:00,2
+"2458","Oakland Gardens",2014-07-01 10:00:00,2
+"2459","Oakland Gardens",2014-07-01 11:00:00,2
+"2460","Oakland Gardens",2014-07-01 12:00:00,2
+"2461","Oakland Gardens",2014-07-01 13:00:00,2
+"2462","Oakland Gardens",2014-07-01 14:00:00,2
+"2463","Oakland Gardens",2014-07-01 15:00:00,2
+"2464","Oakland Gardens",2014-07-01 16:00:00,2
+"2465","Oakland Gardens",2014-07-01 17:00:00,2
+"2466","Oakland Gardens",2014-07-01 18:00:00,2
+"2467","Oakland Gardens",2014-07-01 19:00:00,2
+"2468","Oakland Gardens",2014-07-01 20:00:00,2
+"2469","Oakland Gardens",2014-07-01 21:00:00,2
+"2470","Oakland Gardens",2014-07-01 22:00:00,2
+"2471","Oakland Gardens",2014-07-01 23:00:00,2
+"2472","Oakland Gardens",2014-07-01 02:00:00,2
+"2473","Ocean Hill",2014-07-01 00:00:00,2
+"2474","Ocean Hill",2014-07-01 01:00:00,2
+"2475","Ocean Hill",2014-07-01 03:00:00,2
+"2476","Ocean Hill",2014-07-01 04:00:00,2
+"2477","Ocean Hill",2014-07-01 05:00:00,2
+"2478","Ocean Hill",2014-07-01 06:00:00,2
+"2479","Ocean Hill",2014-07-01 07:00:00,2
+"2480","Ocean Hill",2014-07-01 08:00:00,2
+"2481","Ocean Hill",2014-07-01 09:00:00,2
+"2482","Ocean Hill",2014-07-01 10:00:00,2
+"2483","Ocean Hill",2014-07-01 11:00:00,2
+"2484","Ocean Hill",2014-07-01 12:00:00,2
+"2485","Ocean Hill",2014-07-01 13:00:00,2
+"2486","Ocean Hill",2014-07-01 14:00:00,2
+"2487","Ocean Hill",2014-07-01 15:00:00,2
+"2488","Ocean Hill",2014-07-01 16:00:00,2
+"2489","Ocean Hill",2014-07-01 17:00:00,2
+"2490","Ocean Hill",2014-07-01 18:00:00,2
+"2491","Ocean Hill",2014-07-01 19:00:00,2
+"2492","Ocean Hill",2014-07-01 20:00:00,2
+"2493","Ocean Hill",2014-07-01 21:00:00,2
+"2494","Ocean Hill",2014-07-01 22:00:00,2
+"2495","Ocean Hill",2014-07-01 23:00:00,2
+"2496","Ocean Hill",2014-07-01 02:00:00,2
+"2497","Ocean Parkway South",2014-07-01 00:00:00,2
+"2498","Ocean Parkway South",2014-07-01 01:00:00,2
+"2499","Ocean Parkway South",2014-07-01 03:00:00,2
+"2500","Ocean Parkway South",2014-07-01 04:00:00,2
+"2501","Ocean Parkway South",2014-07-01 05:00:00,2
+"2502","Ocean Parkway South",2014-07-01 06:00:00,2
+"2503","Ocean Parkway South",2014-07-01 07:00:00,2
+"2504","Ocean Parkway South",2014-07-01 08:00:00,2
+"2505","Ocean Parkway South",2014-07-01 09:00:00,2
+"2506","Ocean Parkway South",2014-07-01 10:00:00,2
+"2507","Ocean Parkway South",2014-07-01 11:00:00,2
+"2508","Ocean Parkway South",2014-07-01 12:00:00,2
+"2509","Ocean Parkway South",2014-07-01 13:00:00,2
+"2510","Ocean Parkway South",2014-07-01 14:00:00,2
+"2511","Ocean Parkway South",2014-07-01 15:00:00,2
+"2512","Ocean Parkway South",2014-07-01 16:00:00,2
+"2513","Ocean Parkway South",2014-07-01 17:00:00,2
+"2514","Ocean Parkway South",2014-07-01 18:00:00,2
+"2515","Ocean Parkway South",2014-07-01 19:00:00,2
+"2516","Ocean Parkway South",2014-07-01 20:00:00,2
+"2517","Ocean Parkway South",2014-07-01 21:00:00,2
+"2518","Ocean Parkway South",2014-07-01 22:00:00,2
+"2519","Ocean Parkway South",2014-07-01 23:00:00,2
+"2520","Ocean Parkway South",2014-07-01 02:00:00,2
+"2521","Old Astoria",2014-07-01 00:00:00,2
+"2522","Old Astoria",2014-07-01 01:00:00,2
+"2523","Old Astoria",2014-07-01 03:00:00,2
+"2524","Old Astoria",2014-07-01 04:00:00,2
+"2525","Old Astoria",2014-07-01 05:00:00,2
+"2526","Old Astoria",2014-07-01 06:00:00,2
+"2527","Old Astoria",2014-07-01 07:00:00,2
+"2528","Old Astoria",2014-07-01 08:00:00,2
+"2529","Old Astoria",2014-07-01 09:00:00,2
+"2530","Old Astoria",2014-07-01 10:00:00,2
+"2531","Old Astoria",2014-07-01 11:00:00,2
+"2532","Old Astoria",2014-07-01 12:00:00,2
+"2533","Old Astoria",2014-07-01 13:00:00,2
+"2534","Old Astoria",2014-07-01 14:00:00,2
+"2535","Old Astoria",2014-07-01 15:00:00,2
+"2536","Old Astoria",2014-07-01 16:00:00,2
+"2537","Old Astoria",2014-07-01 17:00:00,2
+"2538","Old Astoria",2014-07-01 18:00:00,2
+"2539","Old Astoria",2014-07-01 19:00:00,2
+"2540","Old Astoria",2014-07-01 20:00:00,2
+"2541","Old Astoria",2014-07-01 21:00:00,2
+"2542","Old Astoria",2014-07-01 22:00:00,2
+"2543","Old Astoria",2014-07-01 23:00:00,2
+"2544","Old Astoria",2014-07-01 02:00:00,2
+"2545","Ozone Park",2014-07-01 00:00:00,2
+"2546","Ozone Park",2014-07-01 01:00:00,2
+"2547","Ozone Park",2014-07-01 03:00:00,2
+"2548","Ozone Park",2014-07-01 04:00:00,2
+"2549","Ozone Park",2014-07-01 05:00:00,2
+"2550","Ozone Park",2014-07-01 06:00:00,2
+"2551","Ozone Park",2014-07-01 07:00:00,2
+"2552","Ozone Park",2014-07-01 08:00:00,2
+"2553","Ozone Park",2014-07-01 09:00:00,2
+"2554","Ozone Park",2014-07-01 10:00:00,2
+"2555","Ozone Park",2014-07-01 11:00:00,2
+"2556","Ozone Park",2014-07-01 12:00:00,2
+"2557","Ozone Park",2014-07-01 13:00:00,2
+"2558","Ozone Park",2014-07-01 14:00:00,2
+"2559","Ozone Park",2014-07-01 15:00:00,2
+"2560","Ozone Park",2014-07-01 16:00:00,2
+"2561","Ozone Park",2014-07-01 17:00:00,2
+"2562","Ozone Park",2014-07-01 18:00:00,2
+"2563","Ozone Park",2014-07-01 19:00:00,2
+"2564","Ozone Park",2014-07-01 20:00:00,2
+"2565","Ozone Park",2014-07-01 21:00:00,2
+"2566","Ozone Park",2014-07-01 22:00:00,2
+"2567","Ozone Park",2014-07-01 23:00:00,2
+"2568","Ozone Park",2014-07-01 02:00:00,2
+"2569","Park Slope-Gowanus",2014-07-01 00:00:00,7
+"2570","Park Slope-Gowanus",2014-07-01 01:00:00,5
+"2571","Park Slope-Gowanus",2014-07-01 03:00:00,6
+"2572","Park Slope-Gowanus",2014-07-01 04:00:00,6
+"2573","Park Slope-Gowanus",2014-07-01 05:00:00,7
+"2574","Park Slope-Gowanus",2014-07-01 06:00:00,9
+"2575","Park Slope-Gowanus",2014-07-01 07:00:00,13
+"2576","Park Slope-Gowanus",2014-07-01 08:00:00,13
+"2577","Park Slope-Gowanus",2014-07-01 09:00:00,8
+"2578","Park Slope-Gowanus",2014-07-01 10:00:00,10
+"2579","Park Slope-Gowanus",2014-07-01 11:00:00,11
+"2580","Park Slope-Gowanus",2014-07-01 12:00:00,8
+"2581","Park Slope-Gowanus",2014-07-01 13:00:00,7
+"2582","Park Slope-Gowanus",2014-07-01 14:00:00,9
+"2583","Park Slope-Gowanus",2014-07-01 15:00:00,14
+"2584","Park Slope-Gowanus",2014-07-01 16:00:00,10
+"2585","Park Slope-Gowanus",2014-07-01 17:00:00,6
+"2586","Park Slope-Gowanus",2014-07-01 18:00:00,17
+"2587","Park Slope-Gowanus",2014-07-01 19:00:00,11
+"2588","Park Slope-Gowanus",2014-07-01 20:00:00,12
+"2589","Park Slope-Gowanus",2014-07-01 21:00:00,12
+"2590","Park Slope-Gowanus",2014-07-01 22:00:00,16
+"2591","Park Slope-Gowanus",2014-07-01 23:00:00,9
+"2592","Park Slope-Gowanus",2014-07-01 02:00:00,5
+"2593","park-cemetery-etc-Bronx",2014-07-01 00:00:00,3
+"2594","park-cemetery-etc-Bronx",2014-07-01 01:00:00,3
+"2595","park-cemetery-etc-Bronx",2014-07-01 03:00:00,3
+"2596","park-cemetery-etc-Bronx",2014-07-01 04:00:00,3
+"2597","park-cemetery-etc-Bronx",2014-07-01 05:00:00,3
+"2598","park-cemetery-etc-Bronx",2014-07-01 06:00:00,3
+"2599","park-cemetery-etc-Bronx",2014-07-01 07:00:00,3
+"2600","park-cemetery-etc-Bronx",2014-07-01 08:00:00,3
+"2601","park-cemetery-etc-Bronx",2014-07-01 09:00:00,3
+"2602","park-cemetery-etc-Bronx",2014-07-01 10:00:00,3
+"2603","park-cemetery-etc-Bronx",2014-07-01 11:00:00,3
+"2604","park-cemetery-etc-Bronx",2014-07-01 12:00:00,3
+"2605","park-cemetery-etc-Bronx",2014-07-01 13:00:00,3
+"2606","park-cemetery-etc-Bronx",2014-07-01 14:00:00,3
+"2607","park-cemetery-etc-Bronx",2014-07-01 15:00:00,3
+"2608","park-cemetery-etc-Bronx",2014-07-01 16:00:00,3
+"2609","park-cemetery-etc-Bronx",2014-07-01 17:00:00,3
+"2610","park-cemetery-etc-Bronx",2014-07-01 18:00:00,3
+"2611","park-cemetery-etc-Bronx",2014-07-01 19:00:00,3
+"2612","park-cemetery-etc-Bronx",2014-07-01 20:00:00,3
+"2613","park-cemetery-etc-Bronx",2014-07-01 21:00:00,3
+"2614","park-cemetery-etc-Bronx",2014-07-01 22:00:00,3
+"2615","park-cemetery-etc-Bronx",2014-07-01 23:00:00,3
+"2616","park-cemetery-etc-Bronx",2014-07-01 02:00:00,3
+"2617","park-cemetery-etc-Brooklyn",2014-07-01 00:00:00,3
+"2618","park-cemetery-etc-Brooklyn",2014-07-01 01:00:00,3
+"2619","park-cemetery-etc-Brooklyn",2014-07-01 03:00:00,3
+"2620","park-cemetery-etc-Brooklyn",2014-07-01 04:00:00,3
+"2621","park-cemetery-etc-Brooklyn",2014-07-01 05:00:00,3
+"2622","park-cemetery-etc-Brooklyn",2014-07-01 06:00:00,3
+"2623","park-cemetery-etc-Brooklyn",2014-07-01 07:00:00,3
+"2624","park-cemetery-etc-Brooklyn",2014-07-01 08:00:00,3
+"2625","park-cemetery-etc-Brooklyn",2014-07-01 09:00:00,3
+"2626","park-cemetery-etc-Brooklyn",2014-07-01 10:00:00,3
+"2627","park-cemetery-etc-Brooklyn",2014-07-01 11:00:00,3
+"2628","park-cemetery-etc-Brooklyn",2014-07-01 12:00:00,3
+"2629","park-cemetery-etc-Brooklyn",2014-07-01 13:00:00,3
+"2630","park-cemetery-etc-Brooklyn",2014-07-01 14:00:00,3
+"2631","park-cemetery-etc-Brooklyn",2014-07-01 15:00:00,3
+"2632","park-cemetery-etc-Brooklyn",2014-07-01 16:00:00,4
+"2633","park-cemetery-etc-Brooklyn",2014-07-01 17:00:00,3
+"2634","park-cemetery-etc-Brooklyn",2014-07-01 18:00:00,3
+"2635","park-cemetery-etc-Brooklyn",2014-07-01 19:00:00,3
+"2636","park-cemetery-etc-Brooklyn",2014-07-01 20:00:00,4
+"2637","park-cemetery-etc-Brooklyn",2014-07-01 21:00:00,4
+"2638","park-cemetery-etc-Brooklyn",2014-07-01 22:00:00,4
+"2639","park-cemetery-etc-Brooklyn",2014-07-01 23:00:00,3
+"2640","park-cemetery-etc-Brooklyn",2014-07-01 02:00:00,3
+"2641","park-cemetery-etc-Manhattan",2014-07-01 00:00:00,4
+"2642","park-cemetery-etc-Manhattan",2014-07-01 01:00:00,4
+"2643","park-cemetery-etc-Manhattan",2014-07-01 03:00:00,4
+"2644","park-cemetery-etc-Manhattan",2014-07-01 04:00:00,4
+"2645","park-cemetery-etc-Manhattan",2014-07-01 05:00:00,4
+"2646","park-cemetery-etc-Manhattan",2014-07-01 06:00:00,4
+"2647","park-cemetery-etc-Manhattan",2014-07-01 07:00:00,4
+"2648","park-cemetery-etc-Manhattan",2014-07-01 08:00:00,6
+"2649","park-cemetery-etc-Manhattan",2014-07-01 09:00:00,6
+"2650","park-cemetery-etc-Manhattan",2014-07-01 10:00:00,5
+"2651","park-cemetery-etc-Manhattan",2014-07-01 11:00:00,8
+"2652","park-cemetery-etc-Manhattan",2014-07-01 12:00:00,6
+"2653","park-cemetery-etc-Manhattan",2014-07-01 13:00:00,7
+"2654","park-cemetery-etc-Manhattan",2014-07-01 14:00:00,6
+"2655","park-cemetery-etc-Manhattan",2014-07-01 15:00:00,6
+"2656","park-cemetery-etc-Manhattan",2014-07-01 16:00:00,11
+"2657","park-cemetery-etc-Manhattan",2014-07-01 17:00:00,6
+"2658","park-cemetery-etc-Manhattan",2014-07-01 18:00:00,7
+"2659","park-cemetery-etc-Manhattan",2014-07-01 19:00:00,8
+"2660","park-cemetery-etc-Manhattan",2014-07-01 20:00:00,7
+"2661","park-cemetery-etc-Manhattan",2014-07-01 21:00:00,8
+"2662","park-cemetery-etc-Manhattan",2014-07-01 22:00:00,11
+"2663","park-cemetery-etc-Manhattan",2014-07-01 23:00:00,11
+"2664","park-cemetery-etc-Manhattan",2014-07-01 02:00:00,4
+"2665","park-cemetery-etc-Queens",2014-07-01 00:00:00,3
+"2666","park-cemetery-etc-Queens",2014-07-01 01:00:00,3
+"2667","park-cemetery-etc-Queens",2014-07-01 03:00:00,3
+"2668","park-cemetery-etc-Queens",2014-07-01 04:00:00,3
+"2669","park-cemetery-etc-Queens",2014-07-01 05:00:00,3
+"2670","park-cemetery-etc-Queens",2014-07-01 06:00:00,3
+"2671","park-cemetery-etc-Queens",2014-07-01 07:00:00,3
+"2672","park-cemetery-etc-Queens",2014-07-01 08:00:00,3
+"2673","park-cemetery-etc-Queens",2014-07-01 09:00:00,3
+"2674","park-cemetery-etc-Queens",2014-07-01 10:00:00,3
+"2675","park-cemetery-etc-Queens",2014-07-01 11:00:00,3
+"2676","park-cemetery-etc-Queens",2014-07-01 12:00:00,3
+"2677","park-cemetery-etc-Queens",2014-07-01 13:00:00,3
+"2678","park-cemetery-etc-Queens",2014-07-01 14:00:00,4
+"2679","park-cemetery-etc-Queens",2014-07-01 15:00:00,4
+"2680","park-cemetery-etc-Queens",2014-07-01 16:00:00,4
+"2681","park-cemetery-etc-Queens",2014-07-01 17:00:00,4
+"2682","park-cemetery-etc-Queens",2014-07-01 18:00:00,4
+"2683","park-cemetery-etc-Queens",2014-07-01 19:00:00,3
+"2684","park-cemetery-etc-Queens",2014-07-01 20:00:00,3
+"2685","park-cemetery-etc-Queens",2014-07-01 21:00:00,3
+"2686","park-cemetery-etc-Queens",2014-07-01 22:00:00,3
+"2687","park-cemetery-etc-Queens",2014-07-01 23:00:00,3
+"2688","park-cemetery-etc-Queens",2014-07-01 02:00:00,3
+"2689","Pelham Bay-Country Club-City Island",2014-07-01 00:00:00,2
+"2690","Pelham Bay-Country Club-City Island",2014-07-01 01:00:00,2
+"2691","Pelham Bay-Country Club-City Island",2014-07-01 03:00:00,2
+"2692","Pelham Bay-Country Club-City Island",2014-07-01 04:00:00,2
+"2693","Pelham Bay-Country Club-City Island",2014-07-01 05:00:00,2
+"2694","Pelham Bay-Country Club-City Island",2014-07-01 06:00:00,2
+"2695","Pelham Bay-Country Club-City Island",2014-07-01 07:00:00,2
+"2696","Pelham Bay-Country Club-City Island",2014-07-01 08:00:00,2
+"2697","Pelham Bay-Country Club-City Island",2014-07-01 09:00:00,2
+"2698","Pelham Bay-Country Club-City Island",2014-07-01 10:00:00,2
+"2699","Pelham Bay-Country Club-City Island",2014-07-01 11:00:00,2
+"2700","Pelham Bay-Country Club-City Island",2014-07-01 12:00:00,2
+"2701","Pelham Bay-Country Club-City Island",2014-07-01 13:00:00,2
+"2702","Pelham Bay-Country Club-City Island",2014-07-01 14:00:00,2
+"2703","Pelham Bay-Country Club-City Island",2014-07-01 15:00:00,2
+"2704","Pelham Bay-Country Club-City Island",2014-07-01 16:00:00,2
+"2705","Pelham Bay-Country Club-City Island",2014-07-01 17:00:00,2
+"2706","Pelham Bay-Country Club-City Island",2014-07-01 18:00:00,2
+"2707","Pelham Bay-Country Club-City Island",2014-07-01 19:00:00,2
+"2708","Pelham Bay-Country Club-City Island",2014-07-01 20:00:00,2
+"2709","Pelham Bay-Country Club-City Island",2014-07-01 21:00:00,2
+"2710","Pelham Bay-Country Club-City Island",2014-07-01 22:00:00,2
+"2711","Pelham Bay-Country Club-City Island",2014-07-01 23:00:00,2
+"2712","Pelham Bay-Country Club-City Island",2014-07-01 02:00:00,2
+"2713","Pelham Parkway",2014-07-01 00:00:00,2
+"2714","Pelham Parkway",2014-07-01 01:00:00,2
+"2715","Pelham Parkway",2014-07-01 03:00:00,2
+"2716","Pelham Parkway",2014-07-01 04:00:00,2
+"2717","Pelham Parkway",2014-07-01 05:00:00,2
+"2718","Pelham Parkway",2014-07-01 06:00:00,2
+"2719","Pelham Parkway",2014-07-01 07:00:00,2
+"2720","Pelham Parkway",2014-07-01 08:00:00,2
+"2721","Pelham Parkway",2014-07-01 09:00:00,2
+"2722","Pelham Parkway",2014-07-01 10:00:00,2
+"2723","Pelham Parkway",2014-07-01 11:00:00,2
+"2724","Pelham Parkway",2014-07-01 12:00:00,2
+"2725","Pelham Parkway",2014-07-01 13:00:00,2
+"2726","Pelham Parkway",2014-07-01 14:00:00,2
+"2727","Pelham Parkway",2014-07-01 15:00:00,2
+"2728","Pelham Parkway",2014-07-01 16:00:00,2
+"2729","Pelham Parkway",2014-07-01 17:00:00,2
+"2730","Pelham Parkway",2014-07-01 18:00:00,2
+"2731","Pelham Parkway",2014-07-01 19:00:00,2
+"2732","Pelham Parkway",2014-07-01 20:00:00,2
+"2733","Pelham Parkway",2014-07-01 21:00:00,2
+"2734","Pelham Parkway",2014-07-01 22:00:00,2
+"2735","Pelham Parkway",2014-07-01 23:00:00,2
+"2736","Pelham Parkway",2014-07-01 02:00:00,2
+"2737","Pomonok-Flushing Heights-Hillcrest",2014-07-01 00:00:00,2
+"2738","Pomonok-Flushing Heights-Hillcrest",2014-07-01 01:00:00,2
+"2739","Pomonok-Flushing Heights-Hillcrest",2014-07-01 03:00:00,2
+"2740","Pomonok-Flushing Heights-Hillcrest",2014-07-01 04:00:00,2
+"2741","Pomonok-Flushing Heights-Hillcrest",2014-07-01 05:00:00,2
+"2742","Pomonok-Flushing Heights-Hillcrest",2014-07-01 06:00:00,2
+"2743","Pomonok-Flushing Heights-Hillcrest",2014-07-01 07:00:00,2
+"2744","Pomonok-Flushing Heights-Hillcrest",2014-07-01 08:00:00,2
+"2745","Pomonok-Flushing Heights-Hillcrest",2014-07-01 09:00:00,2
+"2746","Pomonok-Flushing Heights-Hillcrest",2014-07-01 10:00:00,2
+"2747","Pomonok-Flushing Heights-Hillcrest",2014-07-01 11:00:00,2
+"2748","Pomonok-Flushing Heights-Hillcrest",2014-07-01 12:00:00,2
+"2749","Pomonok-Flushing Heights-Hillcrest",2014-07-01 13:00:00,2
+"2750","Pomonok-Flushing Heights-Hillcrest",2014-07-01 14:00:00,2
+"2751","Pomonok-Flushing Heights-Hillcrest",2014-07-01 15:00:00,2
+"2752","Pomonok-Flushing Heights-Hillcrest",2014-07-01 16:00:00,2
+"2753","Pomonok-Flushing Heights-Hillcrest",2014-07-01 17:00:00,2
+"2754","Pomonok-Flushing Heights-Hillcrest",2014-07-01 18:00:00,2
+"2755","Pomonok-Flushing Heights-Hillcrest",2014-07-01 19:00:00,2
+"2756","Pomonok-Flushing Heights-Hillcrest",2014-07-01 20:00:00,2
+"2757","Pomonok-Flushing Heights-Hillcrest",2014-07-01 21:00:00,2
+"2758","Pomonok-Flushing Heights-Hillcrest",2014-07-01 22:00:00,2
+"2759","Pomonok-Flushing Heights-Hillcrest",2014-07-01 23:00:00,2
+"2760","Pomonok-Flushing Heights-Hillcrest",2014-07-01 02:00:00,2
+"2761","Prospect Heights",2014-07-01 00:00:00,3
+"2762","Prospect Heights",2014-07-01 01:00:00,3
+"2763","Prospect Heights",2014-07-01 03:00:00,3
+"2764","Prospect Heights",2014-07-01 04:00:00,3
+"2765","Prospect Heights",2014-07-01 05:00:00,3
+"2766","Prospect Heights",2014-07-01 06:00:00,3
+"2767","Prospect Heights",2014-07-01 07:00:00,4
+"2768","Prospect Heights",2014-07-01 08:00:00,4
+"2769","Prospect Heights",2014-07-01 09:00:00,4
+"2770","Prospect Heights",2014-07-01 10:00:00,4
+"2771","Prospect Heights",2014-07-01 11:00:00,4
+"2772","Prospect Heights",2014-07-01 12:00:00,4
+"2773","Prospect Heights",2014-07-01 13:00:00,4
+"2774","Prospect Heights",2014-07-01 14:00:00,4
+"2775","Prospect Heights",2014-07-01 15:00:00,4
+"2776","Prospect Heights",2014-07-01 16:00:00,4
+"2777","Prospect Heights",2014-07-01 17:00:00,4
+"2778","Prospect Heights",2014-07-01 18:00:00,4
+"2779","Prospect Heights",2014-07-01 19:00:00,4
+"2780","Prospect Heights",2014-07-01 20:00:00,4
+"2781","Prospect Heights",2014-07-01 21:00:00,4
+"2782","Prospect Heights",2014-07-01 22:00:00,5
+"2783","Prospect Heights",2014-07-01 23:00:00,5
+"2784","Prospect Heights",2014-07-01 02:00:00,3
+"2785","Prospect Lefferts Gardens-Wingate",2014-07-01 00:00:00,3
+"2786","Prospect Lefferts Gardens-Wingate",2014-07-01 01:00:00,3
+"2787","Prospect Lefferts Gardens-Wingate",2014-07-01 03:00:00,3
+"2788","Prospect Lefferts Gardens-Wingate",2014-07-01 04:00:00,3
+"2789","Prospect Lefferts Gardens-Wingate",2014-07-01 05:00:00,3
+"2790","Prospect Lefferts Gardens-Wingate",2014-07-01 06:00:00,3
+"2791","Prospect Lefferts Gardens-Wingate",2014-07-01 07:00:00,3
+"2792","Prospect Lefferts Gardens-Wingate",2014-07-01 08:00:00,3
+"2793","Prospect Lefferts Gardens-Wingate",2014-07-01 09:00:00,3
+"2794","Prospect Lefferts Gardens-Wingate",2014-07-01 10:00:00,3
+"2795","Prospect Lefferts Gardens-Wingate",2014-07-01 11:00:00,3
+"2796","Prospect Lefferts Gardens-Wingate",2014-07-01 12:00:00,3
+"2797","Prospect Lefferts Gardens-Wingate",2014-07-01 13:00:00,3
+"2798","Prospect Lefferts Gardens-Wingate",2014-07-01 14:00:00,3
+"2799","Prospect Lefferts Gardens-Wingate",2014-07-01 15:00:00,3
+"2800","Prospect Lefferts Gardens-Wingate",2014-07-01 16:00:00,3
+"2801","Prospect Lefferts Gardens-Wingate",2014-07-01 17:00:00,3
+"2802","Prospect Lefferts Gardens-Wingate",2014-07-01 18:00:00,3
+"2803","Prospect Lefferts Gardens-Wingate",2014-07-01 19:00:00,3
+"2804","Prospect Lefferts Gardens-Wingate",2014-07-01 20:00:00,3
+"2805","Prospect Lefferts Gardens-Wingate",2014-07-01 21:00:00,3
+"2806","Prospect Lefferts Gardens-Wingate",2014-07-01 22:00:00,3
+"2807","Prospect Lefferts Gardens-Wingate",2014-07-01 23:00:00,3
+"2808","Prospect Lefferts Gardens-Wingate",2014-07-01 02:00:00,3
+"2809","Queens Village",2014-07-01 00:00:00,7
+"2810","Queens Village",2014-07-01 01:00:00,7
+"2811","Queens Village",2014-07-01 03:00:00,7
+"2812","Queens Village",2014-07-01 04:00:00,7
+"2813","Queens Village",2014-07-01 05:00:00,7
+"2814","Queens Village",2014-07-01 06:00:00,7
+"2815","Queens Village",2014-07-01 07:00:00,7
+"2816","Queens Village",2014-07-01 08:00:00,7
+"2817","Queens Village",2014-07-01 09:00:00,7
+"2818","Queens Village",2014-07-01 10:00:00,7
+"2819","Queens Village",2014-07-01 11:00:00,7
+"2820","Queens Village",2014-07-01 12:00:00,7
+"2821","Queens Village",2014-07-01 13:00:00,7
+"2822","Queens Village",2014-07-01 14:00:00,7
+"2823","Queens Village",2014-07-01 15:00:00,7
+"2824","Queens Village",2014-07-01 16:00:00,7
+"2825","Queens Village",2014-07-01 17:00:00,7
+"2826","Queens Village",2014-07-01 18:00:00,7
+"2827","Queens Village",2014-07-01 19:00:00,7
+"2828","Queens Village",2014-07-01 20:00:00,7
+"2829","Queens Village",2014-07-01 21:00:00,7
+"2830","Queens Village",2014-07-01 22:00:00,7
+"2831","Queens Village",2014-07-01 23:00:00,7
+"2832","Queens Village",2014-07-01 02:00:00,7
+"2833","Queensboro Hill",2014-07-01 00:00:00,2
+"2834","Queensboro Hill",2014-07-01 01:00:00,2
+"2835","Queensboro Hill",2014-07-01 03:00:00,2
+"2836","Queensboro Hill",2014-07-01 04:00:00,2
+"2837","Queensboro Hill",2014-07-01 05:00:00,2
+"2838","Queensboro Hill",2014-07-01 06:00:00,2
+"2839","Queensboro Hill",2014-07-01 07:00:00,2
+"2840","Queensboro Hill",2014-07-01 08:00:00,2
+"2841","Queensboro Hill",2014-07-01 09:00:00,2
+"2842","Queensboro Hill",2014-07-01 10:00:00,2
+"2843","Queensboro Hill",2014-07-01 11:00:00,2
+"2844","Queensboro Hill",2014-07-01 12:00:00,2
+"2845","Queensboro Hill",2014-07-01 13:00:00,2
+"2846","Queensboro Hill",2014-07-01 14:00:00,2
+"2847","Queensboro Hill",2014-07-01 15:00:00,2
+"2848","Queensboro Hill",2014-07-01 16:00:00,2
+"2849","Queensboro Hill",2014-07-01 17:00:00,2
+"2850","Queensboro Hill",2014-07-01 18:00:00,2
+"2851","Queensboro Hill",2014-07-01 19:00:00,2
+"2852","Queensboro Hill",2014-07-01 20:00:00,2
+"2853","Queensboro Hill",2014-07-01 21:00:00,2
+"2854","Queensboro Hill",2014-07-01 22:00:00,2
+"2855","Queensboro Hill",2014-07-01 23:00:00,2
+"2856","Queensboro Hill",2014-07-01 02:00:00,2
+"2857","Queensbridge-Ravenswood-Long Island City",2014-07-01 00:00:00,3
+"2858","Queensbridge-Ravenswood-Long Island City",2014-07-01 01:00:00,3
+"2859","Queensbridge-Ravenswood-Long Island City",2014-07-01 03:00:00,3
+"2860","Queensbridge-Ravenswood-Long Island City",2014-07-01 04:00:00,3
+"2861","Queensbridge-Ravenswood-Long Island City",2014-07-01 05:00:00,3
+"2862","Queensbridge-Ravenswood-Long Island City",2014-07-01 06:00:00,3
+"2863","Queensbridge-Ravenswood-Long Island City",2014-07-01 07:00:00,3
+"2864","Queensbridge-Ravenswood-Long Island City",2014-07-01 08:00:00,3
+"2865","Queensbridge-Ravenswood-Long Island City",2014-07-01 09:00:00,3
+"2866","Queensbridge-Ravenswood-Long Island City",2014-07-01 10:00:00,3
+"2867","Queensbridge-Ravenswood-Long Island City",2014-07-01 11:00:00,3
+"2868","Queensbridge-Ravenswood-Long Island City",2014-07-01 12:00:00,2
+"2869","Queensbridge-Ravenswood-Long Island City",2014-07-01 13:00:00,2
+"2870","Queensbridge-Ravenswood-Long Island City",2014-07-01 14:00:00,2
+"2871","Queensbridge-Ravenswood-Long Island City",2014-07-01 15:00:00,3
+"2872","Queensbridge-Ravenswood-Long Island City",2014-07-01 16:00:00,3
+"2873","Queensbridge-Ravenswood-Long Island City",2014-07-01 17:00:00,3
+"2874","Queensbridge-Ravenswood-Long Island City",2014-07-01 18:00:00,2
+"2875","Queensbridge-Ravenswood-Long Island City",2014-07-01 19:00:00,3
+"2876","Queensbridge-Ravenswood-Long Island City",2014-07-01 20:00:00,3
+"2877","Queensbridge-Ravenswood-Long Island City",2014-07-01 21:00:00,3
+"2878","Queensbridge-Ravenswood-Long Island City",2014-07-01 22:00:00,3
+"2879","Queensbridge-Ravenswood-Long Island City",2014-07-01 23:00:00,3
+"2880","Queensbridge-Ravenswood-Long Island City",2014-07-01 02:00:00,3
+"2881","Rego Park",2014-07-01 00:00:00,2
+"2882","Rego Park",2014-07-01 01:00:00,2
+"2883","Rego Park",2014-07-01 03:00:00,2
+"2884","Rego Park",2014-07-01 04:00:00,2
+"2885","Rego Park",2014-07-01 05:00:00,2
+"2886","Rego Park",2014-07-01 06:00:00,2
+"2887","Rego Park",2014-07-01 07:00:00,2
+"2888","Rego Park",2014-07-01 08:00:00,2
+"2889","Rego Park",2014-07-01 09:00:00,2
+"2890","Rego Park",2014-07-01 10:00:00,2
+"2891","Rego Park",2014-07-01 11:00:00,2
+"2892","Rego Park",2014-07-01 12:00:00,2
+"2893","Rego Park",2014-07-01 13:00:00,2
+"2894","Rego Park",2014-07-01 14:00:00,2
+"2895","Rego Park",2014-07-01 15:00:00,2
+"2896","Rego Park",2014-07-01 16:00:00,2
+"2897","Rego Park",2014-07-01 17:00:00,2
+"2898","Rego Park",2014-07-01 18:00:00,2
+"2899","Rego Park",2014-07-01 19:00:00,2
+"2900","Rego Park",2014-07-01 20:00:00,2
+"2901","Rego Park",2014-07-01 21:00:00,2
+"2902","Rego Park",2014-07-01 22:00:00,2
+"2903","Rego Park",2014-07-01 23:00:00,2
+"2904","Rego Park",2014-07-01 02:00:00,2
+"2905","Richmond Hill",2014-07-01 00:00:00,2
+"2906","Richmond Hill",2014-07-01 01:00:00,2
+"2907","Richmond Hill",2014-07-01 03:00:00,2
+"2908","Richmond Hill",2014-07-01 04:00:00,2
+"2909","Richmond Hill",2014-07-01 05:00:00,2
+"2910","Richmond Hill",2014-07-01 06:00:00,2
+"2911","Richmond Hill",2014-07-01 07:00:00,2
+"2912","Richmond Hill",2014-07-01 08:00:00,2
+"2913","Richmond Hill",2014-07-01 09:00:00,2
+"2914","Richmond Hill",2014-07-01 10:00:00,2
+"2915","Richmond Hill",2014-07-01 11:00:00,2
+"2916","Richmond Hill",2014-07-01 12:00:00,2
+"2917","Richmond Hill",2014-07-01 13:00:00,2
+"2918","Richmond Hill",2014-07-01 14:00:00,2
+"2919","Richmond Hill",2014-07-01 15:00:00,2
+"2920","Richmond Hill",2014-07-01 16:00:00,2
+"2921","Richmond Hill",2014-07-01 17:00:00,2
+"2922","Richmond Hill",2014-07-01 18:00:00,2
+"2923","Richmond Hill",2014-07-01 19:00:00,2
+"2924","Richmond Hill",2014-07-01 20:00:00,2
+"2925","Richmond Hill",2014-07-01 21:00:00,2
+"2926","Richmond Hill",2014-07-01 22:00:00,2
+"2927","Richmond Hill",2014-07-01 23:00:00,2
+"2928","Richmond Hill",2014-07-01 02:00:00,2
+"2929","Ridgewood",2014-07-01 00:00:00,2
+"2930","Ridgewood",2014-07-01 01:00:00,2
+"2931","Ridgewood",2014-07-01 03:00:00,2
+"2932","Ridgewood",2014-07-01 04:00:00,2
+"2933","Ridgewood",2014-07-01 05:00:00,2
+"2934","Ridgewood",2014-07-01 06:00:00,2
+"2935","Ridgewood",2014-07-01 07:00:00,2
+"2936","Ridgewood",2014-07-01 08:00:00,2
+"2937","Ridgewood",2014-07-01 09:00:00,2
+"2938","Ridgewood",2014-07-01 10:00:00,2
+"2939","Ridgewood",2014-07-01 11:00:00,2
+"2940","Ridgewood",2014-07-01 12:00:00,2
+"2941","Ridgewood",2014-07-01 13:00:00,2
+"2942","Ridgewood",2014-07-01 14:00:00,2
+"2943","Ridgewood",2014-07-01 15:00:00,2
+"2944","Ridgewood",2014-07-01 16:00:00,2
+"2945","Ridgewood",2014-07-01 17:00:00,2
+"2946","Ridgewood",2014-07-01 18:00:00,2
+"2947","Ridgewood",2014-07-01 19:00:00,2
+"2948","Ridgewood",2014-07-01 20:00:00,2
+"2949","Ridgewood",2014-07-01 21:00:00,2
+"2950","Ridgewood",2014-07-01 22:00:00,2
+"2951","Ridgewood",2014-07-01 23:00:00,2
+"2952","Ridgewood",2014-07-01 02:00:00,2
+"2953","Rosedale",2014-07-01 00:00:00,2
+"2954","Rosedale",2014-07-01 01:00:00,2
+"2955","Rosedale",2014-07-01 03:00:00,2
+"2956","Rosedale",2014-07-01 04:00:00,2
+"2957","Rosedale",2014-07-01 05:00:00,2
+"2958","Rosedale",2014-07-01 06:00:00,2
+"2959","Rosedale",2014-07-01 07:00:00,2
+"2960","Rosedale",2014-07-01 08:00:00,2
+"2961","Rosedale",2014-07-01 09:00:00,2
+"2962","Rosedale",2014-07-01 10:00:00,2
+"2963","Rosedale",2014-07-01 11:00:00,2
+"2964","Rosedale",2014-07-01 12:00:00,2
+"2965","Rosedale",2014-07-01 13:00:00,2
+"2966","Rosedale",2014-07-01 14:00:00,2
+"2967","Rosedale",2014-07-01 15:00:00,2
+"2968","Rosedale",2014-07-01 16:00:00,2
+"2969","Rosedale",2014-07-01 17:00:00,2
+"2970","Rosedale",2014-07-01 18:00:00,2
+"2971","Rosedale",2014-07-01 19:00:00,2
+"2972","Rosedale",2014-07-01 20:00:00,2
+"2973","Rosedale",2014-07-01 21:00:00,2
+"2974","Rosedale",2014-07-01 22:00:00,2
+"2975","Rosedale",2014-07-01 23:00:00,2
+"2976","Rosedale",2014-07-01 02:00:00,2
+"2977","Rugby-Remsen Village",2014-07-01 00:00:00,2
+"2978","Rugby-Remsen Village",2014-07-01 01:00:00,2
+"2979","Rugby-Remsen Village",2014-07-01 03:00:00,2
+"2980","Rugby-Remsen Village",2014-07-01 04:00:00,2
+"2981","Rugby-Remsen Village",2014-07-01 05:00:00,2
+"2982","Rugby-Remsen Village",2014-07-01 06:00:00,2
+"2983","Rugby-Remsen Village",2014-07-01 07:00:00,2
+"2984","Rugby-Remsen Village",2014-07-01 08:00:00,2
+"2985","Rugby-Remsen Village",2014-07-01 09:00:00,2
+"2986","Rugby-Remsen Village",2014-07-01 10:00:00,2
+"2987","Rugby-Remsen Village",2014-07-01 11:00:00,2
+"2988","Rugby-Remsen Village",2014-07-01 12:00:00,2
+"2989","Rugby-Remsen Village",2014-07-01 13:00:00,2
+"2990","Rugby-Remsen Village",2014-07-01 14:00:00,2
+"2991","Rugby-Remsen Village",2014-07-01 15:00:00,2
+"2992","Rugby-Remsen Village",2014-07-01 16:00:00,2
+"2993","Rugby-Remsen Village",2014-07-01 17:00:00,2
+"2994","Rugby-Remsen Village",2014-07-01 18:00:00,2
+"2995","Rugby-Remsen Village",2014-07-01 19:00:00,2
+"2996","Rugby-Remsen Village",2014-07-01 20:00:00,2
+"2997","Rugby-Remsen Village",2014-07-01 21:00:00,2
+"2998","Rugby-Remsen Village",2014-07-01 22:00:00,2
+"2999","Rugby-Remsen Village",2014-07-01 23:00:00,2
+"3000","Rugby-Remsen Village",2014-07-01 02:00:00,2
+"3001","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 00:00:00,2
+"3002","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 01:00:00,2
+"3003","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 03:00:00,2
+"3004","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 04:00:00,2
+"3005","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 05:00:00,2
+"3006","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 06:00:00,2
+"3007","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 07:00:00,2
+"3008","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 08:00:00,2
+"3009","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 09:00:00,2
+"3010","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 10:00:00,2
+"3011","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 11:00:00,2
+"3012","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 12:00:00,2
+"3013","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 13:00:00,2
+"3014","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 14:00:00,2
+"3015","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 15:00:00,2
+"3016","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 16:00:00,2
+"3017","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 17:00:00,2
+"3018","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 18:00:00,2
+"3019","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 19:00:00,2
+"3020","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 20:00:00,2
+"3021","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 21:00:00,2
+"3022","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 22:00:00,2
+"3023","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 23:00:00,2
+"3024","Schuylerville-Throgs Neck-Edgewater Park",2014-07-01 02:00:00,2
+"3025","Seagate-Coney Island",2014-07-01 00:00:00,2
+"3026","Seagate-Coney Island",2014-07-01 01:00:00,2
+"3027","Seagate-Coney Island",2014-07-01 03:00:00,2
+"3028","Seagate-Coney Island",2014-07-01 04:00:00,2
+"3029","Seagate-Coney Island",2014-07-01 05:00:00,2
+"3030","Seagate-Coney Island",2014-07-01 06:00:00,2
+"3031","Seagate-Coney Island",2014-07-01 07:00:00,2
+"3032","Seagate-Coney Island",2014-07-01 08:00:00,2
+"3033","Seagate-Coney Island",2014-07-01 09:00:00,2
+"3034","Seagate-Coney Island",2014-07-01 10:00:00,2
+"3035","Seagate-Coney Island",2014-07-01 11:00:00,2
+"3036","Seagate-Coney Island",2014-07-01 12:00:00,2
+"3037","Seagate-Coney Island",2014-07-01 13:00:00,2
+"3038","Seagate-Coney Island",2014-07-01 14:00:00,2
+"3039","Seagate-Coney Island",2014-07-01 15:00:00,2
+"3040","Seagate-Coney Island",2014-07-01 16:00:00,2
+"3041","Seagate-Coney Island",2014-07-01 17:00:00,2
+"3042","Seagate-Coney Island",2014-07-01 18:00:00,2
+"3043","Seagate-Coney Island",2014-07-01 19:00:00,2
+"3044","Seagate-Coney Island",2014-07-01 20:00:00,2
+"3045","Seagate-Coney Island",2014-07-01 21:00:00,2
+"3046","Seagate-Coney Island",2014-07-01 22:00:00,2
+"3047","Seagate-Coney Island",2014-07-01 23:00:00,2
+"3048","Seagate-Coney Island",2014-07-01 02:00:00,2
+"3049","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 00:00:00,2
+"3050","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 01:00:00,2
+"3051","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 03:00:00,2
+"3052","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 04:00:00,2
+"3053","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 05:00:00,2
+"3054","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 06:00:00,2
+"3055","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 07:00:00,2
+"3056","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 08:00:00,2
+"3057","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 09:00:00,2
+"3058","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 10:00:00,2
+"3059","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 11:00:00,2
+"3060","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 12:00:00,2
+"3061","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 13:00:00,2
+"3062","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 14:00:00,2
+"3063","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 15:00:00,2
+"3064","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 16:00:00,2
+"3065","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 17:00:00,2
+"3066","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 18:00:00,2
+"3067","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 19:00:00,2
+"3068","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 20:00:00,2
+"3069","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 21:00:00,2
+"3070","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 22:00:00,2
+"3071","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 23:00:00,2
+"3072","Sheepshead Bay-Gerritsen Beach-Manhattan Beach",2014-07-01 02:00:00,2
+"3073","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 00:00:00,26
+"3074","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 01:00:00,13
+"3075","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 03:00:00,11
+"3076","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 04:00:00,18
+"3077","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 05:00:00,31
+"3078","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 06:00:00,27
+"3079","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 07:00:00,75
+"3080","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 08:00:00,89
+"3081","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 09:00:00,75
+"3082","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 10:00:00,98
+"3083","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 11:00:00,89
+"3084","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 12:00:00,83
+"3085","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 13:00:00,90
+"3086","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 14:00:00,98
+"3087","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 15:00:00,170
+"3088","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 16:00:00,110
+"3089","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 17:00:00,111
+"3090","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 18:00:00,197
+"3091","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 19:00:00,145
+"3092","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 20:00:00,117
+"3093","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 21:00:00,107
+"3094","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 22:00:00,93
+"3095","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 23:00:00,51
+"3096","SoHo-TriBeCa-Civic Center-Little Italy",2014-07-01 02:00:00,12
+"3097","Soundview-Bruckner",2014-07-01 00:00:00,2
+"3098","Soundview-Bruckner",2014-07-01 01:00:00,2
+"3099","Soundview-Bruckner",2014-07-01 03:00:00,2
+"3100","Soundview-Bruckner",2014-07-01 04:00:00,2
+"3101","Soundview-Bruckner",2014-07-01 05:00:00,2
+"3102","Soundview-Bruckner",2014-07-01 06:00:00,2
+"3103","Soundview-Bruckner",2014-07-01 07:00:00,2
+"3104","Soundview-Bruckner",2014-07-01 08:00:00,2
+"3105","Soundview-Bruckner",2014-07-01 09:00:00,2
+"3106","Soundview-Bruckner",2014-07-01 10:00:00,2
+"3107","Soundview-Bruckner",2014-07-01 11:00:00,2
+"3108","Soundview-Bruckner",2014-07-01 12:00:00,2
+"3109","Soundview-Bruckner",2014-07-01 13:00:00,2
+"3110","Soundview-Bruckner",2014-07-01 14:00:00,2
+"3111","Soundview-Bruckner",2014-07-01 15:00:00,2
+"3112","Soundview-Bruckner",2014-07-01 16:00:00,2
+"3113","Soundview-Bruckner",2014-07-01 17:00:00,2
+"3114","Soundview-Bruckner",2014-07-01 18:00:00,2
+"3115","Soundview-Bruckner",2014-07-01 19:00:00,2
+"3116","Soundview-Bruckner",2014-07-01 20:00:00,2
+"3117","Soundview-Bruckner",2014-07-01 21:00:00,2
+"3118","Soundview-Bruckner",2014-07-01 22:00:00,2
+"3119","Soundview-Bruckner",2014-07-01 23:00:00,2
+"3120","Soundview-Bruckner",2014-07-01 02:00:00,2
+"3121","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 00:00:00,2
+"3122","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 01:00:00,2
+"3123","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 03:00:00,2
+"3124","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 04:00:00,2
+"3125","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 05:00:00,2
+"3126","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 06:00:00,2
+"3127","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 07:00:00,2
+"3128","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 08:00:00,2
+"3129","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 09:00:00,2
+"3130","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 10:00:00,2
+"3131","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 11:00:00,2
+"3132","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 12:00:00,2
+"3133","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 13:00:00,2
+"3134","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 14:00:00,2
+"3135","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 15:00:00,2
+"3136","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 16:00:00,2
+"3137","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 17:00:00,2
+"3138","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 18:00:00,2
+"3139","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 19:00:00,2
+"3140","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 20:00:00,2
+"3141","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 21:00:00,2
+"3142","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 22:00:00,2
+"3143","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 23:00:00,2
+"3144","Soundview-Castle Hill-Clason Point-Harding Park",2014-07-01 02:00:00,2
+"3145","South Jamaica",2014-07-01 00:00:00,2
+"3146","South Jamaica",2014-07-01 01:00:00,2
+"3147","South Jamaica",2014-07-01 03:00:00,2
+"3148","South Jamaica",2014-07-01 04:00:00,2
+"3149","South Jamaica",2014-07-01 05:00:00,2
+"3150","South Jamaica",2014-07-01 06:00:00,2
+"3151","South Jamaica",2014-07-01 07:00:00,2
+"3152","South Jamaica",2014-07-01 08:00:00,2
+"3153","South Jamaica",2014-07-01 09:00:00,2
+"3154","South Jamaica",2014-07-01 10:00:00,2
+"3155","South Jamaica",2014-07-01 11:00:00,2
+"3156","South Jamaica",2014-07-01 12:00:00,2
+"3157","South Jamaica",2014-07-01 13:00:00,2
+"3158","South Jamaica",2014-07-01 14:00:00,2
+"3159","South Jamaica",2014-07-01 15:00:00,2
+"3160","South Jamaica",2014-07-01 16:00:00,2
+"3161","South Jamaica",2014-07-01 17:00:00,2
+"3162","South Jamaica",2014-07-01 18:00:00,2
+"3163","South Jamaica",2014-07-01 19:00:00,2
+"3164","South Jamaica",2014-07-01 20:00:00,2
+"3165","South Jamaica",2014-07-01 21:00:00,2
+"3166","South Jamaica",2014-07-01 22:00:00,2
+"3167","South Jamaica",2014-07-01 23:00:00,2
+"3168","South Jamaica",2014-07-01 02:00:00,2
+"3169","South Ozone Park",2014-07-01 00:00:00,2
+"3170","South Ozone Park",2014-07-01 01:00:00,2
+"3171","South Ozone Park",2014-07-01 03:00:00,2
+"3172","South Ozone Park",2014-07-01 04:00:00,2
+"3173","South Ozone Park",2014-07-01 05:00:00,2
+"3174","South Ozone Park",2014-07-01 06:00:00,2
+"3175","South Ozone Park",2014-07-01 07:00:00,2
+"3176","South Ozone Park",2014-07-01 08:00:00,2
+"3177","South Ozone Park",2014-07-01 09:00:00,2
+"3178","South Ozone Park",2014-07-01 10:00:00,2
+"3179","South Ozone Park",2014-07-01 11:00:00,2
+"3180","South Ozone Park",2014-07-01 12:00:00,2
+"3181","South Ozone Park",2014-07-01 13:00:00,2
+"3182","South Ozone Park",2014-07-01 14:00:00,2
+"3183","South Ozone Park",2014-07-01 15:00:00,2
+"3184","South Ozone Park",2014-07-01 16:00:00,2
+"3185","South Ozone Park",2014-07-01 17:00:00,2
+"3186","South Ozone Park",2014-07-01 18:00:00,2
+"3187","South Ozone Park",2014-07-01 19:00:00,2
+"3188","South Ozone Park",2014-07-01 20:00:00,2
+"3189","South Ozone Park",2014-07-01 21:00:00,2
+"3190","South Ozone Park",2014-07-01 22:00:00,2
+"3191","South Ozone Park",2014-07-01 23:00:00,2
+"3192","South Ozone Park",2014-07-01 02:00:00,2
+"3193","Springfield Gardens South-Brookville",2014-07-01 00:00:00,2
+"3194","Springfield Gardens South-Brookville",2014-07-01 01:00:00,2
+"3195","Springfield Gardens South-Brookville",2014-07-01 03:00:00,2
+"3196","Springfield Gardens South-Brookville",2014-07-01 04:00:00,2
+"3197","Springfield Gardens South-Brookville",2014-07-01 05:00:00,2
+"3198","Springfield Gardens South-Brookville",2014-07-01 06:00:00,2
+"3199","Springfield Gardens South-Brookville",2014-07-01 07:00:00,2
+"3200","Springfield Gardens South-Brookville",2014-07-01 08:00:00,2
+"3201","Springfield Gardens South-Brookville",2014-07-01 09:00:00,2
+"3202","Springfield Gardens South-Brookville",2014-07-01 10:00:00,2
+"3203","Springfield Gardens South-Brookville",2014-07-01 11:00:00,2
+"3204","Springfield Gardens South-Brookville",2014-07-01 12:00:00,2
+"3205","Springfield Gardens South-Brookville",2014-07-01 13:00:00,2
+"3206","Springfield Gardens South-Brookville",2014-07-01 14:00:00,2
+"3207","Springfield Gardens South-Brookville",2014-07-01 15:00:00,2
+"3208","Springfield Gardens South-Brookville",2014-07-01 16:00:00,2
+"3209","Springfield Gardens South-Brookville",2014-07-01 17:00:00,2
+"3210","Springfield Gardens South-Brookville",2014-07-01 18:00:00,2
+"3211","Springfield Gardens South-Brookville",2014-07-01 19:00:00,2
+"3212","Springfield Gardens South-Brookville",2014-07-01 20:00:00,2
+"3213","Springfield Gardens South-Brookville",2014-07-01 21:00:00,2
+"3214","Springfield Gardens South-Brookville",2014-07-01 22:00:00,2
+"3215","Springfield Gardens South-Brookville",2014-07-01 23:00:00,2
+"3216","Springfield Gardens South-Brookville",2014-07-01 02:00:00,2
+"3217","Spuyten Duyvil-Kingsbridge",2014-07-01 00:00:00,2
+"3218","Spuyten Duyvil-Kingsbridge",2014-07-01 01:00:00,2
+"3219","Spuyten Duyvil-Kingsbridge",2014-07-01 03:00:00,2
+"3220","Spuyten Duyvil-Kingsbridge",2014-07-01 04:00:00,2
+"3221","Spuyten Duyvil-Kingsbridge",2014-07-01 05:00:00,2
+"3222","Spuyten Duyvil-Kingsbridge",2014-07-01 06:00:00,2
+"3223","Spuyten Duyvil-Kingsbridge",2014-07-01 07:00:00,2
+"3224","Spuyten Duyvil-Kingsbridge",2014-07-01 08:00:00,2
+"3225","Spuyten Duyvil-Kingsbridge",2014-07-01 09:00:00,2
+"3226","Spuyten Duyvil-Kingsbridge",2014-07-01 10:00:00,2
+"3227","Spuyten Duyvil-Kingsbridge",2014-07-01 11:00:00,2
+"3228","Spuyten Duyvil-Kingsbridge",2014-07-01 12:00:00,2
+"3229","Spuyten Duyvil-Kingsbridge",2014-07-01 13:00:00,2
+"3230","Spuyten Duyvil-Kingsbridge",2014-07-01 14:00:00,2
+"3231","Spuyten Duyvil-Kingsbridge",2014-07-01 15:00:00,2
+"3232","Spuyten Duyvil-Kingsbridge",2014-07-01 16:00:00,2
+"3233","Spuyten Duyvil-Kingsbridge",2014-07-01 17:00:00,2
+"3234","Spuyten Duyvil-Kingsbridge",2014-07-01 18:00:00,2
+"3235","Spuyten Duyvil-Kingsbridge",2014-07-01 19:00:00,2
+"3236","Spuyten Duyvil-Kingsbridge",2014-07-01 20:00:00,2
+"3237","Spuyten Duyvil-Kingsbridge",2014-07-01 21:00:00,2
+"3238","Spuyten Duyvil-Kingsbridge",2014-07-01 22:00:00,2
+"3239","Spuyten Duyvil-Kingsbridge",2014-07-01 23:00:00,2
+"3240","Spuyten Duyvil-Kingsbridge",2014-07-01 02:00:00,2
+"3241","St. Albans",2014-07-01 00:00:00,2
+"3242","St. Albans",2014-07-01 01:00:00,2
+"3243","St. Albans",2014-07-01 03:00:00,2
+"3244","St. Albans",2014-07-01 04:00:00,2
+"3245","St. Albans",2014-07-01 05:00:00,2
+"3246","St. Albans",2014-07-01 06:00:00,2
+"3247","St. Albans",2014-07-01 07:00:00,2
+"3248","St. Albans",2014-07-01 08:00:00,2
+"3249","St. Albans",2014-07-01 09:00:00,2
+"3250","St. Albans",2014-07-01 10:00:00,2
+"3251","St. Albans",2014-07-01 11:00:00,2
+"3252","St. Albans",2014-07-01 12:00:00,2
+"3253","St. Albans",2014-07-01 13:00:00,2
+"3254","St. Albans",2014-07-01 14:00:00,2
+"3255","St. Albans",2014-07-01 15:00:00,2
+"3256","St. Albans",2014-07-01 16:00:00,2
+"3257","St. Albans",2014-07-01 17:00:00,2
+"3258","St. Albans",2014-07-01 18:00:00,2
+"3259","St. Albans",2014-07-01 19:00:00,2
+"3260","St. Albans",2014-07-01 20:00:00,2
+"3261","St. Albans",2014-07-01 21:00:00,2
+"3262","St. Albans",2014-07-01 22:00:00,2
+"3263","St. Albans",2014-07-01 23:00:00,2
+"3264","St. Albans",2014-07-01 02:00:00,2
+"3265","Starrett City",2014-07-01 00:00:00,2
+"3266","Starrett City",2014-07-01 01:00:00,2
+"3267","Starrett City",2014-07-01 03:00:00,2
+"3268","Starrett City",2014-07-01 04:00:00,2
+"3269","Starrett City",2014-07-01 05:00:00,2
+"3270","Starrett City",2014-07-01 06:00:00,2
+"3271","Starrett City",2014-07-01 07:00:00,2
+"3272","Starrett City",2014-07-01 08:00:00,2
+"3273","Starrett City",2014-07-01 09:00:00,2
+"3274","Starrett City",2014-07-01 10:00:00,2
+"3275","Starrett City",2014-07-01 11:00:00,2
+"3276","Starrett City",2014-07-01 12:00:00,2
+"3277","Starrett City",2014-07-01 13:00:00,2
+"3278","Starrett City",2014-07-01 14:00:00,2
+"3279","Starrett City",2014-07-01 15:00:00,2
+"3280","Starrett City",2014-07-01 16:00:00,2
+"3281","Starrett City",2014-07-01 17:00:00,2
+"3282","Starrett City",2014-07-01 18:00:00,2
+"3283","Starrett City",2014-07-01 19:00:00,2
+"3284","Starrett City",2014-07-01 20:00:00,2
+"3285","Starrett City",2014-07-01 21:00:00,2
+"3286","Starrett City",2014-07-01 22:00:00,2
+"3287","Starrett City",2014-07-01 23:00:00,2
+"3288","Starrett City",2014-07-01 02:00:00,2
+"3289","Steinway",2014-07-01 00:00:00,3
+"3290","Steinway",2014-07-01 01:00:00,3
+"3291","Steinway",2014-07-01 03:00:00,3
+"3292","Steinway",2014-07-01 04:00:00,3
+"3293","Steinway",2014-07-01 05:00:00,3
+"3294","Steinway",2014-07-01 06:00:00,3
+"3295","Steinway",2014-07-01 07:00:00,3
+"3296","Steinway",2014-07-01 08:00:00,3
+"3297","Steinway",2014-07-01 09:00:00,3
+"3298","Steinway",2014-07-01 10:00:00,3
+"3299","Steinway",2014-07-01 11:00:00,3
+"3300","Steinway",2014-07-01 12:00:00,3
+"3301","Steinway",2014-07-01 13:00:00,3
+"3302","Steinway",2014-07-01 14:00:00,3
+"3303","Steinway",2014-07-01 15:00:00,3
+"3304","Steinway",2014-07-01 16:00:00,3
+"3305","Steinway",2014-07-01 17:00:00,3
+"3306","Steinway",2014-07-01 18:00:00,3
+"3307","Steinway",2014-07-01 19:00:00,3
+"3308","Steinway",2014-07-01 20:00:00,3
+"3309","Steinway",2014-07-01 21:00:00,3
+"3310","Steinway",2014-07-01 22:00:00,3
+"3311","Steinway",2014-07-01 23:00:00,3
+"3312","Steinway",2014-07-01 02:00:00,3
+"3313","Stuyvesant Heights",2014-07-01 00:00:00,3
+"3314","Stuyvesant Heights",2014-07-01 01:00:00,3
+"3315","Stuyvesant Heights",2014-07-01 03:00:00,3
+"3316","Stuyvesant Heights",2014-07-01 04:00:00,3
+"3317","Stuyvesant Heights",2014-07-01 05:00:00,3
+"3318","Stuyvesant Heights",2014-07-01 06:00:00,3
+"3319","Stuyvesant Heights",2014-07-01 07:00:00,3
+"3320","Stuyvesant Heights",2014-07-01 08:00:00,3
+"3321","Stuyvesant Heights",2014-07-01 09:00:00,3
+"3322","Stuyvesant Heights",2014-07-01 10:00:00,3
+"3323","Stuyvesant Heights",2014-07-01 11:00:00,3
+"3324","Stuyvesant Heights",2014-07-01 12:00:00,3
+"3325","Stuyvesant Heights",2014-07-01 13:00:00,3
+"3326","Stuyvesant Heights",2014-07-01 14:00:00,3
+"3327","Stuyvesant Heights",2014-07-01 15:00:00,3
+"3328","Stuyvesant Heights",2014-07-01 16:00:00,3
+"3329","Stuyvesant Heights",2014-07-01 17:00:00,3
+"3330","Stuyvesant Heights",2014-07-01 18:00:00,3
+"3331","Stuyvesant Heights",2014-07-01 19:00:00,3
+"3332","Stuyvesant Heights",2014-07-01 20:00:00,3
+"3333","Stuyvesant Heights",2014-07-01 21:00:00,3
+"3334","Stuyvesant Heights",2014-07-01 22:00:00,3
+"3335","Stuyvesant Heights",2014-07-01 23:00:00,3
+"3336","Stuyvesant Heights",2014-07-01 02:00:00,3
+"3337","Stuyvesant Town-Cooper Village",2014-07-01 00:00:00,5
+"3338","Stuyvesant Town-Cooper Village",2014-07-01 01:00:00,5
+"3339","Stuyvesant Town-Cooper Village",2014-07-01 03:00:00,5
+"3340","Stuyvesant Town-Cooper Village",2014-07-01 04:00:00,5
+"3341","Stuyvesant Town-Cooper Village",2014-07-01 05:00:00,5
+"3342","Stuyvesant Town-Cooper Village",2014-07-01 06:00:00,5
+"3343","Stuyvesant Town-Cooper Village",2014-07-01 07:00:00,7
+"3344","Stuyvesant Town-Cooper Village",2014-07-01 08:00:00,12
+"3345","Stuyvesant Town-Cooper Village",2014-07-01 09:00:00,16
+"3346","Stuyvesant Town-Cooper Village",2014-07-01 10:00:00,4
+"3347","Stuyvesant Town-Cooper Village",2014-07-01 11:00:00,3
+"3348","Stuyvesant Town-Cooper Village",2014-07-01 12:00:00,1
+"3349","Stuyvesant Town-Cooper Village",2014-07-01 13:00:00,3
+"3350","Stuyvesant Town-Cooper Village",2014-07-01 14:00:00,4
+"3351","Stuyvesant Town-Cooper Village",2014-07-01 15:00:00,3
+"3352","Stuyvesant Town-Cooper Village",2014-07-01 16:00:00,4
+"3353","Stuyvesant Town-Cooper Village",2014-07-01 17:00:00,4
+"3354","Stuyvesant Town-Cooper Village",2014-07-01 18:00:00,5
+"3355","Stuyvesant Town-Cooper Village",2014-07-01 19:00:00,7
+"3356","Stuyvesant Town-Cooper Village",2014-07-01 20:00:00,4
+"3357","Stuyvesant Town-Cooper Village",2014-07-01 21:00:00,4
+"3358","Stuyvesant Town-Cooper Village",2014-07-01 22:00:00,5
+"3359","Stuyvesant Town-Cooper Village",2014-07-01 23:00:00,4
+"3360","Stuyvesant Town-Cooper Village",2014-07-01 02:00:00,5
+"3361","Sunset Park East",2014-07-01 00:00:00,2
+"3362","Sunset Park East",2014-07-01 01:00:00,2
+"3363","Sunset Park East",2014-07-01 03:00:00,2
+"3364","Sunset Park East",2014-07-01 04:00:00,2
+"3365","Sunset Park East",2014-07-01 05:00:00,2
+"3366","Sunset Park East",2014-07-01 06:00:00,2
+"3367","Sunset Park East",2014-07-01 07:00:00,2
+"3368","Sunset Park East",2014-07-01 08:00:00,2
+"3369","Sunset Park East",2014-07-01 09:00:00,2
+"3370","Sunset Park East",2014-07-01 10:00:00,2
+"3371","Sunset Park East",2014-07-01 11:00:00,2
+"3372","Sunset Park East",2014-07-01 12:00:00,2
+"3373","Sunset Park East",2014-07-01 13:00:00,2
+"3374","Sunset Park East",2014-07-01 14:00:00,2
+"3375","Sunset Park East",2014-07-01 15:00:00,2
+"3376","Sunset Park East",2014-07-01 16:00:00,2
+"3377","Sunset Park East",2014-07-01 17:00:00,2
+"3378","Sunset Park East",2014-07-01 18:00:00,2
+"3379","Sunset Park East",2014-07-01 19:00:00,2
+"3380","Sunset Park East",2014-07-01 20:00:00,2
+"3381","Sunset Park East",2014-07-01 21:00:00,2
+"3382","Sunset Park East",2014-07-01 22:00:00,2
+"3383","Sunset Park East",2014-07-01 23:00:00,2
+"3384","Sunset Park East",2014-07-01 02:00:00,2
+"3385","Sunset Park West",2014-07-01 00:00:00,3
+"3386","Sunset Park West",2014-07-01 01:00:00,3
+"3387","Sunset Park West",2014-07-01 03:00:00,3
+"3388","Sunset Park West",2014-07-01 04:00:00,3
+"3389","Sunset Park West",2014-07-01 05:00:00,3
+"3390","Sunset Park West",2014-07-01 06:00:00,3
+"3391","Sunset Park West",2014-07-01 07:00:00,3
+"3392","Sunset Park West",2014-07-01 08:00:00,3
+"3393","Sunset Park West",2014-07-01 09:00:00,3
+"3394","Sunset Park West",2014-07-01 10:00:00,3
+"3395","Sunset Park West",2014-07-01 11:00:00,3
+"3396","Sunset Park West",2014-07-01 12:00:00,3
+"3397","Sunset Park West",2014-07-01 13:00:00,3
+"3398","Sunset Park West",2014-07-01 14:00:00,3
+"3399","Sunset Park West",2014-07-01 15:00:00,3
+"3400","Sunset Park West",2014-07-01 16:00:00,3
+"3401","Sunset Park West",2014-07-01 17:00:00,3
+"3402","Sunset Park West",2014-07-01 18:00:00,3
+"3403","Sunset Park West",2014-07-01 19:00:00,3
+"3404","Sunset Park West",2014-07-01 20:00:00,3
+"3405","Sunset Park West",2014-07-01 21:00:00,3
+"3406","Sunset Park West",2014-07-01 22:00:00,3
+"3407","Sunset Park West",2014-07-01 23:00:00,3
+"3408","Sunset Park West",2014-07-01 02:00:00,3
+"3409","Turtle Bay-East Midtown",2014-07-01 00:00:00,20
+"3410","Turtle Bay-East Midtown",2014-07-01 01:00:00,9
+"3411","Turtle Bay-East Midtown",2014-07-01 03:00:00,6
+"3412","Turtle Bay-East Midtown",2014-07-01 04:00:00,8
+"3413","Turtle Bay-East Midtown",2014-07-01 05:00:00,9
+"3414","Turtle Bay-East Midtown",2014-07-01 06:00:00,19
+"3415","Turtle Bay-East Midtown",2014-07-01 07:00:00,28
+"3416","Turtle Bay-East Midtown",2014-07-01 08:00:00,55
+"3417","Turtle Bay-East Midtown",2014-07-01 09:00:00,41
+"3418","Turtle Bay-East Midtown",2014-07-01 10:00:00,36
+"3419","Turtle Bay-East Midtown",2014-07-01 11:00:00,32
+"3420","Turtle Bay-East Midtown",2014-07-01 12:00:00,52
+"3421","Turtle Bay-East Midtown",2014-07-01 13:00:00,54
+"3422","Turtle Bay-East Midtown",2014-07-01 14:00:00,54
+"3423","Turtle Bay-East Midtown",2014-07-01 15:00:00,95
+"3424","Turtle Bay-East Midtown",2014-07-01 16:00:00,100
+"3425","Turtle Bay-East Midtown",2014-07-01 17:00:00,92
+"3426","Turtle Bay-East Midtown",2014-07-01 18:00:00,167
+"3427","Turtle Bay-East Midtown",2014-07-01 19:00:00,93
+"3428","Turtle Bay-East Midtown",2014-07-01 20:00:00,79
+"3429","Turtle Bay-East Midtown",2014-07-01 21:00:00,59
+"3430","Turtle Bay-East Midtown",2014-07-01 22:00:00,35
+"3431","Turtle Bay-East Midtown",2014-07-01 23:00:00,23
+"3432","Turtle Bay-East Midtown",2014-07-01 02:00:00,11
+"3433","University Heights-Morris Heights",2014-07-01 00:00:00,2
+"3434","University Heights-Morris Heights",2014-07-01 01:00:00,2
+"3435","University Heights-Morris Heights",2014-07-01 03:00:00,2
+"3436","University Heights-Morris Heights",2014-07-01 04:00:00,2
+"3437","University Heights-Morris Heights",2014-07-01 05:00:00,2
+"3438","University Heights-Morris Heights",2014-07-01 06:00:00,2
+"3439","University Heights-Morris Heights",2014-07-01 07:00:00,2
+"3440","University Heights-Morris Heights",2014-07-01 08:00:00,2
+"3441","University Heights-Morris Heights",2014-07-01 09:00:00,2
+"3442","University Heights-Morris Heights",2014-07-01 10:00:00,2
+"3443","University Heights-Morris Heights",2014-07-01 11:00:00,2
+"3444","University Heights-Morris Heights",2014-07-01 12:00:00,2
+"3445","University Heights-Morris Heights",2014-07-01 13:00:00,2
+"3446","University Heights-Morris Heights",2014-07-01 14:00:00,2
+"3447","University Heights-Morris Heights",2014-07-01 15:00:00,2
+"3448","University Heights-Morris Heights",2014-07-01 16:00:00,2
+"3449","University Heights-Morris Heights",2014-07-01 17:00:00,2
+"3450","University Heights-Morris Heights",2014-07-01 18:00:00,2
+"3451","University Heights-Morris Heights",2014-07-01 19:00:00,2
+"3452","University Heights-Morris Heights",2014-07-01 20:00:00,2
+"3453","University Heights-Morris Heights",2014-07-01 21:00:00,2
+"3454","University Heights-Morris Heights",2014-07-01 22:00:00,2
+"3455","University Heights-Morris Heights",2014-07-01 23:00:00,2
+"3456","University Heights-Morris Heights",2014-07-01 02:00:00,2
+"3457","Upper East Side-Carnegie Hill",2014-07-01 00:00:00,9
+"3458","Upper East Side-Carnegie Hill",2014-07-01 01:00:00,6
+"3459","Upper East Side-Carnegie Hill",2014-07-01 03:00:00,2
+"3460","Upper East Side-Carnegie Hill",2014-07-01 04:00:00,9
+"3461","Upper East Side-Carnegie Hill",2014-07-01 05:00:00,8
+"3462","Upper East Side-Carnegie Hill",2014-07-01 06:00:00,6
+"3463","Upper East Side-Carnegie Hill",2014-07-01 07:00:00,28
+"3464","Upper East Side-Carnegie Hill",2014-07-01 08:00:00,75
+"3465","Upper East Side-Carnegie Hill",2014-07-01 09:00:00,65
+"3466","Upper East Side-Carnegie Hill",2014-07-01 10:00:00,48
+"3467","Upper East Side-Carnegie Hill",2014-07-01 11:00:00,31
+"3468","Upper East Side-Carnegie Hill",2014-07-01 12:00:00,42
+"3469","Upper East Side-Carnegie Hill",2014-07-01 13:00:00,45
+"3470","Upper East Side-Carnegie Hill",2014-07-01 14:00:00,44
+"3471","Upper East Side-Carnegie Hill",2014-07-01 15:00:00,50
+"3472","Upper East Side-Carnegie Hill",2014-07-01 16:00:00,68
+"3473","Upper East Side-Carnegie Hill",2014-07-01 17:00:00,59
+"3474","Upper East Side-Carnegie Hill",2014-07-01 18:00:00,58
+"3475","Upper East Side-Carnegie Hill",2014-07-01 19:00:00,43
+"3476","Upper East Side-Carnegie Hill",2014-07-01 20:00:00,41
+"3477","Upper East Side-Carnegie Hill",2014-07-01 21:00:00,33
+"3478","Upper East Side-Carnegie Hill",2014-07-01 22:00:00,32
+"3479","Upper East Side-Carnegie Hill",2014-07-01 23:00:00,17
+"3480","Upper East Side-Carnegie Hill",2014-07-01 02:00:00,2
+"3481","Upper West Side",2014-07-01 00:00:00,6
+"3482","Upper West Side",2014-07-01 01:00:00,13
+"3483","Upper West Side",2014-07-01 03:00:00,13
+"3484","Upper West Side",2014-07-01 04:00:00,13
+"3485","Upper West Side",2014-07-01 05:00:00,15
+"3486","Upper West Side",2014-07-01 06:00:00,26
+"3487","Upper West Side",2014-07-01 07:00:00,53
+"3488","Upper West Side",2014-07-01 08:00:00,68
+"3489","Upper West Side",2014-07-01 09:00:00,50
+"3490","Upper West Side",2014-07-01 10:00:00,19
+"3491","Upper West Side",2014-07-01 11:00:00,10
+"3492","Upper West Side",2014-07-01 12:00:00,21
+"3493","Upper West Side",2014-07-01 13:00:00,20
+"3494","Upper West Side",2014-07-01 14:00:00,23
+"3495","Upper West Side",2014-07-01 15:00:00,24
+"3496","Upper West Side",2014-07-01 16:00:00,31
+"3497","Upper West Side",2014-07-01 17:00:00,13
+"3498","Upper West Side",2014-07-01 18:00:00,24
+"3499","Upper West Side",2014-07-01 19:00:00,29
+"3500","Upper West Side",2014-07-01 20:00:00,16
+"3501","Upper West Side",2014-07-01 21:00:00,16
+"3502","Upper West Side",2014-07-01 22:00:00,21
+"3503","Upper West Side",2014-07-01 23:00:00,20
+"3504","Upper West Side",2014-07-01 02:00:00,13
+"3505","Van Cortlandt Village",2014-07-01 00:00:00,2
+"3506","Van Cortlandt Village",2014-07-01 01:00:00,2
+"3507","Van Cortlandt Village",2014-07-01 03:00:00,2
+"3508","Van Cortlandt Village",2014-07-01 04:00:00,2
+"3509","Van Cortlandt Village",2014-07-01 05:00:00,2
+"3510","Van Cortlandt Village",2014-07-01 06:00:00,2
+"3511","Van Cortlandt Village",2014-07-01 07:00:00,2
+"3512","Van Cortlandt Village",2014-07-01 08:00:00,2
+"3513","Van Cortlandt Village",2014-07-01 09:00:00,2
+"3514","Van Cortlandt Village",2014-07-01 10:00:00,2
+"3515","Van Cortlandt Village",2014-07-01 11:00:00,2
+"3516","Van Cortlandt Village",2014-07-01 12:00:00,2
+"3517","Van Cortlandt Village",2014-07-01 13:00:00,2
+"3518","Van Cortlandt Village",2014-07-01 14:00:00,2
+"3519","Van Cortlandt Village",2014-07-01 15:00:00,2
+"3520","Van Cortlandt Village",2014-07-01 16:00:00,2
+"3521","Van Cortlandt Village",2014-07-01 17:00:00,2
+"3522","Van Cortlandt Village",2014-07-01 18:00:00,2
+"3523","Van Cortlandt Village",2014-07-01 19:00:00,2
+"3524","Van Cortlandt Village",2014-07-01 20:00:00,2
+"3525","Van Cortlandt Village",2014-07-01 21:00:00,2
+"3526","Van Cortlandt Village",2014-07-01 22:00:00,2
+"3527","Van Cortlandt Village",2014-07-01 23:00:00,2
+"3528","Van Cortlandt Village",2014-07-01 02:00:00,2
+"3529","Van Nest-Morris Park-Westchester Square",2014-07-01 00:00:00,2
+"3530","Van Nest-Morris Park-Westchester Square",2014-07-01 01:00:00,2
+"3531","Van Nest-Morris Park-Westchester Square",2014-07-01 03:00:00,2
+"3532","Van Nest-Morris Park-Westchester Square",2014-07-01 04:00:00,2
+"3533","Van Nest-Morris Park-Westchester Square",2014-07-01 05:00:00,2
+"3534","Van Nest-Morris Park-Westchester Square",2014-07-01 06:00:00,2
+"3535","Van Nest-Morris Park-Westchester Square",2014-07-01 07:00:00,2
+"3536","Van Nest-Morris Park-Westchester Square",2014-07-01 08:00:00,2
+"3537","Van Nest-Morris Park-Westchester Square",2014-07-01 09:00:00,2
+"3538","Van Nest-Morris Park-Westchester Square",2014-07-01 10:00:00,2
+"3539","Van Nest-Morris Park-Westchester Square",2014-07-01 11:00:00,2
+"3540","Van Nest-Morris Park-Westchester Square",2014-07-01 12:00:00,2
+"3541","Van Nest-Morris Park-Westchester Square",2014-07-01 13:00:00,2
+"3542","Van Nest-Morris Park-Westchester Square",2014-07-01 14:00:00,2
+"3543","Van Nest-Morris Park-Westchester Square",2014-07-01 15:00:00,2
+"3544","Van Nest-Morris Park-Westchester Square",2014-07-01 16:00:00,2
+"3545","Van Nest-Morris Park-Westchester Square",2014-07-01 17:00:00,2
+"3546","Van Nest-Morris Park-Westchester Square",2014-07-01 18:00:00,2
+"3547","Van Nest-Morris Park-Westchester Square",2014-07-01 19:00:00,2
+"3548","Van Nest-Morris Park-Westchester Square",2014-07-01 20:00:00,2
+"3549","Van Nest-Morris Park-Westchester Square",2014-07-01 21:00:00,2
+"3550","Van Nest-Morris Park-Westchester Square",2014-07-01 22:00:00,2
+"3551","Van Nest-Morris Park-Westchester Square",2014-07-01 23:00:00,2
+"3552","Van Nest-Morris Park-Westchester Square",2014-07-01 02:00:00,2
+"3553","Washington Heights North",2014-07-01 00:00:00,3
+"3554","Washington Heights North",2014-07-01 01:00:00,3
+"3555","Washington Heights North",2014-07-01 03:00:00,3
+"3556","Washington Heights North",2014-07-01 04:00:00,3
+"3557","Washington Heights North",2014-07-01 05:00:00,3
+"3558","Washington Heights North",2014-07-01 06:00:00,3
+"3559","Washington Heights North",2014-07-01 07:00:00,3
+"3560","Washington Heights North",2014-07-01 08:00:00,3
+"3561","Washington Heights North",2014-07-01 09:00:00,3
+"3562","Washington Heights North",2014-07-01 10:00:00,3
+"3563","Washington Heights North",2014-07-01 11:00:00,3
+"3564","Washington Heights North",2014-07-01 12:00:00,3
+"3565","Washington Heights North",2014-07-01 13:00:00,3
+"3566","Washington Heights North",2014-07-01 14:00:00,3
+"3567","Washington Heights North",2014-07-01 15:00:00,3
+"3568","Washington Heights North",2014-07-01 16:00:00,3
+"3569","Washington Heights North",2014-07-01 17:00:00,3
+"3570","Washington Heights North",2014-07-01 18:00:00,3
+"3571","Washington Heights North",2014-07-01 19:00:00,3
+"3572","Washington Heights North",2014-07-01 20:00:00,3
+"3573","Washington Heights North",2014-07-01 21:00:00,3
+"3574","Washington Heights North",2014-07-01 22:00:00,3
+"3575","Washington Heights North",2014-07-01 23:00:00,3
+"3576","Washington Heights North",2014-07-01 02:00:00,3
+"3577","Washington Heights South",2014-07-01 00:00:00,3
+"3578","Washington Heights South",2014-07-01 01:00:00,3
+"3579","Washington Heights South",2014-07-01 03:00:00,3
+"3580","Washington Heights South",2014-07-01 04:00:00,3
+"3581","Washington Heights South",2014-07-01 05:00:00,3
+"3582","Washington Heights South",2014-07-01 06:00:00,3
+"3583","Washington Heights South",2014-07-01 07:00:00,3
+"3584","Washington Heights South",2014-07-01 08:00:00,3
+"3585","Washington Heights South",2014-07-01 09:00:00,3
+"3586","Washington Heights South",2014-07-01 10:00:00,3
+"3587","Washington Heights South",2014-07-01 11:00:00,3
+"3588","Washington Heights South",2014-07-01 12:00:00,3
+"3589","Washington Heights South",2014-07-01 13:00:00,3
+"3590","Washington Heights South",2014-07-01 14:00:00,3
+"3591","Washington Heights South",2014-07-01 15:00:00,3
+"3592","Washington Heights South",2014-07-01 16:00:00,3
+"3593","Washington Heights South",2014-07-01 17:00:00,3
+"3594","Washington Heights South",2014-07-01 18:00:00,3
+"3595","Washington Heights South",2014-07-01 19:00:00,3
+"3596","Washington Heights South",2014-07-01 20:00:00,3
+"3597","Washington Heights South",2014-07-01 21:00:00,3
+"3598","Washington Heights South",2014-07-01 22:00:00,3
+"3599","Washington Heights South",2014-07-01 23:00:00,3
+"3600","Washington Heights South",2014-07-01 02:00:00,3
+"3601","West Brighton",2014-07-01 00:00:00,2
+"3602","West Brighton",2014-07-01 01:00:00,2
+"3603","West Brighton",2014-07-01 03:00:00,2
+"3604","West Brighton",2014-07-01 04:00:00,2
+"3605","West Brighton",2014-07-01 05:00:00,2
+"3606","West Brighton",2014-07-01 06:00:00,2
+"3607","West Brighton",2014-07-01 07:00:00,2
+"3608","West Brighton",2014-07-01 08:00:00,2
+"3609","West Brighton",2014-07-01 09:00:00,2
+"3610","West Brighton",2014-07-01 10:00:00,2
+"3611","West Brighton",2014-07-01 11:00:00,2
+"3612","West Brighton",2014-07-01 12:00:00,2
+"3613","West Brighton",2014-07-01 13:00:00,2
+"3614","West Brighton",2014-07-01 14:00:00,2
+"3615","West Brighton",2014-07-01 15:00:00,2
+"3616","West Brighton",2014-07-01 16:00:00,2
+"3617","West Brighton",2014-07-01 17:00:00,2
+"3618","West Brighton",2014-07-01 18:00:00,2
+"3619","West Brighton",2014-07-01 19:00:00,2
+"3620","West Brighton",2014-07-01 20:00:00,2
+"3621","West Brighton",2014-07-01 21:00:00,2
+"3622","West Brighton",2014-07-01 22:00:00,2
+"3623","West Brighton",2014-07-01 23:00:00,2
+"3624","West Brighton",2014-07-01 02:00:00,2
+"3625","West Concourse",2014-07-01 00:00:00,6
+"3626","West Concourse",2014-07-01 01:00:00,6
+"3627","West Concourse",2014-07-01 03:00:00,6
+"3628","West Concourse",2014-07-01 04:00:00,6
+"3629","West Concourse",2014-07-01 05:00:00,6
+"3630","West Concourse",2014-07-01 06:00:00,6
+"3631","West Concourse",2014-07-01 07:00:00,6
+"3632","West Concourse",2014-07-01 08:00:00,6
+"3633","West Concourse",2014-07-01 09:00:00,6
+"3634","West Concourse",2014-07-01 10:00:00,6
+"3635","West Concourse",2014-07-01 11:00:00,6
+"3636","West Concourse",2014-07-01 12:00:00,6
+"3637","West Concourse",2014-07-01 13:00:00,6
+"3638","West Concourse",2014-07-01 14:00:00,6
+"3639","West Concourse",2014-07-01 15:00:00,6
+"3640","West Concourse",2014-07-01 16:00:00,6
+"3641","West Concourse",2014-07-01 17:00:00,6
+"3642","West Concourse",2014-07-01 18:00:00,6
+"3643","West Concourse",2014-07-01 19:00:00,6
+"3644","West Concourse",2014-07-01 20:00:00,7
+"3645","West Concourse",2014-07-01 21:00:00,11
+"3646","West Concourse",2014-07-01 22:00:00,26
+"3647","West Concourse",2014-07-01 23:00:00,8
+"3648","West Concourse",2014-07-01 02:00:00,6
+"3649","West Village",2014-07-01 00:00:00,47
+"3650","West Village",2014-07-01 01:00:00,21
+"3651","West Village",2014-07-01 03:00:00,21
+"3652","West Village",2014-07-01 04:00:00,22
+"3653","West Village",2014-07-01 05:00:00,47
+"3654","West Village",2014-07-01 06:00:00,46
+"3655","West Village",2014-07-01 07:00:00,96
+"3656","West Village",2014-07-01 08:00:00,116
+"3657","West Village",2014-07-01 09:00:00,70
+"3658","West Village",2014-07-01 10:00:00,52
+"3659","West Village",2014-07-01 11:00:00,69
+"3660","West Village",2014-07-01 12:00:00,47
+"3661","West Village",2014-07-01 13:00:00,58
+"3662","West Village",2014-07-01 14:00:00,96
+"3663","West Village",2014-07-01 15:00:00,109
+"3664","West Village",2014-07-01 16:00:00,71
+"3665","West Village",2014-07-01 17:00:00,64
+"3666","West Village",2014-07-01 18:00:00,155
+"3667","West Village",2014-07-01 19:00:00,80
+"3668","West Village",2014-07-01 20:00:00,90
+"3669","West Village",2014-07-01 21:00:00,142
+"3670","West Village",2014-07-01 22:00:00,126
+"3671","West Village",2014-07-01 23:00:00,60
+"3672","West Village",2014-07-01 02:00:00,21
+"3673","Westchester-Unionport",2014-07-01 00:00:00,2
+"3674","Westchester-Unionport",2014-07-01 01:00:00,2
+"3675","Westchester-Unionport",2014-07-01 03:00:00,2
+"3676","Westchester-Unionport",2014-07-01 04:00:00,2
+"3677","Westchester-Unionport",2014-07-01 05:00:00,2
+"3678","Westchester-Unionport",2014-07-01 06:00:00,2
+"3679","Westchester-Unionport",2014-07-01 07:00:00,2
+"3680","Westchester-Unionport",2014-07-01 08:00:00,2
+"3681","Westchester-Unionport",2014-07-01 09:00:00,2
+"3682","Westchester-Unionport",2014-07-01 10:00:00,2
+"3683","Westchester-Unionport",2014-07-01 11:00:00,2
+"3684","Westchester-Unionport",2014-07-01 12:00:00,2
+"3685","Westchester-Unionport",2014-07-01 13:00:00,2
+"3686","Westchester-Unionport",2014-07-01 14:00:00,2
+"3687","Westchester-Unionport",2014-07-01 15:00:00,2
+"3688","Westchester-Unionport",2014-07-01 16:00:00,2
+"3689","Westchester-Unionport",2014-07-01 17:00:00,2
+"3690","Westchester-Unionport",2014-07-01 18:00:00,2
+"3691","Westchester-Unionport",2014-07-01 19:00:00,2
+"3692","Westchester-Unionport",2014-07-01 20:00:00,2
+"3693","Westchester-Unionport",2014-07-01 21:00:00,2
+"3694","Westchester-Unionport",2014-07-01 22:00:00,2
+"3695","Westchester-Unionport",2014-07-01 23:00:00,2
+"3696","Westchester-Unionport",2014-07-01 02:00:00,2
+"3697","Whitestone",2014-07-01 00:00:00,2
+"3698","Whitestone",2014-07-01 01:00:00,2
+"3699","Whitestone",2014-07-01 03:00:00,2
+"3700","Whitestone",2014-07-01 04:00:00,2
+"3701","Whitestone",2014-07-01 05:00:00,2
+"3702","Whitestone",2014-07-01 06:00:00,2
+"3703","Whitestone",2014-07-01 07:00:00,2
+"3704","Whitestone",2014-07-01 08:00:00,2
+"3705","Whitestone",2014-07-01 09:00:00,2
+"3706","Whitestone",2014-07-01 10:00:00,2
+"3707","Whitestone",2014-07-01 11:00:00,2
+"3708","Whitestone",2014-07-01 12:00:00,2
+"3709","Whitestone",2014-07-01 13:00:00,2
+"3710","Whitestone",2014-07-01 14:00:00,2
+"3711","Whitestone",2014-07-01 15:00:00,2
+"3712","Whitestone",2014-07-01 16:00:00,2
+"3713","Whitestone",2014-07-01 17:00:00,2
+"3714","Whitestone",2014-07-01 18:00:00,2
+"3715","Whitestone",2014-07-01 19:00:00,2
+"3716","Whitestone",2014-07-01 20:00:00,2
+"3717","Whitestone",2014-07-01 21:00:00,2
+"3718","Whitestone",2014-07-01 22:00:00,2
+"3719","Whitestone",2014-07-01 23:00:00,2
+"3720","Whitestone",2014-07-01 02:00:00,2
+"3721","Williamsbridge-Olinville",2014-07-01 00:00:00,2
+"3722","Williamsbridge-Olinville",2014-07-01 01:00:00,2
+"3723","Williamsbridge-Olinville",2014-07-01 03:00:00,2
+"3724","Williamsbridge-Olinville",2014-07-01 04:00:00,2
+"3725","Williamsbridge-Olinville",2014-07-01 05:00:00,2
+"3726","Williamsbridge-Olinville",2014-07-01 06:00:00,2
+"3727","Williamsbridge-Olinville",2014-07-01 07:00:00,2
+"3728","Williamsbridge-Olinville",2014-07-01 08:00:00,2
+"3729","Williamsbridge-Olinville",2014-07-01 09:00:00,2
+"3730","Williamsbridge-Olinville",2014-07-01 10:00:00,2
+"3731","Williamsbridge-Olinville",2014-07-01 11:00:00,2
+"3732","Williamsbridge-Olinville",2014-07-01 12:00:00,2
+"3733","Williamsbridge-Olinville",2014-07-01 13:00:00,2
+"3734","Williamsbridge-Olinville",2014-07-01 14:00:00,2
+"3735","Williamsbridge-Olinville",2014-07-01 15:00:00,2
+"3736","Williamsbridge-Olinville",2014-07-01 16:00:00,2
+"3737","Williamsbridge-Olinville",2014-07-01 17:00:00,2
+"3738","Williamsbridge-Olinville",2014-07-01 18:00:00,2
+"3739","Williamsbridge-Olinville",2014-07-01 19:00:00,2
+"3740","Williamsbridge-Olinville",2014-07-01 20:00:00,2
+"3741","Williamsbridge-Olinville",2014-07-01 21:00:00,2
+"3742","Williamsbridge-Olinville",2014-07-01 22:00:00,2
+"3743","Williamsbridge-Olinville",2014-07-01 23:00:00,2
+"3744","Williamsbridge-Olinville",2014-07-01 02:00:00,2
+"3745","Williamsburg",2014-07-01 00:00:00,2
+"3746","Williamsburg",2014-07-01 01:00:00,2
+"3747","Williamsburg",2014-07-01 03:00:00,2
+"3748","Williamsburg",2014-07-01 04:00:00,2
+"3749","Williamsburg",2014-07-01 05:00:00,2
+"3750","Williamsburg",2014-07-01 06:00:00,2
+"3751","Williamsburg",2014-07-01 07:00:00,2
+"3752","Williamsburg",2014-07-01 08:00:00,2
+"3753","Williamsburg",2014-07-01 09:00:00,2
+"3754","Williamsburg",2014-07-01 10:00:00,2
+"3755","Williamsburg",2014-07-01 11:00:00,2
+"3756","Williamsburg",2014-07-01 12:00:00,2
+"3757","Williamsburg",2014-07-01 13:00:00,2
+"3758","Williamsburg",2014-07-01 14:00:00,2
+"3759","Williamsburg",2014-07-01 15:00:00,2
+"3760","Williamsburg",2014-07-01 16:00:00,2
+"3761","Williamsburg",2014-07-01 17:00:00,2
+"3762","Williamsburg",2014-07-01 18:00:00,2
+"3763","Williamsburg",2014-07-01 19:00:00,2
+"3764","Williamsburg",2014-07-01 20:00:00,2
+"3765","Williamsburg",2014-07-01 21:00:00,2
+"3766","Williamsburg",2014-07-01 22:00:00,2
+"3767","Williamsburg",2014-07-01 23:00:00,2
+"3768","Williamsburg",2014-07-01 02:00:00,2
+"3769","Windsor Terrace",2014-07-01 00:00:00,3
+"3770","Windsor Terrace",2014-07-01 01:00:00,3
+"3771","Windsor Terrace",2014-07-01 03:00:00,3
+"3772","Windsor Terrace",2014-07-01 04:00:00,3
+"3773","Windsor Terrace",2014-07-01 05:00:00,3
+"3774","Windsor Terrace",2014-07-01 06:00:00,3
+"3775","Windsor Terrace",2014-07-01 07:00:00,3
+"3776","Windsor Terrace",2014-07-01 08:00:00,3
+"3777","Windsor Terrace",2014-07-01 09:00:00,3
+"3778","Windsor Terrace",2014-07-01 10:00:00,3
+"3779","Windsor Terrace",2014-07-01 11:00:00,3
+"3780","Windsor Terrace",2014-07-01 12:00:00,3
+"3781","Windsor Terrace",2014-07-01 13:00:00,3
+"3782","Windsor Terrace",2014-07-01 14:00:00,3
+"3783","Windsor Terrace",2014-07-01 15:00:00,3
+"3784","Windsor Terrace",2014-07-01 16:00:00,3
+"3785","Windsor Terrace",2014-07-01 17:00:00,3
+"3786","Windsor Terrace",2014-07-01 18:00:00,3
+"3787","Windsor Terrace",2014-07-01 19:00:00,3
+"3788","Windsor Terrace",2014-07-01 20:00:00,3
+"3789","Windsor Terrace",2014-07-01 21:00:00,3
+"3790","Windsor Terrace",2014-07-01 22:00:00,3
+"3791","Windsor Terrace",2014-07-01 23:00:00,3
+"3792","Windsor Terrace",2014-07-01 02:00:00,3
+"3793","Woodhaven",2014-07-01 00:00:00,2
+"3794","Woodhaven",2014-07-01 01:00:00,2
+"3795","Woodhaven",2014-07-01 03:00:00,2
+"3796","Woodhaven",2014-07-01 04:00:00,2
+"3797","Woodhaven",2014-07-01 05:00:00,2
+"3798","Woodhaven",2014-07-01 06:00:00,2
+"3799","Woodhaven",2014-07-01 07:00:00,2
+"3800","Woodhaven",2014-07-01 08:00:00,2
+"3801","Woodhaven",2014-07-01 09:00:00,2
+"3802","Woodhaven",2014-07-01 10:00:00,2
+"3803","Woodhaven",2014-07-01 11:00:00,2
+"3804","Woodhaven",2014-07-01 12:00:00,2
+"3805","Woodhaven",2014-07-01 13:00:00,2
+"3806","Woodhaven",2014-07-01 14:00:00,2
+"3807","Woodhaven",2014-07-01 15:00:00,2
+"3808","Woodhaven",2014-07-01 16:00:00,2
+"3809","Woodhaven",2014-07-01 17:00:00,2
+"3810","Woodhaven",2014-07-01 18:00:00,2
+"3811","Woodhaven",2014-07-01 19:00:00,2
+"3812","Woodhaven",2014-07-01 20:00:00,2
+"3813","Woodhaven",2014-07-01 21:00:00,2
+"3814","Woodhaven",2014-07-01 22:00:00,2
+"3815","Woodhaven",2014-07-01 23:00:00,2
+"3816","Woodhaven",2014-07-01 02:00:00,2
+"3817","Woodlawn-Wakefield",2014-07-01 00:00:00,2
+"3818","Woodlawn-Wakefield",2014-07-01 01:00:00,2
+"3819","Woodlawn-Wakefield",2014-07-01 03:00:00,2
+"3820","Woodlawn-Wakefield",2014-07-01 04:00:00,2
+"3821","Woodlawn-Wakefield",2014-07-01 05:00:00,2
+"3822","Woodlawn-Wakefield",2014-07-01 06:00:00,2
+"3823","Woodlawn-Wakefield",2014-07-01 07:00:00,2
+"3824","Woodlawn-Wakefield",2014-07-01 08:00:00,2
+"3825","Woodlawn-Wakefield",2014-07-01 09:00:00,2
+"3826","Woodlawn-Wakefield",2014-07-01 10:00:00,2
+"3827","Woodlawn-Wakefield",2014-07-01 11:00:00,2
+"3828","Woodlawn-Wakefield",2014-07-01 12:00:00,2
+"3829","Woodlawn-Wakefield",2014-07-01 13:00:00,2
+"3830","Woodlawn-Wakefield",2014-07-01 14:00:00,2
+"3831","Woodlawn-Wakefield",2014-07-01 15:00:00,2
+"3832","Woodlawn-Wakefield",2014-07-01 16:00:00,2
+"3833","Woodlawn-Wakefield",2014-07-01 17:00:00,2
+"3834","Woodlawn-Wakefield",2014-07-01 18:00:00,2
+"3835","Woodlawn-Wakefield",2014-07-01 19:00:00,2
+"3836","Woodlawn-Wakefield",2014-07-01 20:00:00,2
+"3837","Woodlawn-Wakefield",2014-07-01 21:00:00,2
+"3838","Woodlawn-Wakefield",2014-07-01 22:00:00,2
+"3839","Woodlawn-Wakefield",2014-07-01 23:00:00,2
+"3840","Woodlawn-Wakefield",2014-07-01 02:00:00,2
+"3841","Woodside",2014-07-01 00:00:00,2
+"3842","Woodside",2014-07-01 01:00:00,2
+"3843","Woodside",2014-07-01 03:00:00,2
+"3844","Woodside",2014-07-01 04:00:00,2
+"3845","Woodside",2014-07-01 05:00:00,2
+"3846","Woodside",2014-07-01 06:00:00,2
+"3847","Woodside",2014-07-01 07:00:00,2
+"3848","Woodside",2014-07-01 08:00:00,2
+"3849","Woodside",2014-07-01 09:00:00,2
+"3850","Woodside",2014-07-01 10:00:00,2
+"3851","Woodside",2014-07-01 11:00:00,2
+"3852","Woodside",2014-07-01 12:00:00,2
+"3853","Woodside",2014-07-01 13:00:00,2
+"3854","Woodside",2014-07-01 14:00:00,2
+"3855","Woodside",2014-07-01 15:00:00,2
+"3856","Woodside",2014-07-01 16:00:00,2
+"3857","Woodside",2014-07-01 17:00:00,2
+"3858","Woodside",2014-07-01 18:00:00,2
+"3859","Woodside",2014-07-01 19:00:00,2
+"3860","Woodside",2014-07-01 20:00:00,2
+"3861","Woodside",2014-07-01 21:00:00,2
+"3862","Woodside",2014-07-01 22:00:00,2
+"3863","Woodside",2014-07-01 23:00:00,2
+"3864","Woodside",2014-07-01 02:00:00,2
+"3865","Yorkville",2014-07-01 00:00:00,13
+"3866","Yorkville",2014-07-01 01:00:00,7
+"3867","Yorkville",2014-07-01 03:00:00,7
+"3868","Yorkville",2014-07-01 04:00:00,9
+"3869","Yorkville",2014-07-01 05:00:00,11
+"3870","Yorkville",2014-07-01 06:00:00,13
+"3871","Yorkville",2014-07-01 07:00:00,28
+"3872","Yorkville",2014-07-01 08:00:00,57
+"3873","Yorkville",2014-07-01 09:00:00,34
+"3874","Yorkville",2014-07-01 10:00:00,9
+"3875","Yorkville",2014-07-01 11:00:00,9
+"3876","Yorkville",2014-07-01 12:00:00,18
+"3877","Yorkville",2014-07-01 13:00:00,10
+"3878","Yorkville",2014-07-01 14:00:00,14
+"3879","Yorkville",2014-07-01 15:00:00,8
+"3880","Yorkville",2014-07-01 16:00:00,16
+"3881","Yorkville",2014-07-01 17:00:00,13
+"3882","Yorkville",2014-07-01 18:00:00,17
+"3883","Yorkville",2014-07-01 19:00:00,26
+"3884","Yorkville",2014-07-01 20:00:00,9
+"3885","Yorkville",2014-07-01 21:00:00,10
+"3886","Yorkville",2014-07-01 22:00:00,8
+"3887","Yorkville",2014-07-01 23:00:00,10
+"3888","Yorkville",2014-07-01 02:00:00,7

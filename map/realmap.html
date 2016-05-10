@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Time Slider | CartoDB.js</title>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <link rel="shortcut icon" href="http://cartodb.com/assets/favicon.ico" />
+    <style>
+      html, body, #map {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+      #slider {
+        position: absolute;
+        bottom: 40px;
+        right: 40px;
+        left:40px;
+      }
+
+      #legend {
+        font-family: serif;
+        font-size: 20px;
+        position: absolute;
+        bottom: 80px;
+        left: 40px;
+      }
+    </style>
+    <link rel="stylesheet" href="http://libs.cartocdn.com/cartodb.js/v3/3.15/themes/css/cartodb.css" />
+    <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+  </head>
+  <body>
+    <div id="map"></div>
+    <div id="slider"></div>
+    <div id="legend"></div>
+
+
+    <!-- include cartodb.js library -->
+    <script src="http://libs.cartocdn.com/cartodb.js/v3/3.15/cartodb.js"></script>
+    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+
+    <script>
+      function format(misec) {
+          var query_date = new Date(misec);
+          var display;
+          if (query_date.getDate() >= 10) {
+              display  = String(query_date.getFullYear()+'-'+'0'+query_date.getMonth()+'-'+query_date.getDate() + ' ' + query_date.getHours() + ":00:00");
+          }
+          else {
+              display =  String(query_date.getFullYear()+'-'+'0'+query_date.getMonth()+'-'+'0'+query_date.getDate()+ ' ' + query_date.getHours() + ":00:00");
+          }
+          return display;
+      }
+      function changeLegend(end) {
+          var time = format(end);
+          $('#legend').html(time);
+
+      }
+      function addTimeSlider(sublayer) {
+        var sqlcommand = "select * from real_jul where date_time = "
+         var sql = cartodb.SQL({ user: 'shoonth' , api_key: '01f23e8be248befea3d8245f85af84afce15f5c5'})
+         // fetch time range
+         sql.execute(sqlcommand + "'" + '2014-07-01 00:00:00' + "'", function(data) {
+           var range = data.rows[0];
+           var max = new Date("Aug 1 2014 23:59:59").getTime();
+           var min = new Date("Aug 1 2014 00:00:00").getTime();
+           // update slider with range
+           $("#slider").slider({
+              min: min,
+              max: max,
+              value: min,
+              slide: function(event, ui) {
+                // give feedback to the user on slide change
+                changeLegend(ui.value);
+              },
+              stop: function( event, ui ) {
+                // when user selects the dates, update the layer with the range
+                var query_date = format(ui.value);
+                // build sql
+                sublayer.setSQL(sqlcommand + " '" + query_date + "'");
+              }
+            });
+            changeLegend(min);
+
+         });
+            $(document).ready(function(){
+            $("#txt_name").keyup(function(){
+            alert($(this).val());
+      });
+})
+
+      }
+
+      function main() {
+
+        var map = new L.Map('map', {
+          zoomControl: false,
+          center: [40.7128, -74.0059],
+          zoom: 11
+        });
+
+        L.tileLayer('http://{s}.api.cartocdn.com/base-light/{z}/{x}/{y}.png', {
+          attribution: 'CartoDB · OSM data'
+        }).addTo(map);
+
+        cartodb.createLayer(map, 'https://shoonth.cartodb.com/api/v2/viz/fcf35b66-0aab-11e6-8f78-0e31c9be1b51/viz.json', { legends: false })
+         .addTo(map)
+         .on('done', function(layer) {
+           // add time slider on change
+           addTimeSlider(layer.getSubLayer(0));
+        }).on('error', function() {
+          cartodb.log.log("some error occurred");
+        });
+      }
+
+      // you could use $(window).load(main);
+      window.onload = main;
+    </script>
+  </body>
+</html>
